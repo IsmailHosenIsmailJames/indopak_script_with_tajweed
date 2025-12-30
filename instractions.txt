@@ -9,3 +9,8 @@ apply same as qpc_hafs_tajweed. We need to make it fit them properly.
 for reference we have tajweed rules markdown file.
 
 we will touch parts by parts and make it fit them properly.
+
+Note: Those character does't exits in indopak_script,
+you will ignore them. because they are features of that script.
+you will not add any extra character of arabic to match with qpc_hafs_tajweed.
+you just have to fit tajweed rules where it is needed. 
