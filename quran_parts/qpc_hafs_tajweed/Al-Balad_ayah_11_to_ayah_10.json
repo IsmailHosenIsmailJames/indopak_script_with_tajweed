@@ -1,0 +1,97 @@
+{
+    "90": {
+        "11": [
+            [
+                "فَلَا",
+                "<rule class=ham_wasl>ٱ</rule><rule class=qalaqah>قۡ</rule>تَحَمَ",
+                "<rule class=ham_wasl>ٱ</rule>لۡعَقَبَةَ",
+                "١١"
+            ]
+        ],
+        "12": [
+            [
+                "وَم<rule class=madda_obligatory_monfasel>َآ</rule>",
+                "أَ<rule class=qalaqah>دۡ</rule>رَ<rule class=madda_normal>ٮٰ</rule>كَ",
+                "مَا",
+                "<rule class=ham_wasl>ٱ</rule>لۡعَقَبَةُ",
+                "١٢"
+            ]
+        ],
+        "13": [
+            [
+                "فَكُّ",
+                "رَقَبَةٍ",
+                "١٣"
+            ]
+        ],
+        "14": [
+            [
+                "أَوۡ",
+                "إِ<rule class=qalaqah>طۡ</rule>عَ<rule class=madda_normal>ـٰ</rule><rule class=ikhafa>مٌ</rule>",
+                "<rule class=ikhafa>ف</rule>ِى",
+                "يَوۡ<rule class=ikhafa>مٍ</rule>",
+                "<rule class=ikhafa>ذ</rule>ِى",
+                "مَسۡغَبَةٍ",
+                "١٤"
+            ]
+        ],
+        "15": [
+            [
+                "يَتِي<rule class=ikhafa>مًا</rule>",
+                "<rule class=ikhafa>ذ</rule>َا",
+                "مَ<rule class=qalaqah>قۡ</rule>رَبَةٍ",
+                "١٥"
+            ]
+        ],
+        "16": [
+            [
+                "أَوۡ",
+                "مِسۡكِي<rule class=ikhafa>نًا</rule>",
+                "<rule class=ikhafa>ذ</rule>َا",
+                "مَتۡرَبَةٍ",
+                "١٦"
+            ]
+        ],
+        "17": [
+            [
+                "ثُ<rule class=ghunnah>مّ</rule>َ",
+                "كَانَ",
+                "مِنَ",
+                "<rule class=ham_wasl>ٱ</rule>لَّذِينَ",
+                "ءَامَنُو<rule class=slnt>اۡ</rule>",
+                "وَتَوَاصَوۡ<rule class=slnt>اۡ</rule>",
+                "بِ<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>صَّ<rule class=qalaqah>بۡ</rule>رِ",
+                "وَتَوَاصَوۡ<rule class=slnt>اۡ</rule>",
+                "بِ<rule class=ham_wasl>ٱ</rule>لۡمَرۡحَمَةِ",
+                "١٧"
+            ]
+        ],
+        "18": [
+            [
+                "أُ<rule class=slnt>وۡ</rule>لَ<rule class=madda_obligatory_mottasel>ـٰٓ</rule>ئِكَ",
+                "أَصۡحَ<rule class=madda_normal>ـٰ</rule>بُ",
+                "<rule class=ham_wasl>ٱ</rule>لۡمَيۡمَنَةِ",
+                "١٨"
+            ]
+        ],
+        "19": [
+            [
+                "وَ<rule class=ham_wasl>ٱ</rule>لَّذِينَ",
+                "كَفَرُو<rule class=slnt>اۡ</rule>",
+                "بِـَٔـايَ<rule class=madda_normal>ـٰ</rule>تِنَا",
+                "هُمۡ",
+                "أَصۡحَ<rule class=madda_normal>ـٰ</rule>بُ",
+                "<rule class=ham_wasl>ٱ</rule>لۡمَشۡــَٔمَةِ",
+                "١٩"
+            ]
+        ],
+        "20": [
+            [
+                "عَلَيۡهِمۡ",
+                "نَا<rule class=idgham_ghunnah>رٌ</rule>",
+                "<rule class=idgham_ghunnah>م</rule>ُّؤۡصَدَةُۢ",
+                "٢٠"
+            ]
+        ]
+    }
+}

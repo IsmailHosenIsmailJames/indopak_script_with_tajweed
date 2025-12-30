@@ -1,0 +1,84 @@
+{
+    "81": {
+        "1": [
+            [
+                "إِذَا",
+                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>شَّمۡسُ",
+                "كُوِّرَتۡ",
+                "١"
+            ]
+        ],
+        "2": [
+            [
+                "وَإِذَا",
+                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule><rule class=ghunnah>نّ</rule>ُجُومُ",
+                "<rule class=ham_wasl>ٱ</rule><rule class=ikhafa>نك</rule>َدَرَتۡ",
+                "٢"
+            ]
+        ],
+        "3": [
+            [
+                "وَإِذَا",
+                "<rule class=ham_wasl>ٱ</rule>لۡجِبَالُ",
+                "سُيِّرَتۡ",
+                "٣"
+            ]
+        ],
+        "4": [
+            [
+                "وَإِذَا",
+                "<rule class=ham_wasl>ٱ</rule>لۡعِشَارُ",
+                "عُطِّلَتۡ",
+                "٤"
+            ]
+        ],
+        "5": [
+            [
+                "وَإِذَا",
+                "<rule class=ham_wasl>ٱ</rule>لۡوُحُوشُ",
+                "حُشِرَتۡ",
+                "٥"
+            ]
+        ],
+        "6": [
+            [
+                "وَإِذَا",
+                "<rule class=ham_wasl>ٱ</rule>لۡبِحَارُ",
+                "سُجِّرَتۡ",
+                "٦"
+            ]
+        ],
+        "7": [
+            [
+                "وَإِذَا",
+                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule><rule class=ghunnah>نّ</rule>ُفُوسُ",
+                "زُوِّجَتۡ",
+                "٧"
+            ]
+        ],
+        "8": [
+            [
+                "وَإِذَا",
+                "<rule class=ham_wasl>ٱ</rule>لۡمَوۡءُ<rule class=madda_normal>ۥ</rule>دَةُ",
+                "سُئِلَتۡ",
+                "٨"
+            ]
+        ],
+        "9": [
+            [
+                "بِأَىِّ",
+                "ذَ<rule class=iqlab>نۢب</rule><rule class=ikhafa>ٍ</rule>",
+                "<rule class=ikhafa>ق</rule>ُتِلَتۡ",
+                "٩"
+            ]
+        ],
+        "10": [
+            [
+                "وَإِذَا",
+                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>صُّحُفُ",
+                "نُشِرَتۡ",
+                "١٠"
+            ]
+        ]
+    }
+}

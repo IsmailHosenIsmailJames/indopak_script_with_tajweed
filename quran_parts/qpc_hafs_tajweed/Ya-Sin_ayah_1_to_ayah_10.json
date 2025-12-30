@@ -1,0 +1,111 @@
+{
+    "36": {
+        "1": [
+            [
+                "ي<rule class=madda_necessary>سٓ</rule>",
+                "١"
+            ]
+        ],
+        "2": [
+            [
+                "وَ<rule class=ham_wasl>ٱ</rule>لۡقُرۡءَانِ",
+                "<rule class=ham_wasl>ٱ</rule>لۡحَك<rule class=madda_permissible>ِي</rule>مِ",
+                "٢"
+            ]
+        ],
+        "3": [
+            [
+                "إِ<rule class=ghunnah>نّ</rule>َكَ",
+                "لَمِنَ",
+                "<rule class=ham_wasl>ٱ</rule>لۡمُرۡسَل<rule class=madda_permissible>ِي</rule>نَ",
+                "٣"
+            ]
+        ],
+        "4": [
+            [
+                "عَلَىٰ",
+                "صِر<rule class='madda_normal'>ٰ</rule><rule class='idgham_ghunnah'>طٍ</rule>",
+                "<rule class=idgham_ghunnah>م</rule>ُّسۡتَق<rule class=madda_permissible>ِي</rule>مٍ",
+                "٤"
+            ]
+        ],
+        "5": [
+            [
+                "تَ<rule class=ikhafa>نز</rule>ِيلَ",
+                "<rule class=ham_wasl>ٱ</rule>لۡعَزِيزِ",
+                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>رَّح<rule class=madda_permissible>ِي</rule>مِ",
+                "٥"
+            ]
+        ],
+        "6": [
+            [
+                "لِتُ<rule class=ikhafa>نذ</rule>ِرَ",
+                "قَوۡ<rule class=idgham_ghunnah>مًا</rule>",
+                "<rule class=idgham_ghunnah>م</rule>ّ<rule class=madda_obligatory_monfasel>َآ</rule>",
+                "أُ<rule class=ikhafa>نذ</rule>ِرَ",
+                "ءَاب<rule class=madda_obligatory_mottasel>َا</rule>ٓؤُهُمۡ",
+                "فَهُمۡ",
+                "غَ<rule class=madda_normal>ـٰ</rule>فِل<rule class=madda_permissible>ُو</rule>نَ",
+                "٦"
+            ]
+        ],
+        "7": [
+            [
+                "لَقَ<rule class=qalaqah>دۡ</rule>",
+                "حَقَّ",
+                "<rule class=ham_wasl>ٱ</rule>لۡقَوۡلُ",
+                "عَلَ<rule class=madda_obligatory_monfasel>ىٰٓ</rule>",
+                "أَكۡثَرِهِمۡ",
+                "فَهُمۡ",
+                "لَا",
+                "يُؤۡمِن<rule class=madda_permissible>ُو</rule>نَ",
+                "٧"
+            ]
+        ],
+        "8": [
+            [
+                "إِ<rule class=ghunnah>نّ</rule>َا",
+                "جَعَلۡنَا",
+                "ف<rule class=madda_obligatory_monfasel>ِىٓ</rule>",
+                "أَعۡنَ<rule class=madda_normal>ـٰ</rule>قِهِمۡ",
+                "أَغۡلَ<rule class=madda_normal>ـٰ</rule>ل<rule class=ikhafa>اً</rule>",
+                "<rule class=ikhafa>ف</rule>َهِىَ",
+                "إِلَى",
+                "<rule class=ham_wasl>ٱ</rule>لۡأَذۡقَانِ",
+                "فَه<rule class=idgham_shafawi>ُم</rule>",
+                "<rule class=idgham_shafawi>م</rule>ُّ<rule class=qalaqah>قۡ</rule>مَح<rule class=madda_permissible>ُو</rule>نَ",
+                "٨"
+            ]
+        ],
+        "9": [
+            [
+                "وَجَعَلۡنَا",
+                "م<rule class=iqlab>ِنۢ</rule>",
+                "<rule class=iqlab>ب</rule>َيۡنِ",
+                "أَيۡدِيهِمۡ",
+                "سَد<rule class=idgham_ghunnah>ًّا</rule>",
+                "<rule class=idgham_ghunnah>و</rule>َمِنۡ",
+                "خَلۡفِهِمۡ",
+                "سَد<rule class=ikhafa>ًّا</rule>",
+                "<rule class=ikhafa>ف</rule>َأَغۡشَيۡنَ<rule class=madda_normal>ـٰ</rule>هُمۡ",
+                "فَهُمۡ",
+                "لَا",
+                "يُ<rule class=qalaqah>بۡ</rule>صِر<rule class=madda_permissible>ُو</rule>نَ",
+                "٩"
+            ]
+        ],
+        "10": [
+            [
+                "وَسَو<rule class=madda_obligatory_mottasel>َا</rule>ٓءٌ",
+                "عَلَيۡهِمۡ",
+                "ءَأَ<rule class=ikhafa>نذ</rule>َرۡتَهُمۡ",
+                "أَمۡ",
+                "لَمۡ",
+                "تُ<rule class=ikhafa>نذ</rule>ِرۡهُمۡ",
+                "لَا",
+                "يُؤۡمِن<rule class=madda_permissible>ُو</rule>نَ",
+                "١٠"
+            ]
+        ]
+    }
+}

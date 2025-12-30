@@ -1,0 +1,87 @@
+{
+    "75": {
+        "21": [
+            [
+                "وَتَذَرُونَ",
+                "<rule class=ham_wasl>ٱ</rule>لۡأَخِرَةَ",
+                "٢١"
+            ]
+        ],
+        "22": [
+            [
+                "وُجُو<rule class=idgham_ghunnah>هٌ</rule>",
+                "<rule class=idgham_ghunnah>ي</rule>َوۡمَئِ<rule class=idgham_ghunnah>ذٍ</rule>",
+                "<rule class=idgham_ghunnah>ن</rule>َّاضِرَةٌ",
+                "٢٢"
+            ]
+        ],
+        "23": [
+            [
+                "إِلَىٰ",
+                "رَبِّهَا",
+                "نَاظِرَةٌ",
+                "٢٣"
+            ]
+        ],
+        "24": [
+            [
+                "وَوُجُو<rule class=idgham_ghunnah>هٌ</rule>",
+                "<rule class=idgham_ghunnah>ي</rule>َوۡمَئِ<rule class=iqlab>ذِۭ</rule>",
+                "<rule class=iqlab>ب</rule>َاسِرَةٌ",
+                "٢٤"
+            ]
+        ],
+        "25": [
+            [
+                "تَظُ<rule class=ghunnah>نّ</rule>ُ",
+                "أ<rule class=idgham_ghunnah>َن</rule>",
+                "<rule class=idgham_ghunnah>ي</rule>ُفۡعَلَ",
+                "بِهَا",
+                "فَاقِرَةٌ",
+                "٢٥"
+            ]
+        ],
+        "26": [
+            [
+                "كَلّ<rule class=madda_obligatory_monfasel>َآ</rule>",
+                "إِذَا",
+                "بَلَغَتِ",
+                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>تَّرَاقِىَ",
+                "٢٦"
+            ]
+        ],
+        "27": [
+            [
+                "وَقِيلَ",
+                "م<rule class=idgham_wo_ghunnah>َنۡۜ</rule>",
+                "<rule class=idgham_wo_ghunnah>ر</rule><rule class=madda_permissible>َا</rule><rule class=qalaqah>ق</rule>ٍ",
+                "٢٧"
+            ]
+        ],
+        "28": [
+            [
+                "وَظَ<rule class=ghunnah>نّ</rule>َ",
+                "أَ<rule class=ghunnah>نّ</rule>َهُ",
+                "<rule class=ham_wasl>ٱ</rule>لۡفِر<rule class=madda_permissible>َا</rule><rule class=qalaqah>ق</rule>ُ",
+                "٢٨"
+            ]
+        ],
+        "29": [
+            [
+                "وَ<rule class=ham_wasl>ٱ</rule>لۡتَفَّتِ",
+                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>سَّاقُ",
+                "بِ<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>سّ<rule class=madda_permissible>َا</rule><rule class=qalaqah>ق</rule>ِ",
+                "٢٩"
+            ]
+        ],
+        "30": [
+            [
+                "إِلَىٰ",
+                "رَبِّكَ",
+                "يَوۡمَئِذٍ",
+                "<rule class=ham_wasl>ٱ</rule>لۡمَس<rule class=madda_permissible>َا</rule><rule class=qalaqah>ق</rule>ُ",
+                "٣٠"
+            ]
+        ]
+    }
+}

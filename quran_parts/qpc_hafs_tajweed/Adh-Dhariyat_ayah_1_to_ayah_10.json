@@ -1,0 +1,81 @@
+{
+    "51": {
+        "1": [
+            [
+                "وَ<rule class='ham_wasl'>ٱ</rule><rule class='laam_shamsiyah'>ل</rule>ذّ<rule class='madda_normal'>ٰ</rule>رِيَ<rule class='madda_normal'>ـٰ</rule>تِ",
+                "ذَرۡوًا",
+                "١"
+            ]
+        ],
+        "2": [
+            [
+                "فَ<rule class=ham_wasl>ٱ</rule>لۡحَ<rule class=madda_normal>ـٰ</rule>مِلَ<rule class=madda_normal>ـٰ</rule>تِ",
+                "وِ<rule class=qalaqah>قۡ</rule>رًا",
+                "٢"
+            ]
+        ],
+        "3": [
+            [
+                "فَ<rule class=ham_wasl>ٱ</rule>لۡجَ<rule class=madda_normal>ـٰ</rule>رِيَ<rule class=madda_normal>ـٰ</rule>تِ",
+                "يُسۡرًا",
+                "٣"
+            ]
+        ],
+        "4": [
+            [
+                "فَ<rule class=ham_wasl>ٱ</rule>لۡمُقَسِّمَ<rule class=madda_normal>ـٰ</rule>تِ",
+                "أَمۡرًا",
+                "٤"
+            ]
+        ],
+        "5": [
+            [
+                "إِ<rule class=ghunnah>نّ</rule>َمَا",
+                "تُوعَدُونَ",
+                "لَصَادِ<rule class=qalaqah>ق</rule>ٌ",
+                "٥"
+            ]
+        ],
+        "6": [
+            [
+                "وَإِ<rule class=ghunnah>نّ</rule>َ",
+                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>دِّينَ",
+                "لَو<rule class='madda_normal'>ٰ</rule>قِعٌ",
+                "٦"
+            ]
+        ],
+        "7": [
+            [
+                "وَ<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>سَّم<rule class=madda_obligatory_mottasel>َا</rule>ٓءِ",
+                "ذَاتِ",
+                "<rule class=ham_wasl>ٱ</rule>لۡحُبُكِ",
+                "٧"
+            ]
+        ],
+        "8": [
+            [
+                "إِ<rule class=ghunnah>نّ</rule>َكُمۡ",
+                "لَفِى",
+                "قَوۡ<rule class=idgham_ghunnah>لٍ</rule>",
+                "<rule class=idgham_ghunnah>م</rule>ُّخۡتَلِفٍ",
+                "٨"
+            ]
+        ],
+        "9": [
+            [
+                "يُؤۡفَكُ",
+                "عَنۡهُ",
+                "مَنۡ",
+                "أُفِكَ",
+                "٩"
+            ]
+        ],
+        "10": [
+            [
+                "قُتِلَ",
+                "<rule class='ham_wasl'>ٱ</rule>لۡخَرّ<rule class='madda_normal'>ٰ</rule>ص<rule class='madda_permissible'>ُو</rule>نَ",
+                "١٠"
+            ]
+        ]
+    }
+}

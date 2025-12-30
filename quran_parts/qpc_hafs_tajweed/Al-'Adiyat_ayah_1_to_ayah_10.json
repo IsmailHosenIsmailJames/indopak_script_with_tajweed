@@ -1,0 +1,89 @@
+{
+    "100": {
+        "1": [
+            [
+                "وَ<rule class=ham_wasl>ٱ</rule>لۡعَ<rule class=madda_normal>ـٰ</rule>دِيَ<rule class=madda_normal>ـٰ</rule>تِ",
+                "ضَ<rule class=qalaqah>بۡ</rule>حًا",
+                "١"
+            ]
+        ],
+        "2": [
+            [
+                "فَ<rule class=ham_wasl>ٱ</rule>لۡمُورِيَ<rule class=madda_normal>ـٰ</rule>تِ",
+                "قَ<rule class=qalaqah>دۡ</rule>حًا",
+                "٢"
+            ]
+        ],
+        "3": [
+            [
+                "فَ<rule class='ham_wasl'>ٱ</rule>لۡمُغِير<rule class='madda_normal'>ٰ</rule>تِ",
+                "صُ<rule class=qalaqah>بۡ</rule>حًا",
+                "٣"
+            ]
+        ],
+        "4": [
+            [
+                "فَأَثَرۡنَ",
+                "بِه<rule class=madda_normal>ِۦ</rule>",
+                "نَ<rule class=qalaqah>قۡ</rule>عًا",
+                "٤"
+            ]
+        ],
+        "5": [
+            [
+                "فَوَسَ<rule class=qalaqah>طۡ</rule>نَ",
+                "بِه<rule class=madda_normal>ِۦ</rule>",
+                "جَمۡعًا",
+                "٥"
+            ]
+        ],
+        "6": [
+            [
+                "إِ<rule class=ghunnah>نّ</rule>َ",
+                "<rule class=ham_wasl>ٱ</rule>لۡإِ<rule class=ikhafa>نس</rule>َ<rule class=madda_normal>ـٰ</rule>نَ",
+                "لِرَبِّه<rule class=madda_normal>ِۦ</rule>",
+                "لَكَن<rule class=madda_permissible>ُو</rule><rule class=qalaqah>د</rule>ٌ",
+                "٦"
+            ]
+        ],
+        "7": [
+            [
+                "وَإِ<rule class=ghunnah>نّ</rule>َهُ<rule class=madda_normal>ۥ</rule>",
+                "عَلَىٰ",
+                "ذ<rule class='madda_normal'>ٰ</rule>لِكَ",
+                "لَشَه<rule class=madda_permissible>ِي</rule><rule class=qalaqah>د</rule>ٌ",
+                "٧"
+            ]
+        ],
+        "8": [
+            [
+                "وَإِ<rule class=ghunnah>نّ</rule>َهُ<rule class=madda_normal>ۥ</rule>",
+                "لِحُبِّ",
+                "<rule class=ham_wasl>ٱ</rule>لۡخَيۡرِ",
+                "لَشَد<rule class=madda_permissible>ِي</rule><rule class=qalaqah>د</rule>ٌ",
+                "٨"
+            ]
+        ],
+        "9": [
+            [
+                "۞أَفَلَا",
+                "يَعۡلَمُ",
+                "إِذَا",
+                "بُعۡثِرَ",
+                "مَا",
+                "فِى",
+                "<rule class=ham_wasl>ٱ</rule>لۡقُب<rule class=madda_permissible>ُو</rule>رِ",
+                "٩"
+            ]
+        ],
+        "10": [
+            [
+                "وَحُصِّلَ",
+                "مَا",
+                "فِى",
+                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>صُّد<rule class=madda_permissible>ُو</rule>رِ",
+                "١٠"
+            ]
+        ]
+    }
+}

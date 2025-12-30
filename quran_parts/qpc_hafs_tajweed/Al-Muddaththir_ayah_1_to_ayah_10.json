@@ -1,0 +1,81 @@
+{
+    "74": {
+        "1": [
+            [
+                "يَ<rule class=madda_obligatory_mottasel>ـٰٓ</rule>أَيُّهَا",
+                "<rule class=ham_wasl>ٱ</rule>لۡمُدَّثِّرُ",
+                "١"
+            ]
+        ],
+        "2": [
+            [
+                "قُمۡ",
+                "فَأَ<rule class=ikhafa>نذ</rule>ِرۡ",
+                "٢"
+            ]
+        ],
+        "3": [
+            [
+                "وَرَبَّكَ",
+                "فَكَبِّرۡ",
+                "٣"
+            ]
+        ],
+        "4": [
+            [
+                "وَثِيَابَكَ",
+                "فَطَهِّرۡ",
+                "٤"
+            ]
+        ],
+        "5": [
+            [
+                "وَ<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>رُّ<rule class=qalaqah>جۡ</rule>زَ",
+                "فَ<rule class=ham_wasl>ٱ</rule>هۡجُرۡ",
+                "٥"
+            ]
+        ],
+        "6": [
+            [
+                "وَلَا",
+                "تَمۡنُ<rule class=ikhafa>ن</rule>",
+                "<rule class=ikhafa>ت</rule>َسۡتَكۡثِرُ",
+                "٦"
+            ]
+        ],
+        "7": [
+            [
+                "وَلِرَبِّكَ",
+                "فَ<rule class=ham_wasl>ٱ</rule>صۡبِرۡ",
+                "٧"
+            ]
+        ],
+        "8": [
+            [
+                "فَإِذَا",
+                "نُقِرَ",
+                "فِى",
+                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule><rule class=ghunnah>نّ</rule>َاق<rule class=madda_permissible>ُو</rule>رِ",
+                "٨"
+            ]
+        ],
+        "9": [
+            [
+                "فَذ<rule class='madda_normal'>ٰ</rule>لِكَ",
+                "يَوۡمَئِ<rule class=idgham_ghunnah>ذٍ</rule>",
+                "<rule class=idgham_ghunnah>ي</rule>َوۡمٌ",
+                "عَس<rule class=madda_permissible>ِي</rule>رٌ",
+                "٩"
+            ]
+        ],
+        "10": [
+            [
+                "عَلَى",
+                "<rule class=ham_wasl>ٱ</rule>لۡكَ<rule class=madda_normal>ـٰ</rule>فِرِينَ",
+                "غَيۡرُ",
+                "يَس<rule class=madda_permissible>ِي</rule>رٍ",
+                "١٠"
+            ]
+        ]
+    }
+}

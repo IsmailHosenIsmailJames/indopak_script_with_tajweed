@@ -1,0 +1,81 @@
+{
+    "52": {
+        "1": [
+            [
+                "وَ<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>طّ<rule class=madda_permissible>ُو</rule>رِ",
+                "١"
+            ]
+        ],
+        "2": [
+            [
+                "وَكِتَ<rule class=madda_normal>ـٰ</rule><rule class=idgham_ghunnah>بٍ</rule>",
+                "<rule class=idgham_ghunnah>م</rule>َّسۡط<rule class=madda_permissible>ُو</rule>رٍ",
+                "٢"
+            ]
+        ],
+        "3": [
+            [
+                "فِى",
+                "رَ<rule class=idgham_ghunnah>قٍّ</rule>",
+                "<rule class=idgham_ghunnah>م</rule>َّ<rule class=ikhafa>نش</rule><rule class=madda_permissible>ُو</rule>رٍ",
+                "٣"
+            ]
+        ],
+        "4": [
+            [
+                "وَ<rule class=ham_wasl>ٱ</rule>لۡبَيۡتِ",
+                "<rule class=ham_wasl>ٱ</rule>لۡمَعۡم<rule class=madda_permissible>ُو</rule>رِ",
+                "٤"
+            ]
+        ],
+        "5": [
+            [
+                "وَ<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>سَّ<rule class=qalaqah>قۡ</rule>فِ",
+                "<rule class=ham_wasl>ٱ</rule>لۡمَرۡف<rule class=madda_permissible>ُو</rule>عِ",
+                "٥"
+            ]
+        ],
+        "6": [
+            [
+                "وَ<rule class=ham_wasl>ٱ</rule>لۡبَحۡرِ",
+                "<rule class=ham_wasl>ٱ</rule>لۡمَسۡج<rule class=madda_permissible>ُو</rule>رِ",
+                "٦"
+            ]
+        ],
+        "7": [
+            [
+                "إِ<rule class=ghunnah>نّ</rule>َ",
+                "عَذَابَ",
+                "رَبِّكَ",
+                "لَو<rule class='madda_normal'>ٰ</rule>قِعٌ",
+                "٧"
+            ]
+        ],
+        "8": [
+            [
+                "مَّا",
+                "لَهُ<rule class=madda_normal>ۥ</rule>",
+                "مِ<rule class=ikhafa>ن</rule>",
+                "<rule class=ikhafa>د</rule>َافِعٍ",
+                "٨"
+            ]
+        ],
+        "9": [
+            [
+                "يَوۡمَ",
+                "تَمُورُ",
+                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>سَّم<rule class=madda_obligatory_mottasel>َا</rule>ٓءُ",
+                "مَوۡرًا",
+                "٩"
+            ]
+        ],
+        "10": [
+            [
+                "وَتَسِيرُ",
+                "<rule class=ham_wasl>ٱ</rule>لۡجِبَالُ",
+                "سَيۡرًا",
+                "١٠"
+            ]
+        ]
+    }
+}

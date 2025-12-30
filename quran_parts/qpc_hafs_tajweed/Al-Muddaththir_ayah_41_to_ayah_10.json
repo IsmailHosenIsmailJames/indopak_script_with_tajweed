@@ -1,0 +1,92 @@
+{
+    "74": {
+        "41": [
+            [
+                "عَنِ",
+                "<rule class=ham_wasl>ٱ</rule>لۡمُ<rule class=qalaqah>جۡ</rule>رِم<rule class=madda_permissible>ِي</rule>نَ",
+                "٤١"
+            ]
+        ],
+        "42": [
+            [
+                "مَا",
+                "سَلَكَكُمۡ",
+                "فِى",
+                "سَقَرَ",
+                "٤٢"
+            ]
+        ],
+        "43": [
+            [
+                "قَالُو<rule class=slnt>اۡ</rule>",
+                "لَمۡ",
+                "نَكُ",
+                "مِنَ",
+                "<rule class=ham_wasl>ٱ</rule>لۡمُصَلّ<rule class=madda_permissible>ِي</rule>نَ",
+                "٤٣"
+            ]
+        ],
+        "44": [
+            [
+                "وَلَمۡ",
+                "نَكُ",
+                "نُ<rule class=qalaqah>طۡ</rule>عِمُ",
+                "<rule class=ham_wasl>ٱ</rule>لۡمِسۡك<rule class=madda_permissible>ِي</rule>نَ",
+                "٤٤"
+            ]
+        ],
+        "45": [
+            [
+                "وَكُ<rule class=ghunnah>نّ</rule>َا",
+                "نَخُوضُ",
+                "مَعَ",
+                "<rule class=ham_wasl>ٱ</rule>لۡخ<rule class=madda_obligatory_mottasel>َا</rule>ٓئِض<rule class=madda_permissible>ِي</rule>نَ",
+                "٤٥"
+            ]
+        ],
+        "46": [
+            [
+                "وَكُ<rule class=ghunnah>نّ</rule>َا",
+                "نُكَذِّبُ",
+                "بِيَوۡمِ",
+                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>دّ<rule class=madda_permissible>ِي</rule>نِ",
+                "٤٦"
+            ]
+        ],
+        "47": [
+            [
+                "حَتَّ<rule class=madda_obligatory_monfasel>ىٰٓ</rule>",
+                "أَتَ<rule class=madda_normal>ـٰ</rule>نَا",
+                "<rule class=ham_wasl>ٱ</rule>لۡيَق<rule class=madda_permissible>ِي</rule>نُ",
+                "٤٧"
+            ]
+        ],
+        "48": [
+            [
+                "فَمَا",
+                "تَ<rule class=ikhafa>نف</rule>َعُهُمۡ",
+                "شَفَ<rule class=madda_normal>ـٰ</rule>عَةُ",
+                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>شَّ<rule class=madda_normal>ـٰ</rule>فِع<rule class=madda_permissible>ِي</rule>نَ",
+                "٤٨"
+            ]
+        ],
+        "49": [
+            [
+                "فَمَا",
+                "لَهُمۡ",
+                "عَنِ",
+                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>تَّذۡكِرَةِ",
+                "مُعۡرِض<rule class=madda_permissible>ِي</rule>نَ",
+                "٤٩"
+            ]
+        ],
+        "50": [
+            [
+                "كَأَ<rule class=ghunnah>نّ</rule>َهُمۡ",
+                "حُمُ<rule class=idgham_ghunnah>رٌ</rule>",
+                "<rule class=idgham_ghunnah>م</rule>ُّسۡتَ<rule class=ikhafa>نف</rule>ِرَةٌ",
+                "٥٠"
+            ]
+        ]
+    }
+}

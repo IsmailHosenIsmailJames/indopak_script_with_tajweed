@@ -1,0 +1,88 @@
+{
+    "81": {
+        "11": [
+            [
+                "وَإِذَا",
+                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>سَّم<rule class=madda_obligatory_mottasel>َا</rule>ٓءُ",
+                "كُشِطَتۡ",
+                "١١"
+            ]
+        ],
+        "12": [
+            [
+                "وَإِذَا",
+                "<rule class=ham_wasl>ٱ</rule>لۡجَحِيمُ",
+                "سُعِّرَتۡ",
+                "١٢"
+            ]
+        ],
+        "13": [
+            [
+                "وَإِذَا",
+                "<rule class=ham_wasl>ٱ</rule>لۡجَ<rule class=ghunnah>نّ</rule>َةُ",
+                "أُزۡلِفَتۡ",
+                "١٣"
+            ]
+        ],
+        "14": [
+            [
+                "عَلِمَتۡ",
+                "نَفۡ<rule class=idgham_ghunnah>سٌ</rule>",
+                "<rule class=idgham_ghunnah>م</rule>ّ<rule class=madda_obligatory_monfasel>َآ</rule>",
+                "أَحۡضَرَتۡ",
+                "١٤"
+            ]
+        ],
+        "15": [
+            [
+                "فَل<rule class=madda_obligatory_monfasel>َآ</rule>",
+                "أُ<rule class=qalaqah>قۡ</rule>سِمُ",
+                "بِ<rule class=ham_wasl>ٱ</rule>لۡخُ<rule class=ghunnah>نّ</rule>َسِ",
+                "١٥"
+            ]
+        ],
+        "16": [
+            [
+                "ٱلۡجَوَارِ",
+                "<rule class=ham_wasl>ٱ</rule>لۡكُ<rule class=ghunnah>نّ</rule>َسِ",
+                "١٦"
+            ]
+        ],
+        "17": [
+            [
+                "وَ<rule class=ham_wasl>ٱ</rule>لَّيۡلِ",
+                "إِذَا",
+                "عَسۡعَسَ",
+                "١٧"
+            ]
+        ],
+        "18": [
+            [
+                "وَ<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>صُّ<rule class=qalaqah>بۡ</rule>حِ",
+                "إِذَا",
+                "تَنَفَّسَ",
+                "١٨"
+            ]
+        ],
+        "19": [
+            [
+                "إِ<rule class=ghunnah>نّ</rule>َهُ<rule class=madda_normal>ۥ</rule>",
+                "لَقَوۡلُ",
+                "رَسُو<rule class=ikhafa>لٍ</rule>",
+                "<rule class=ikhafa>ك</rule>َر<rule class=madda_permissible>ِي</rule>مٍ",
+                "١٩"
+            ]
+        ],
+        "20": [
+            [
+                "ذِى",
+                "قُوَّةٍ",
+                "عِ<rule class=ikhafa>ند</rule>َ",
+                "ذِى",
+                "<rule class=ham_wasl>ٱ</rule>لۡعَرۡشِ",
+                "مَك<rule class=madda_permissible>ِي</rule>نٍ",
+                "٢٠"
+            ]
+        ]
+    }
+}

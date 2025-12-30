@@ -1,0 +1,88 @@
+{
+    "88": {
+        "11": [
+            [
+                "لَّا",
+                "تَسۡمَعُ",
+                "فِيهَا",
+                "لَ<rule class=madda_normal>ـٰ</rule>غِيَةً",
+                "١١"
+            ]
+        ],
+        "12": [
+            [
+                "فِيهَا",
+                "عَيۡ<rule class=ikhafa>نٌ</rule>",
+                "<rule class=ikhafa>ج</rule>َارِيَةٌ",
+                "١٢"
+            ]
+        ],
+        "13": [
+            [
+                "فِيهَا",
+                "سُرُ<rule class=idgham_ghunnah>رٌ</rule>",
+                "<rule class=idgham_ghunnah>م</rule>َّرۡفُوعَةٌ",
+                "١٣"
+            ]
+        ],
+        "14": [
+            [
+                "وَأَكۡوَا<rule class=idgham_ghunnah>بٌ</rule>",
+                "<rule class=idgham_ghunnah>م</rule>َّوۡضُوعَةٌ",
+                "١٤"
+            ]
+        ],
+        "15": [
+            [
+                "وَنَمَارِقُ",
+                "مَصۡفُوفَةٌ",
+                "١٥"
+            ]
+        ],
+        "16": [
+            [
+                "وَزَرَابِىُّ",
+                "مَ<rule class=qalaqah>بۡ</rule>ثُوثَةٌ",
+                "١٦"
+            ]
+        ],
+        "17": [
+            [
+                "أَفَلَا",
+                "يَ<rule class=ikhafa>نظ</rule>ُرُونَ",
+                "إِلَى",
+                "<rule class=ham_wasl>ٱ</rule>لۡإِبِلِ",
+                "كَيۡفَ",
+                "خُلِقَتۡ",
+                "١٧"
+            ]
+        ],
+        "18": [
+            [
+                "وَإِلَى",
+                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>سَّم<rule class=madda_obligatory_mottasel>َا</rule>ٓءِ",
+                "كَيۡفَ",
+                "رُفِعَتۡ",
+                "١٨"
+            ]
+        ],
+        "19": [
+            [
+                "وَإِلَى",
+                "<rule class=ham_wasl>ٱ</rule>لۡجِبَالِ",
+                "كَيۡفَ",
+                "نُصِبَتۡ",
+                "١٩"
+            ]
+        ],
+        "20": [
+            [
+                "وَإِلَى",
+                "<rule class=ham_wasl>ٱ</rule>لۡأَرۡضِ",
+                "كَيۡفَ",
+                "سُطِحَتۡ",
+                "٢٠"
+            ]
+        ]
+    }
+}
