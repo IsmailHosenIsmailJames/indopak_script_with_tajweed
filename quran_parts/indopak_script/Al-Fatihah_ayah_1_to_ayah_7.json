@@ -3,33 +3,33 @@
         "1": [
             [
                 "بِسۡمِ",
-                "اللهِ",
-                "الرَّحۡمٰنِ",
-                "الرَّحِيۡمِ",
+                "<rule class=ham_wasl>ا</rule>للهِ",
+                "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>رَّحۡم<rule class=madda_normal>ٰ</rule>نِ",
+                "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>رَّح<rule class=madda_permissible>ِي</rule>مِ",
                 "١"
             ]
         ],
         "2": [
             [
-                "اَلۡحَمۡدُ",
+                "<rule class=ham_wasl>ا</rule>لۡحَمۡدُ",
                 "لِلّٰهِ",
                 "رَبِّ",
-                "الۡعٰلَمِيۡنَۙ‏",
+                "<rule class=ham_wasl>ا</rule>لۡع<rule class=madda_normal>ٰ</rule>لَم<rule class=madda_permissible>ِي</rule>نَۙ‏",
                 "٢"
             ]
         ],
         "3": [
             [
-                "الرَّحۡمٰنِ",
-                "الرَّحِيۡمِۙ‏",
+                "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>رَّحۡم<rule class=madda_normal>ٰ</rule>نِ",
+                "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>رَّح<rule class=madda_permissible>ِي</rule>مِۙ‏",
                 "٣"
             ]
         ],
         "4": [
             [
-                "مٰلِكِ",
+                "م<rule class=madda_normal>ٰ</rule>لِكِ",
                 "يَوۡمِ",
-                "الدِّيۡنِؕ‏",
+                "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>دّ<rule class=madda_permissible>ِي</rule>نِؕ‏",
                 "٤"
             ]
         ],
@@ -38,29 +38,29 @@
                 "اِيَّاكَ",
                 "نَعۡبُدُ",
                 "وَاِيَّاكَ",
-                "نَسۡتَعِيۡنُؕ‏",
+                "نَسۡتَع<rule class=madda_permissible>ِي</rule>نُؕ‏",
                 "٥"
             ]
         ],
         "6": [
             [
-                "اِهۡدِنَا",
-                "الصِّرَاطَ",
-                "الۡمُسۡتَقِيۡمَۙ‏",
+                "<rule class=ham_wasl>ا</rule>ِهۡدِنَا",
+                "<rule class='ham_wasl'>ا</rule><rule class='laam_shamsiyah'>ل</rule>صِّرَ<rule class='madda_normal'>ا</rule>طَ",
+                "<rule class=ham_wasl>ا</rule>لۡمُسۡتَق<rule class=madda_permissible>ِي</rule>مَۙ‏",
                 "٦"
             ]
         ],
         "7": [
             [
-                "صِرَاطَ",
-                "الَّذِيۡنَ",
+                "صِرَ<rule class='madda_normal'>ا</rule>طَ",
+                "<rule class=ham_wasl>ا</rule>لَّذِيۡنَ",
                 "اَنۡعَمۡتَ",
                 "عَلَيۡهِمۡ ۙ‏",
                 "غَيۡرِ",
-                "الۡمَغۡضُوۡبِ",
+                "<rule class=ham_wasl>ا</rule>لۡمَغۡضُوۡبِ",
                 "عَلَيۡهِمۡ",
                 "وَلَا",
-                "الضَّآلِّيۡنَ‏",
+                "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>ضَّ<rule class=madda_necessary>آ</rule>لّ<rule class=madda_permissible>ِي</rule>نَ‏",
                 "٧"
             ]
         ]
