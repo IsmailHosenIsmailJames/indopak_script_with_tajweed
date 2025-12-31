@@ -1,30 +1,28 @@
 {
     "17": {
         "111": [
-            [
-                "وَقُلِ",
-                "<rule class=ham_wasl>ٱ</rule>لۡحَمۡدُ",
-                "لِلَّهِ",
-                "<rule class=ham_wasl>ٱ</rule>لَّذِى",
-                "لَمۡ",
-                "يَتَّخِذۡ",
-                "وَلَ<rule class=idgham_ghunnah>دًا</rule>",
-                "<rule class=idgham_ghunnah>و</rule>َلَمۡ",
-                "يَك<rule class=idgham_wo_ghunnah>ُن</rule>",
-                "<rule class=idgham_wo_ghunnah>ل</rule>َّهُ<rule class=madda_normal>ۥ</rule>",
-                "شَرِي<rule class=ikhafa>كٌ</rule>",
-                "<rule class=ikhafa>ف</rule>ِى",
-                "<rule class=ham_wasl>ٱ</rule>لۡمُلۡكِ",
-                "وَلَمۡ",
-                "يَك<rule class=idgham_wo_ghunnah>ُن</rule>",
-                "<rule class=idgham_wo_ghunnah>ل</rule>َّهُ<rule class=madda_normal>ۥ</rule>",
-                "وَلِ<rule class=idgham_ghunnah>ىٌّ</rule>",
-                "<rule class=idgham_ghunnah>م</rule>ِّنَ",
-                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>ذُّلِّ‌ۖ",
-                "وَكَبِّرۡهُ",
-                "تَكۡبِيرَۢا",
-                "١١١"
-            ]
+            "وَقُلِ",
+            "<rule class=ham_wasl>ٱ</rule>لۡحَمۡدُ",
+            "لِلَّهِ",
+            "<rule class=ham_wasl>ٱ</rule>لَّذِى",
+            "لَمۡ",
+            "يَتَّخِذۡ",
+            "وَلَ<rule class=idgham_ghunnah>دًا</rule>",
+            "<rule class=idgham_ghunnah>و</rule>َلَمۡ",
+            "يَك<rule class=idgham_wo_ghunnah>ُن</rule>",
+            "<rule class=idgham_wo_ghunnah>ل</rule>َّهُ<rule class=madda_normal>ۥ</rule>",
+            "شَرِي<rule class=ikhafa>كٌ</rule>",
+            "<rule class=ikhafa>ف</rule>ِى",
+            "<rule class=ham_wasl>ٱ</rule>لۡمُلۡكِ",
+            "وَلَمۡ",
+            "يَك<rule class=idgham_wo_ghunnah>ُن</rule>",
+            "<rule class=idgham_wo_ghunnah>ل</rule>َّهُ<rule class=madda_normal>ۥ</rule>",
+            "وَلِ<rule class=idgham_ghunnah>ىٌّ</rule>",
+            "<rule class=idgham_ghunnah>م</rule>ِّنَ",
+            "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>ذُّلِّ‌ۖ",
+            "وَكَبِّرۡهُ",
+            "تَكۡبِيرَۢا",
+            "١١١"
         ]
     }
 }

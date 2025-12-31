@@ -1,116 +1,96 @@
 {
     "15": {
         "61": [
-            [
-                "فَلَ<rule class=ghunnah>مّ</rule>َا",
-                "ج<rule class=madda_obligatory_mottasel>َا</rule>ٓءَ",
-                "ءَالَ",
-                "لُوطٍ",
-                "<rule class=ham_wasl>ٱ</rule>لۡمُرۡسَل<rule class=madda_permissible>ُو</rule>نَ",
-                "٦١"
-            ]
+            "فَلَ<rule class=ghunnah>مّ</rule>َا",
+            "ج<rule class=madda_obligatory_mottasel>َا</rule>ٓءَ",
+            "ءَالَ",
+            "لُوطٍ",
+            "<rule class=ham_wasl>ٱ</rule>لۡمُرۡسَل<rule class=madda_permissible>ُو</rule>نَ",
+            "٦١"
         ],
         "62": [
-            [
-                "قَالَ",
-                "إِ<rule class=ghunnah>نّ</rule>َكُمۡ",
-                "قَوۡ<rule class=idgham_ghunnah>مٌ</rule>",
-                "<rule class=idgham_ghunnah>م</rule>ُّ<rule class=ikhafa>نك</rule>َر<rule class=madda_permissible>ُو</rule>نَ",
-                "٦٢"
-            ]
+            "قَالَ",
+            "إِ<rule class=ghunnah>نّ</rule>َكُمۡ",
+            "قَوۡ<rule class=idgham_ghunnah>مٌ</rule>",
+            "<rule class=idgham_ghunnah>م</rule>ُّ<rule class=ikhafa>نك</rule>َر<rule class=madda_permissible>ُو</rule>نَ",
+            "٦٢"
         ],
         "63": [
-            [
-                "قَالُو<rule class=slnt>اۡ</rule>",
-                "بَلۡ",
-                "جِئۡنَ<rule class=madda_normal>ـٰ</rule>كَ",
-                "بِمَا",
-                "كَانُو<rule class=slnt>اۡ</rule>",
-                "فِيهِ",
-                "يَمۡتَر<rule class=madda_permissible>ُو</rule>نَ",
-                "٦٣"
-            ]
+            "قَالُو<rule class=slnt>اۡ</rule>",
+            "بَلۡ",
+            "جِئۡنَ<rule class=madda_normal>ـٰ</rule>كَ",
+            "بِمَا",
+            "كَانُو<rule class=slnt>اۡ</rule>",
+            "فِيهِ",
+            "يَمۡتَر<rule class=madda_permissible>ُو</rule>نَ",
+            "٦٣"
         ],
         "64": [
-            [
-                "وَأَتَيۡنَ<rule class=madda_normal>ـٰ</rule>كَ",
-                "بِ<rule class=ham_wasl>ٱ</rule>لۡحَقِّ",
-                "وَإِ<rule class=ghunnah>نّ</rule>َا",
-                "لَصَ<rule class=madda_normal>ـٰ</rule>دِق<rule class=madda_permissible>ُو</rule>نَ",
-                "٦٤"
-            ]
+            "وَأَتَيۡنَ<rule class=madda_normal>ـٰ</rule>كَ",
+            "بِ<rule class=ham_wasl>ٱ</rule>لۡحَقِّ",
+            "وَإِ<rule class=ghunnah>نّ</rule>َا",
+            "لَصَ<rule class=madda_normal>ـٰ</rule>دِق<rule class=madda_permissible>ُو</rule>نَ",
+            "٦٤"
         ],
         "65": [
-            [
-                "فَأَسۡرِ",
-                "بِأَهۡلِكَ",
-                "بِقِ<rule class=qalaqah>طۡ</rule><rule class=idgham_ghunnah>عٍ</rule>",
-                "<rule class=idgham_ghunnah>م</rule>ِّنَ",
-                "<rule class=ham_wasl>ٱ</rule>لَّيۡلِ",
-                "وَ<rule class=ham_wasl>ٱ</rule>تَّبِعۡ",
-                "أَ<rule class=qalaqah>دۡ</rule>بَ<rule class=madda_normal>ـٰ</rule>رَهُمۡ",
-                "وَلَا",
-                "يَلۡتَفِتۡ",
-                "مِ<rule class=ikhafa>نك</rule>ُمۡ",
-                "أَحَ<rule class=idgham_ghunnah>دٌ</rule>",
-                "<rule class=idgham_ghunnah>و</rule>َ<rule class=ham_wasl>ٱ</rule>مۡضُو<rule class=slnt>اۡ</rule>",
-                "حَيۡثُ",
-                "تُؤۡمَر<rule class=madda_permissible>ُو</rule>نَ",
-                "٦٥"
-            ]
+            "فَأَسۡرِ",
+            "بِأَهۡلِكَ",
+            "بِقِ<rule class=qalaqah>طۡ</rule><rule class=idgham_ghunnah>عٍ</rule>",
+            "<rule class=idgham_ghunnah>م</rule>ِّنَ",
+            "<rule class=ham_wasl>ٱ</rule>لَّيۡلِ",
+            "وَ<rule class=ham_wasl>ٱ</rule>تَّبِعۡ",
+            "أَ<rule class=qalaqah>دۡ</rule>بَ<rule class=madda_normal>ـٰ</rule>رَهُمۡ",
+            "وَلَا",
+            "يَلۡتَفِتۡ",
+            "مِ<rule class=ikhafa>نك</rule>ُمۡ",
+            "أَحَ<rule class=idgham_ghunnah>دٌ</rule>",
+            "<rule class=idgham_ghunnah>و</rule>َ<rule class=ham_wasl>ٱ</rule>مۡضُو<rule class=slnt>اۡ</rule>",
+            "حَيۡثُ",
+            "تُؤۡمَر<rule class=madda_permissible>ُو</rule>نَ",
+            "٦٥"
         ],
         "66": [
-            [
-                "وَقَضَيۡن<rule class=madda_obligatory_monfasel>َآ</rule>",
-                "إِلَيۡهِ",
-                "ذ<rule class='madda_normal'>ٰ</rule>لِكَ",
-                "<rule class=ham_wasl>ٱ</rule>لۡأَمۡرَ",
-                "أَ<rule class=ghunnah>نّ</rule>َ",
-                "دَابِرَ",
-                "هَ<rule class=madda_obligatory_mottasel>ـٰٓ</rule>ؤُل<rule class=madda_obligatory_mottasel>َا</rule>ٓءِ",
-                "مَ<rule class=qalaqah>قۡ</rule>طُو<rule class=idgham_ghunnah>عٌ</rule>",
-                "<rule class=idgham_ghunnah>م</rule>ُّصۡبِح<rule class=madda_permissible>ِي</rule>نَ",
-                "٦٦"
-            ]
+            "وَقَضَيۡن<rule class=madda_obligatory_monfasel>َآ</rule>",
+            "إِلَيۡهِ",
+            "ذ<rule class='madda_normal'>ٰ</rule>لِكَ",
+            "<rule class=ham_wasl>ٱ</rule>لۡأَمۡرَ",
+            "أَ<rule class=ghunnah>نّ</rule>َ",
+            "دَابِرَ",
+            "هَ<rule class=madda_obligatory_mottasel>ـٰٓ</rule>ؤُل<rule class=madda_obligatory_mottasel>َا</rule>ٓءِ",
+            "مَ<rule class=qalaqah>قۡ</rule>طُو<rule class=idgham_ghunnah>عٌ</rule>",
+            "<rule class=idgham_ghunnah>م</rule>ُّصۡبِح<rule class=madda_permissible>ِي</rule>نَ",
+            "٦٦"
         ],
         "67": [
-            [
-                "وَج<rule class=madda_obligatory_mottasel>َا</rule>ٓءَ",
-                "أَهۡلُ",
-                "<rule class=ham_wasl>ٱ</rule>لۡمَدِينَةِ",
-                "يَسۡتَ<rule class=qalaqah>بۡ</rule>شِر<rule class=madda_permissible>ُو</rule>نَ",
-                "٦٧"
-            ]
+            "وَج<rule class=madda_obligatory_mottasel>َا</rule>ٓءَ",
+            "أَهۡلُ",
+            "<rule class=ham_wasl>ٱ</rule>لۡمَدِينَةِ",
+            "يَسۡتَ<rule class=qalaqah>بۡ</rule>شِر<rule class=madda_permissible>ُو</rule>نَ",
+            "٦٧"
         ],
         "68": [
-            [
-                "قَالَ",
-                "إِ<rule class=ghunnah>نّ</rule>َ",
-                "هَ<rule class=madda_obligatory_mottasel>ـٰٓ</rule>ؤُل<rule class=madda_obligatory_mottasel>َا</rule>ٓءِ",
-                "ضَيۡفِى",
-                "فَلَا",
-                "تَفۡضَح<rule class=madda_permissible>ُو</rule>نِ",
-                "٦٨"
-            ]
+            "قَالَ",
+            "إِ<rule class=ghunnah>نّ</rule>َ",
+            "هَ<rule class=madda_obligatory_mottasel>ـٰٓ</rule>ؤُل<rule class=madda_obligatory_mottasel>َا</rule>ٓءِ",
+            "ضَيۡفِى",
+            "فَلَا",
+            "تَفۡضَح<rule class=madda_permissible>ُو</rule>نِ",
+            "٦٨"
         ],
         "69": [
-            [
-                "وَ<rule class=ham_wasl>ٱ</rule>تَّقُو<rule class=slnt>اۡ</rule>",
-                "<rule class=ham_wasl>ٱ</rule>للَّهَ",
-                "وَلَا",
-                "تُخۡز<rule class=madda_permissible>ُو</rule>نِ",
-                "٦٩"
-            ]
+            "وَ<rule class=ham_wasl>ٱ</rule>تَّقُو<rule class=slnt>اۡ</rule>",
+            "<rule class=ham_wasl>ٱ</rule>للَّهَ",
+            "وَلَا",
+            "تُخۡز<rule class=madda_permissible>ُو</rule>نِ",
+            "٦٩"
         ],
         "70": [
-            [
-                "قَال<rule class=madda_obligatory_mottasel>ُوٓ</rule><rule class=slnt>اۡ</rule>",
-                "أَوَلَمۡ",
-                "نَنۡهَكَ",
-                "عَنِ",
-                "<rule class=ham_wasl>ٱ</rule>لۡعَ<rule class=madda_normal>ـٰ</rule>لَم<rule class=madda_permissible>ِي</rule>نَ",
-                "٧٠"
-            ]
+            "قَال<rule class=madda_obligatory_mottasel>ُوٓ</rule><rule class=slnt>اۡ</rule>",
+            "أَوَلَمۡ",
+            "نَنۡهَكَ",
+            "عَنِ",
+            "<rule class=ham_wasl>ٱ</rule>لۡعَ<rule class=madda_normal>ـٰ</rule>لَم<rule class=madda_permissible>ِي</rule>نَ",
+            "٧٠"
         ]
     }
 }

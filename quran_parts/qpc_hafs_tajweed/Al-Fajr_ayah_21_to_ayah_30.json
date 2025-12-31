@@ -1,100 +1,80 @@
 {
     "89": {
         "21": [
-            [
-                "كَلّ<rule class=madda_obligatory_monfasel>َآ</rule>",
-                "إِذَا",
-                "دُكَّتِ",
-                "<rule class=ham_wasl>ٱ</rule>لۡأَرۡضُ",
-                "دَك<rule class=ikhafa>ًّا</rule>",
-                "<rule class=ikhafa>د</rule>َكًّا",
-                "٢١"
-            ]
+            "كَلّ<rule class=madda_obligatory_monfasel>َآ</rule>",
+            "إِذَا",
+            "دُكَّتِ",
+            "<rule class=ham_wasl>ٱ</rule>لۡأَرۡضُ",
+            "دَك<rule class=ikhafa>ًّا</rule>",
+            "<rule class=ikhafa>د</rule>َكًّا",
+            "٢١"
         ],
         "22": [
-            [
-                "وَج<rule class=madda_obligatory_mottasel>َا</rule>ٓءَ",
-                "رَبُّكَ",
-                "وَ<rule class=ham_wasl>ٱ</rule>لۡمَلَكُ",
-                "صَف<rule class=ikhafa>ًّا</rule>",
-                "<rule class=ikhafa>ص</rule>َفًّا",
-                "٢٢"
-            ]
+            "وَج<rule class=madda_obligatory_mottasel>َا</rule>ٓءَ",
+            "رَبُّكَ",
+            "وَ<rule class=ham_wasl>ٱ</rule>لۡمَلَكُ",
+            "صَف<rule class=ikhafa>ًّا</rule>",
+            "<rule class=ikhafa>ص</rule>َفًّا",
+            "٢٢"
         ],
         "23": [
-            [
-                "وَجِ<rule class=slnt>اۡ</rule><rule class=madda_obligatory_mottasel>ىٓ</rule>ءَ",
-                "يَوۡمَئِ<rule class=iqlab>ذِۭ</rule>",
-                "<rule class=iqlab>ب</rule>ِجَهَ<rule class=ghunnah>نّ</rule>َمَ‌ۚ",
-                "يَوۡمَئِ<rule class=idgham_ghunnah>ذٍ</rule>",
-                "<rule class=idgham_ghunnah>ي</rule>َتَذَكَّرُ",
-                "<rule class=ham_wasl>ٱ</rule>لۡإِ<rule class=ikhafa>نس</rule>َ<rule class=madda_normal>ـٰ</rule>نُ",
-                "وَأَ<rule class=ghunnah>نّ</rule>َىٰ",
-                "لَهُ",
-                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>ذِّكۡرَىٰ",
-                "٢٣"
-            ]
+            "وَجِ<rule class=slnt>اۡ</rule><rule class=madda_obligatory_mottasel>ىٓ</rule>ءَ",
+            "يَوۡمَئِ<rule class=iqlab>ذِۭ</rule>",
+            "<rule class=iqlab>ب</rule>ِجَهَ<rule class=ghunnah>نّ</rule>َمَ‌ۚ",
+            "يَوۡمَئِ<rule class=idgham_ghunnah>ذٍ</rule>",
+            "<rule class=idgham_ghunnah>ي</rule>َتَذَكَّرُ",
+            "<rule class=ham_wasl>ٱ</rule>لۡإِ<rule class=ikhafa>نس</rule>َ<rule class=madda_normal>ـٰ</rule>نُ",
+            "وَأَ<rule class=ghunnah>نّ</rule>َىٰ",
+            "لَهُ",
+            "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>ذِّكۡرَىٰ",
+            "٢٣"
         ],
         "24": [
-            [
-                "يَقُولُ",
-                "يَ<rule class=madda_normal>ـٰ</rule>لَيۡتَنِى",
-                "قَدَّمۡتُ",
-                "لِحَيَاتِى",
-                "٢٤"
-            ]
+            "يَقُولُ",
+            "يَ<rule class=madda_normal>ـٰ</rule>لَيۡتَنِى",
+            "قَدَّمۡتُ",
+            "لِحَيَاتِى",
+            "٢٤"
         ],
         "25": [
-            [
-                "فَيَوۡمَئِ<rule class=idgham_wo_ghunnah>ذٍ</rule>",
-                "<rule class=idgham_wo_ghunnah>ل</rule>َّا",
-                "يُعَذِّبُ",
-                "عَذَابَهُ<rule class=madda_obligatory_monfasel>ۥٓ</rule>",
-                "أَحَ<rule class=qalaqah>د</rule>ٌ",
-                "٢٥"
-            ]
+            "فَيَوۡمَئِ<rule class=idgham_wo_ghunnah>ذٍ</rule>",
+            "<rule class=idgham_wo_ghunnah>ل</rule>َّا",
+            "يُعَذِّبُ",
+            "عَذَابَهُ<rule class=madda_obligatory_monfasel>ۥٓ</rule>",
+            "أَحَ<rule class=qalaqah>د</rule>ٌ",
+            "٢٥"
         ],
         "26": [
-            [
-                "وَلَا",
-                "يُوثِقُ",
-                "وَثَاقَهُ<rule class=madda_obligatory_monfasel>ۥٓ</rule>",
-                "أَحَ<rule class=qalaqah>د</rule>ٌ",
-                "٢٦"
-            ]
+            "وَلَا",
+            "يُوثِقُ",
+            "وَثَاقَهُ<rule class=madda_obligatory_monfasel>ۥٓ</rule>",
+            "أَحَ<rule class=qalaqah>د</rule>ٌ",
+            "٢٦"
         ],
         "27": [
-            [
-                "يَ<rule class=madda_obligatory_mottasel>ـٰٓ</rule>أَيَّتُهَا",
-                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule><rule class=ghunnah>نّ</rule>َفۡسُ",
-                "<rule class=ham_wasl>ٱ</rule>لۡمُ<rule class=qalaqah>طۡ</rule>مَئِ<rule class=ghunnah>نّ</rule>َةُ",
-                "٢٧"
-            ]
+            "يَ<rule class=madda_obligatory_mottasel>ـٰٓ</rule>أَيَّتُهَا",
+            "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule><rule class=ghunnah>نّ</rule>َفۡسُ",
+            "<rule class=ham_wasl>ٱ</rule>لۡمُ<rule class=qalaqah>طۡ</rule>مَئِ<rule class=ghunnah>نّ</rule>َةُ",
+            "٢٧"
         ],
         "28": [
-            [
-                "ٱرۡجِع<rule class=madda_obligatory_monfasel>ِىٓ</rule>",
-                "إِلَىٰ",
-                "رَبِّكِ",
-                "رَاضِيَ<rule class=idgham_ghunnah>ةً</rule>",
-                "<rule class=idgham_ghunnah>م</rule>َّرۡضِيَّةً",
-                "٢٨"
-            ]
+            "ٱرۡجِع<rule class=madda_obligatory_monfasel>ِىٓ</rule>",
+            "إِلَىٰ",
+            "رَبِّكِ",
+            "رَاضِيَ<rule class=idgham_ghunnah>ةً</rule>",
+            "<rule class=idgham_ghunnah>م</rule>َّرۡضِيَّةً",
+            "٢٨"
         ],
         "29": [
-            [
-                "فَ<rule class=ham_wasl>ٱ</rule><rule class=qalaqah>دۡ</rule>خُلِى",
-                "فِى",
-                "عِبَ<rule class=madda_normal>ـٰ</rule>دِى",
-                "٢٩"
-            ]
+            "فَ<rule class=ham_wasl>ٱ</rule><rule class=qalaqah>دۡ</rule>خُلِى",
+            "فِى",
+            "عِبَ<rule class=madda_normal>ـٰ</rule>دِى",
+            "٢٩"
         ],
         "30": [
-            [
-                "وَ<rule class=ham_wasl>ٱ</rule><rule class=qalaqah>دۡ</rule>خُلِى",
-                "جَ<rule class=ghunnah>نّ</rule>َتِى",
-                "٣٠"
-            ]
+            "وَ<rule class=ham_wasl>ٱ</rule><rule class=qalaqah>دۡ</rule>خُلِى",
+            "جَ<rule class=ghunnah>نّ</rule>َتِى",
+            "٣٠"
         ]
     }
 }

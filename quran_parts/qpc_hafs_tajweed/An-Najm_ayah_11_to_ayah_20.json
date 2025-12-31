@@ -1,95 +1,75 @@
 {
     "53": {
         "11": [
-            [
-                "مَا",
-                "كَذَبَ",
-                "<rule class=ham_wasl>ٱ</rule>لۡفُؤَادُ",
-                "مَا",
-                "رَأَىٰٓ",
-                "١١"
-            ]
+            "مَا",
+            "كَذَبَ",
+            "<rule class=ham_wasl>ٱ</rule>لۡفُؤَادُ",
+            "مَا",
+            "رَأَىٰٓ",
+            "١١"
         ],
         "12": [
-            [
-                "أَفَتُمَ<rule class=madda_normal>ـٰ</rule>رُونَهُ<rule class=madda_normal>ۥ</rule>",
-                "عَلَىٰ",
-                "مَا",
-                "يَرَىٰ",
-                "١٢"
-            ]
+            "أَفَتُمَ<rule class=madda_normal>ـٰ</rule>رُونَهُ<rule class=madda_normal>ۥ</rule>",
+            "عَلَىٰ",
+            "مَا",
+            "يَرَىٰ",
+            "١٢"
         ],
         "13": [
-            [
-                "وَلَقَ<rule class=qalaqah>دۡ</rule>",
-                "رَءَاهُ",
-                "نَزۡلَةً",
-                "أُخۡرَىٰ",
-                "١٣"
-            ]
+            "وَلَقَ<rule class=qalaqah>دۡ</rule>",
+            "رَءَاهُ",
+            "نَزۡلَةً",
+            "أُخۡرَىٰ",
+            "١٣"
         ],
         "14": [
-            [
-                "عِ<rule class=ikhafa>ند</rule>َ",
-                "سِ<rule class=qalaqah>دۡ</rule>رَةِ",
-                "<rule class=ham_wasl>ٱ</rule>لۡمُ<rule class=ikhafa>نت</rule>َهَىٰ",
-                "١٤"
-            ]
+            "عِ<rule class=ikhafa>ند</rule>َ",
+            "سِ<rule class=qalaqah>دۡ</rule>رَةِ",
+            "<rule class=ham_wasl>ٱ</rule>لۡمُ<rule class=ikhafa>نت</rule>َهَىٰ",
+            "١٤"
         ],
         "15": [
-            [
-                "عِ<rule class=ikhafa>ند</rule>َهَا",
-                "جَ<rule class=ghunnah>نّ</rule>َةُ",
-                "<rule class=ham_wasl>ٱ</rule>لۡمَأۡوَىٰٓ",
-                "١٥"
-            ]
+            "عِ<rule class=ikhafa>ند</rule>َهَا",
+            "جَ<rule class=ghunnah>نّ</rule>َةُ",
+            "<rule class=ham_wasl>ٱ</rule>لۡمَأۡوَىٰٓ",
+            "١٥"
         ],
         "16": [
-            [
-                "إِذۡ",
-                "يَغۡشَى",
-                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>سِّ<rule class=qalaqah>دۡ</rule>رَةَ",
-                "مَا",
-                "يَغۡشَىٰ",
-                "١٦"
-            ]
+            "إِذۡ",
+            "يَغۡشَى",
+            "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>سِّ<rule class=qalaqah>دۡ</rule>رَةَ",
+            "مَا",
+            "يَغۡشَىٰ",
+            "١٦"
         ],
         "17": [
-            [
-                "مَا",
-                "زَاغَ",
-                "<rule class=ham_wasl>ٱ</rule>لۡبَصَرُ",
-                "وَمَا",
-                "طَغَىٰ",
-                "١٧"
-            ]
+            "مَا",
+            "زَاغَ",
+            "<rule class=ham_wasl>ٱ</rule>لۡبَصَرُ",
+            "وَمَا",
+            "طَغَىٰ",
+            "١٧"
         ],
         "18": [
-            [
-                "لَقَ<rule class=qalaqah>دۡ</rule>",
-                "رَأَىٰ",
-                "مِنۡ",
-                "ءَايَ<rule class=madda_normal>ـٰ</rule>تِ",
-                "رَبِّهِ",
-                "<rule class=ham_wasl>ٱ</rule>لۡكُ<rule class=qalaqah>بۡ</rule>رَىٰٓ",
-                "١٨"
-            ]
+            "لَقَ<rule class=qalaqah>دۡ</rule>",
+            "رَأَىٰ",
+            "مِنۡ",
+            "ءَايَ<rule class=madda_normal>ـٰ</rule>تِ",
+            "رَبِّهِ",
+            "<rule class=ham_wasl>ٱ</rule>لۡكُ<rule class=qalaqah>بۡ</rule>رَىٰٓ",
+            "١٨"
         ],
         "19": [
-            [
-                "أَفَرَءَيۡتُمُ",
-                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>لَّ<rule class=madda_normal>ـٰ</rule>تَ",
-                "وَ<rule class=ham_wasl>ٱ</rule>لۡعُزَّىٰ",
-                "١٩"
-            ]
+            "أَفَرَءَيۡتُمُ",
+            "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>لَّ<rule class=madda_normal>ـٰ</rule>تَ",
+            "وَ<rule class=ham_wasl>ٱ</rule>لۡعُزَّىٰ",
+            "١٩"
         ],
         "20": [
-            [
-                "وَمَنَ<rule class=slnt>و</rule><rule class=madda_normal>ٰ</rule>ةَ",
-                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>ثَّالِثَةَ",
-                "<rule class=ham_wasl>ٱ</rule>لۡأُخۡرَىٰٓ",
-                "٢٠"
-            ]
+            "وَمَنَ<rule class=slnt>و</rule><rule class=madda_normal>ٰ</rule>ةَ",
+            "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>ثَّالِثَةَ",
+            "<rule class=ham_wasl>ٱ</rule>لۡأُخۡرَىٰٓ",
+            "٢٠"
         ]
     }
 }

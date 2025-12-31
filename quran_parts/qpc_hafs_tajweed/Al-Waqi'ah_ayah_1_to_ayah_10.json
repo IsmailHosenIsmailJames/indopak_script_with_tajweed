@@ -1,87 +1,67 @@
 {
     "56": {
         "1": [
-            [
-                "إِذَا",
-                "وَقَعَتِ",
-                "<rule class=ham_wasl>ٱ</rule>لۡوَاقِعَةُ",
-                "١"
-            ]
+            "إِذَا",
+            "وَقَعَتِ",
+            "<rule class=ham_wasl>ٱ</rule>لۡوَاقِعَةُ",
+            "١"
         ],
         "2": [
-            [
-                "لَيۡسَ",
-                "لِوَ<rule class=qalaqah>قۡ</rule>عَتِهَا",
-                "كَاذِبَةٌ",
-                "٢"
-            ]
+            "لَيۡسَ",
+            "لِوَ<rule class=qalaqah>قۡ</rule>عَتِهَا",
+            "كَاذِبَةٌ",
+            "٢"
         ],
         "3": [
-            [
-                "خَافِضَ<rule class=idgham_wo_ghunnah>ةٌ</rule>",
-                "<rule class=idgham_wo_ghunnah>ر</rule>َّافِعَةٌ",
-                "٣"
-            ]
+            "خَافِضَ<rule class=idgham_wo_ghunnah>ةٌ</rule>",
+            "<rule class=idgham_wo_ghunnah>ر</rule>َّافِعَةٌ",
+            "٣"
         ],
         "4": [
-            [
-                "إِذَا",
-                "رُجَّتِ",
-                "<rule class=ham_wasl>ٱ</rule>لۡأَرۡضُ",
-                "رَجًّا",
-                "٤"
-            ]
+            "إِذَا",
+            "رُجَّتِ",
+            "<rule class=ham_wasl>ٱ</rule>لۡأَرۡضُ",
+            "رَجًّا",
+            "٤"
         ],
         "5": [
-            [
-                "وَبُسَّتِ",
-                "<rule class=ham_wasl>ٱ</rule>لۡجِبَالُ",
-                "بَسًّا",
-                "٥"
-            ]
+            "وَبُسَّتِ",
+            "<rule class=ham_wasl>ٱ</rule>لۡجِبَالُ",
+            "بَسًّا",
+            "٥"
         ],
         "6": [
-            [
-                "فَكَانَتۡ",
-                "هَب<rule class=madda_obligatory_mottasel>َا</rule>ٓ<rule class=idgham_ghunnah>ءً</rule>",
-                "<rule class=idgham_ghunnah>م</rule>ُّ<rule class=iqlab>نۢب</rule>َثًّا",
-                "٦"
-            ]
+            "فَكَانَتۡ",
+            "هَب<rule class=madda_obligatory_mottasel>َا</rule>ٓ<rule class=idgham_ghunnah>ءً</rule>",
+            "<rule class=idgham_ghunnah>م</rule>ُّ<rule class=iqlab>نۢب</rule>َثًّا",
+            "٦"
         ],
         "7": [
-            [
-                "وَكُ<rule class=ikhafa>نت</rule>ُمۡ",
-                "أَزۡو<rule class='madda_normal'>ٰ</rule><rule class='ikhafa'>جًا</rule>",
-                "<rule class=ikhafa>ث</rule>َلَ<rule class=madda_normal>ـٰ</rule>ثَةً",
-                "٧"
-            ]
+            "وَكُ<rule class=ikhafa>نت</rule>ُمۡ",
+            "أَزۡو<rule class='madda_normal'>ٰ</rule><rule class='ikhafa'>جًا</rule>",
+            "<rule class=ikhafa>ث</rule>َلَ<rule class=madda_normal>ـٰ</rule>ثَةً",
+            "٧"
         ],
         "8": [
-            [
-                "فَأَصۡحَ<rule class=madda_normal>ـٰ</rule>بُ",
-                "<rule class=ham_wasl>ٱ</rule>لۡمَيۡمَنَةِ",
-                "م<rule class=madda_obligatory_monfasel>َآ</rule>",
-                "أَصۡحَ<rule class=madda_normal>ـٰ</rule>بُ",
-                "<rule class=ham_wasl>ٱ</rule>لۡمَيۡمَنَةِ",
-                "٨"
-            ]
+            "فَأَصۡحَ<rule class=madda_normal>ـٰ</rule>بُ",
+            "<rule class=ham_wasl>ٱ</rule>لۡمَيۡمَنَةِ",
+            "م<rule class=madda_obligatory_monfasel>َآ</rule>",
+            "أَصۡحَ<rule class=madda_normal>ـٰ</rule>بُ",
+            "<rule class=ham_wasl>ٱ</rule>لۡمَيۡمَنَةِ",
+            "٨"
         ],
         "9": [
-            [
-                "وَأَصۡحَ<rule class=madda_normal>ـٰ</rule>بُ",
-                "<rule class=ham_wasl>ٱ</rule>لۡمَشۡــَٔمَةِ",
-                "م<rule class=madda_obligatory_monfasel>َآ</rule>",
-                "أَصۡحَ<rule class=madda_normal>ـٰ</rule>بُ",
-                "<rule class=ham_wasl>ٱ</rule>لۡمَشۡــَٔمَةِ",
-                "٩"
-            ]
+            "وَأَصۡحَ<rule class=madda_normal>ـٰ</rule>بُ",
+            "<rule class=ham_wasl>ٱ</rule>لۡمَشۡــَٔمَةِ",
+            "م<rule class=madda_obligatory_monfasel>َآ</rule>",
+            "أَصۡحَ<rule class=madda_normal>ـٰ</rule>بُ",
+            "<rule class=ham_wasl>ٱ</rule>لۡمَشۡــَٔمَةِ",
+            "٩"
         ],
         "10": [
-            [
-                "وَ<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>سَّ<rule class=madda_normal>ـٰ</rule>بِقُونَ",
-                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>سَّ<rule class=madda_normal>ـٰ</rule>بِق<rule class=madda_permissible>ُو</rule>نَ",
-                "١٠"
-            ]
+            "وَ<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>سَّ<rule class=madda_normal>ـٰ</rule>بِقُونَ",
+            "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>سَّ<rule class=madda_normal>ـٰ</rule>بِق<rule class=madda_permissible>ُو</rule>نَ",
+            "١٠"
         ]
     }
 }

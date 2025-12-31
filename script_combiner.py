@@ -16,7 +16,7 @@ def combine_scripts(folder_path: str) -> dict:
                         if (ayah_number not in combined_scripts[surah_number]):
                             combined_scripts[surah_number][ayah_number] = list(
                             )
-                        combined_scripts[surah_number][ayah_number].append(
+                        combined_scripts[surah_number][ayah_number].extend(
                             ayah)
 
     return combined_scripts

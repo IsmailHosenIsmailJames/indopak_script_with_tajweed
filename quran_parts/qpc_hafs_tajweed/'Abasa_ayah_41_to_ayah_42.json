@@ -1,20 +1,16 @@
 {
     "80": {
         "41": [
-            [
-                "تَرۡهَقُهَا",
-                "قَتَرَةٌ",
-                "٤١"
-            ]
+            "تَرۡهَقُهَا",
+            "قَتَرَةٌ",
+            "٤١"
         ],
         "42": [
-            [
-                "أُ<rule class=slnt>وۡ</rule>لَ<rule class=madda_obligatory_mottasel>ـٰٓ</rule>ئِكَ",
-                "هُمُ",
-                "<rule class=ham_wasl>ٱ</rule>لۡكَفَرَةُ",
-                "<rule class=ham_wasl>ٱ</rule>لۡفَجَرَةُ",
-                "٤٢"
-            ]
+            "أُ<rule class=slnt>وۡ</rule>لَ<rule class=madda_obligatory_mottasel>ـٰٓ</rule>ئِكَ",
+            "هُمُ",
+            "<rule class=ham_wasl>ٱ</rule>لۡكَفَرَةُ",
+            "<rule class=ham_wasl>ٱ</rule>لۡفَجَرَةُ",
+            "٤٢"
         ]
     }
 }

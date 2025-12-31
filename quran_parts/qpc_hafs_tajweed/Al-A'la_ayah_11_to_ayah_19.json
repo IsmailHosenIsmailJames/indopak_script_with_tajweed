@@ -1,84 +1,66 @@
 {
     "87": {
         "11": [
-            [
-                "وَيَتَجَ<rule class=ghunnah>نّ</rule>َبُهَا",
-                "<rule class=ham_wasl>ٱ</rule>لۡأَشۡقَى",
-                "١١"
-            ]
+            "وَيَتَجَ<rule class=ghunnah>نّ</rule>َبُهَا",
+            "<rule class=ham_wasl>ٱ</rule>لۡأَشۡقَى",
+            "١١"
         ],
         "12": [
-            [
-                "ٱلَّذِى",
-                "يَصۡلَى",
-                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule><rule class=ghunnah>نّ</rule>َارَ",
-                "<rule class=ham_wasl>ٱ</rule>لۡكُ<rule class=qalaqah>بۡ</rule>رَىٰ",
-                "١٢"
-            ]
+            "ٱلَّذِى",
+            "يَصۡلَى",
+            "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule><rule class=ghunnah>نّ</rule>َارَ",
+            "<rule class=ham_wasl>ٱ</rule>لۡكُ<rule class=qalaqah>بۡ</rule>رَىٰ",
+            "١٢"
         ],
         "13": [
-            [
-                "ثُ<rule class=ghunnah>مّ</rule>َ",
-                "لَا",
-                "يَمُوتُ",
-                "فِيهَا",
-                "وَلَا",
-                "يَحۡيَىٰ",
-                "١٣"
-            ]
+            "ثُ<rule class=ghunnah>مّ</rule>َ",
+            "لَا",
+            "يَمُوتُ",
+            "فِيهَا",
+            "وَلَا",
+            "يَحۡيَىٰ",
+            "١٣"
         ],
         "14": [
-            [
-                "قَ<rule class=qalaqah>دۡ</rule>",
-                "أَفۡلَحَ",
-                "مَ<rule class=ikhafa>ن</rule>",
-                "<rule class=ikhafa>ت</rule>َزَكَّىٰ",
-                "١٤"
-            ]
+            "قَ<rule class=qalaqah>دۡ</rule>",
+            "أَفۡلَحَ",
+            "مَ<rule class=ikhafa>ن</rule>",
+            "<rule class=ikhafa>ت</rule>َزَكَّىٰ",
+            "١٤"
         ],
         "15": [
-            [
-                "وَذَكَرَ",
-                "<rule class=ham_wasl>ٱ</rule>سۡمَ",
-                "رَبِّه<rule class=madda_normal>ِۦ</rule>",
-                "فَصَلَّىٰ",
-                "١٥"
-            ]
+            "وَذَكَرَ",
+            "<rule class=ham_wasl>ٱ</rule>سۡمَ",
+            "رَبِّه<rule class=madda_normal>ِۦ</rule>",
+            "فَصَلَّىٰ",
+            "١٥"
         ],
         "16": [
-            [
-                "بَلۡ",
-                "تُؤۡثِرُونَ",
-                "<rule class=ham_wasl>ٱ</rule>لۡحَيَ<rule class=slnt>و</rule><rule class=madda_normal>ٰ</rule>ةَ",
-                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>دُّنۡيَا",
-                "١٦"
-            ]
+            "بَلۡ",
+            "تُؤۡثِرُونَ",
+            "<rule class=ham_wasl>ٱ</rule>لۡحَيَ<rule class=slnt>و</rule><rule class=madda_normal>ٰ</rule>ةَ",
+            "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>دُّنۡيَا",
+            "١٦"
         ],
         "17": [
-            [
-                "وَ<rule class=ham_wasl>ٱ</rule>لۡأَخِرَةُ",
-                "خَيۡ<rule class=idgham_ghunnah>رٌ</rule>",
-                "<rule class=idgham_ghunnah>و</rule>َأَ<rule class=qalaqah>بۡ</rule>قَىٰٓ",
-                "١٧"
-            ]
+            "وَ<rule class=ham_wasl>ٱ</rule>لۡأَخِرَةُ",
+            "خَيۡ<rule class=idgham_ghunnah>رٌ</rule>",
+            "<rule class=idgham_ghunnah>و</rule>َأَ<rule class=qalaqah>بۡ</rule>قَىٰٓ",
+            "١٧"
         ],
         "18": [
-            [
-                "إِ<rule class=ghunnah>نّ</rule>َ",
-                "هَ<rule class=madda_normal>ـٰ</rule>ذَا",
-                "لَفِى",
-                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>صُّحُفِ",
-                "<rule class=ham_wasl>ٱ</rule>لۡأُولَىٰ",
-                "١٨"
-            ]
+            "إِ<rule class=ghunnah>نّ</rule>َ",
+            "هَ<rule class=madda_normal>ـٰ</rule>ذَا",
+            "لَفِى",
+            "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>صُّحُفِ",
+            "<rule class=ham_wasl>ٱ</rule>لۡأُولَىٰ",
+            "١٨"
         ],
         "19": [
-            [
-                "صُحُفِ",
-                "إِ<rule class='qalaqah'>بۡ</rule>ر<rule class='madda_normal'>ٰ</rule>هِيمَ",
-                "وَمُوسَىٰ",
-                "١٩"
-            ]
+            "صُحُفِ",
+            "إِ<rule class='qalaqah'>بۡ</rule>ر<rule class='madda_normal'>ٰ</rule>هِيمَ",
+            "وَمُوسَىٰ",
+            "١٩"
         ]
     }
 }

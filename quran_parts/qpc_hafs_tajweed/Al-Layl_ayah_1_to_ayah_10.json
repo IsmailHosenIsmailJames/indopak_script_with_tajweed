@@ -1,83 +1,63 @@
 {
     "92": {
         "1": [
-            [
-                "وَ<rule class=ham_wasl>ٱ</rule>لَّيۡلِ",
-                "إِذَا",
-                "يَغۡشَىٰ",
-                "١"
-            ]
+            "وَ<rule class=ham_wasl>ٱ</rule>لَّيۡلِ",
+            "إِذَا",
+            "يَغۡشَىٰ",
+            "١"
         ],
         "2": [
-            [
-                "وَ<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule><rule class=ghunnah>نّ</rule>َهَارِ",
-                "إِذَا",
-                "تَجَلَّىٰ",
-                "٢"
-            ]
+            "وَ<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule><rule class=ghunnah>نّ</rule>َهَارِ",
+            "إِذَا",
+            "تَجَلَّىٰ",
+            "٢"
         ],
         "3": [
-            [
-                "وَمَا",
-                "خَلَقَ",
-                "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>ذَّكَرَ",
-                "وَ<rule class=ham_wasl>ٱ</rule>لۡأُ<rule class=ikhafa>نث</rule>َىٰٓ",
-                "٣"
-            ]
+            "وَمَا",
+            "خَلَقَ",
+            "<rule class=ham_wasl>ٱ</rule><rule class=laam_shamsiyah>ل</rule>ذَّكَرَ",
+            "وَ<rule class=ham_wasl>ٱ</rule>لۡأُ<rule class=ikhafa>نث</rule>َىٰٓ",
+            "٣"
         ],
         "4": [
-            [
-                "إِ<rule class=ghunnah>نّ</rule>َ",
-                "سَعۡيَكُمۡ",
-                "لَشَتَّىٰ",
-                "٤"
-            ]
+            "إِ<rule class=ghunnah>نّ</rule>َ",
+            "سَعۡيَكُمۡ",
+            "لَشَتَّىٰ",
+            "٤"
         ],
         "5": [
-            [
-                "فَأَ<rule class=ghunnah>مّ</rule>َا",
-                "مَنۡ",
-                "أَعۡطَىٰ",
-                "وَ<rule class=ham_wasl>ٱ</rule>تَّقَىٰ",
-                "٥"
-            ]
+            "فَأَ<rule class=ghunnah>مّ</rule>َا",
+            "مَنۡ",
+            "أَعۡطَىٰ",
+            "وَ<rule class=ham_wasl>ٱ</rule>تَّقَىٰ",
+            "٥"
         ],
         "6": [
-            [
-                "وَصَدَّقَ",
-                "بِ<rule class=ham_wasl>ٱ</rule>لۡحُسۡنَىٰ",
-                "٦"
-            ]
+            "وَصَدَّقَ",
+            "بِ<rule class=ham_wasl>ٱ</rule>لۡحُسۡنَىٰ",
+            "٦"
         ],
         "7": [
-            [
-                "فَسَنُيَسِّرُهُ<rule class=madda_normal>ۥ</rule>",
-                "لِلۡيُسۡرَىٰ",
-                "٧"
-            ]
+            "فَسَنُيَسِّرُهُ<rule class=madda_normal>ۥ</rule>",
+            "لِلۡيُسۡرَىٰ",
+            "٧"
         ],
         "8": [
-            [
-                "وَأَ<rule class=ghunnah>مّ</rule>َا",
-                "م<rule class=iqlab>َنۢ</rule>",
-                "<rule class=iqlab>ب</rule>َخِلَ",
-                "وَ<rule class=ham_wasl>ٱ</rule>سۡتَغۡنَىٰ",
-                "٨"
-            ]
+            "وَأَ<rule class=ghunnah>مّ</rule>َا",
+            "م<rule class=iqlab>َنۢ</rule>",
+            "<rule class=iqlab>ب</rule>َخِلَ",
+            "وَ<rule class=ham_wasl>ٱ</rule>سۡتَغۡنَىٰ",
+            "٨"
         ],
         "9": [
-            [
-                "وَكَذَّبَ",
-                "بِ<rule class=ham_wasl>ٱ</rule>لۡحُسۡنَىٰ",
-                "٩"
-            ]
+            "وَكَذَّبَ",
+            "بِ<rule class=ham_wasl>ٱ</rule>لۡحُسۡنَىٰ",
+            "٩"
         ],
         "10": [
-            [
-                "فَسَنُيَسِّرُهُ<rule class=madda_normal>ۥ</rule>",
-                "لِلۡعُسۡرَىٰ",
-                "١٠"
-            ]
+            "فَسَنُيَسِّرُهُ<rule class=madda_normal>ۥ</rule>",
+            "لِلۡعُسۡرَىٰ",
+            "١٠"
         ]
     }
 }

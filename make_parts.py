@@ -21,7 +21,7 @@ def make_parts_of_scripts(
             if first_ayah_count == "":
                 first_ayah_count = ayah_number
 
-            ayah_dict[surah_number][ayah_number].append(words_list)
+            ayah_dict[surah_number][ayah_number].extend(words_list)
 
             ayah_count += 1
             if (ayah_length_per_parts <= ayah_count

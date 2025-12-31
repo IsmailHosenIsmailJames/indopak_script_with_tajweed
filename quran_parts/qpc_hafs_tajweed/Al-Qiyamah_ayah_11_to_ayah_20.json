@@ -1,97 +1,77 @@
 {
     "75": {
         "11": [
-            [
-                "كَلَّا",
-                "لَا",
-                "وَزَرَ",
-                "١١"
-            ]
+            "كَلَّا",
+            "لَا",
+            "وَزَرَ",
+            "١١"
         ],
         "12": [
-            [
-                "إِلَىٰ",
-                "رَبِّكَ",
-                "يَوۡمَئِذٍ",
-                "<rule class=ham_wasl>ٱ</rule>لۡمُسۡتَقَرُّ",
-                "١٢"
-            ]
+            "إِلَىٰ",
+            "رَبِّكَ",
+            "يَوۡمَئِذٍ",
+            "<rule class=ham_wasl>ٱ</rule>لۡمُسۡتَقَرُّ",
+            "١٢"
         ],
         "13": [
-            [
-                "يُنَبَّؤُ<rule class=slnt>اۡ</rule>",
-                "<rule class=ham_wasl>ٱ</rule>لۡإِ<rule class=ikhafa>نس</rule>َ<rule class=madda_normal>ـٰ</rule>نُ",
-                "يَوۡمَئِ<rule class=iqlab>ذِۭ</rule>",
-                "<rule class=iqlab>ب</rule>ِمَا",
-                "قَدَّمَ",
-                "وَأَخَّرَ",
-                "١٣"
-            ]
+            "يُنَبَّؤُ<rule class=slnt>اۡ</rule>",
+            "<rule class=ham_wasl>ٱ</rule>لۡإِ<rule class=ikhafa>نس</rule>َ<rule class=madda_normal>ـٰ</rule>نُ",
+            "يَوۡمَئِ<rule class=iqlab>ذِۭ</rule>",
+            "<rule class=iqlab>ب</rule>ِمَا",
+            "قَدَّمَ",
+            "وَأَخَّرَ",
+            "١٣"
         ],
         "14": [
-            [
-                "بَلِ",
-                "<rule class=ham_wasl>ٱ</rule>لۡإِ<rule class=ikhafa>نس</rule>َ<rule class=madda_normal>ـٰ</rule>نُ",
-                "عَلَىٰ",
-                "نَفۡسِه<rule class=madda_normal>ِۦ</rule>",
-                "بَصِيرَةٌ",
-                "١٤"
-            ]
+            "بَلِ",
+            "<rule class=ham_wasl>ٱ</rule>لۡإِ<rule class=ikhafa>نس</rule>َ<rule class=madda_normal>ـٰ</rule>نُ",
+            "عَلَىٰ",
+            "نَفۡسِه<rule class=madda_normal>ِۦ</rule>",
+            "بَصِيرَةٌ",
+            "١٤"
         ],
         "15": [
-            [
-                "وَلَوۡ",
-                "أَلۡقَىٰ",
-                "مَعَاذِيرَهُۥ",
-                "١٥"
-            ]
+            "وَلَوۡ",
+            "أَلۡقَىٰ",
+            "مَعَاذِيرَهُۥ",
+            "١٥"
         ],
         "16": [
-            [
-                "لَا",
-                "تُحَرِّكۡ",
-                "بِه<rule class=madda_normal>ِۦ</rule>",
-                "لِسَانَكَ",
-                "لِتَعۡجَلَ",
-                "بِهِۦٓ",
-                "١٦"
-            ]
+            "لَا",
+            "تُحَرِّكۡ",
+            "بِه<rule class=madda_normal>ِۦ</rule>",
+            "لِسَانَكَ",
+            "لِتَعۡجَلَ",
+            "بِهِۦٓ",
+            "١٦"
         ],
         "17": [
-            [
-                "إِ<rule class=ghunnah>نّ</rule>َ",
-                "عَلَيۡنَا",
-                "جَمۡعَهُ<rule class=madda_normal>ۥ</rule>",
-                "وَقُرۡءَانَهُۥ",
-                "١٧"
-            ]
+            "إِ<rule class=ghunnah>نّ</rule>َ",
+            "عَلَيۡنَا",
+            "جَمۡعَهُ<rule class=madda_normal>ۥ</rule>",
+            "وَقُرۡءَانَهُۥ",
+            "١٧"
         ],
         "18": [
-            [
-                "فَإِذَا",
-                "قَرَأۡنَ<rule class=madda_normal>ـٰ</rule>هُ",
-                "فَ<rule class=ham_wasl>ٱ</rule>تَّبِعۡ",
-                "قُرۡءَانَهُۥ",
-                "١٨"
-            ]
+            "فَإِذَا",
+            "قَرَأۡنَ<rule class=madda_normal>ـٰ</rule>هُ",
+            "فَ<rule class=ham_wasl>ٱ</rule>تَّبِعۡ",
+            "قُرۡءَانَهُۥ",
+            "١٨"
         ],
         "19": [
-            [
-                "ثُ<rule class=ghunnah>مّ</rule>َ",
-                "إِ<rule class=ghunnah>نّ</rule>َ",
-                "عَلَيۡنَا",
-                "بَيَانَهُۥ",
-                "١٩"
-            ]
+            "ثُ<rule class=ghunnah>مّ</rule>َ",
+            "إِ<rule class=ghunnah>نّ</rule>َ",
+            "عَلَيۡنَا",
+            "بَيَانَهُۥ",
+            "١٩"
         ],
         "20": [
-            [
-                "كَلَّا",
-                "بَلۡ",
-                "تُحِبُّونَ",
-                "<rule class=ham_wasl>ٱ</rule>لۡعَاجِلَةَ",
-                "٢٠"
-            ]
+            "كَلَّا",
+            "بَلۡ",
+            "تُحِبُّونَ",
+            "<rule class=ham_wasl>ٱ</rule>لۡعَاجِلَةَ",
+            "٢٠"
         ]
     }
 }

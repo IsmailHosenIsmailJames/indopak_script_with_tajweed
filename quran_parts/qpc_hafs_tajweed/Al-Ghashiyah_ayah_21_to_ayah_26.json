@@ -1,56 +1,44 @@
 {
     "88": {
         "21": [
-            [
-                "فَذَكِّرۡ",
-                "إِ<rule class=ghunnah>نّ</rule>َم<rule class=madda_obligatory_monfasel>َآ</rule>",
-                "أَ<rule class=ikhafa>نت</rule>َ",
-                "مُذَكِّرٌ",
-                "٢١"
-            ]
+            "فَذَكِّرۡ",
+            "إِ<rule class=ghunnah>نّ</rule>َم<rule class=madda_obligatory_monfasel>َآ</rule>",
+            "أَ<rule class=ikhafa>نت</rule>َ",
+            "مُذَكِّرٌ",
+            "٢١"
         ],
         "22": [
-            [
-                "لَّسۡتَ",
-                "عَلَيۡه<rule class=ikhafa_shafawi>ِم</rule>",
-                "<rule class=ikhafa_shafawi>ب</rule>ِمُصَيۡطِرٍ",
-                "٢٢"
-            ]
+            "لَّسۡتَ",
+            "عَلَيۡه<rule class=ikhafa_shafawi>ِم</rule>",
+            "<rule class=ikhafa_shafawi>ب</rule>ِمُصَيۡطِرٍ",
+            "٢٢"
         ],
         "23": [
-            [
-                "إِلَّا",
-                "مَ<rule class=ikhafa>ن</rule>",
-                "<rule class=ikhafa>ت</rule>َوَلَّىٰ",
-                "وَكَفَرَ",
-                "٢٣"
-            ]
+            "إِلَّا",
+            "مَ<rule class=ikhafa>ن</rule>",
+            "<rule class=ikhafa>ت</rule>َوَلَّىٰ",
+            "وَكَفَرَ",
+            "٢٣"
         ],
         "24": [
-            [
-                "فَيُعَذِّبُهُ",
-                "<rule class=ham_wasl>ٱ</rule>للَّهُ",
-                "<rule class=ham_wasl>ٱ</rule>لۡعَذَابَ",
-                "<rule class=ham_wasl>ٱ</rule>لۡأَكۡبَرَ",
-                "٢٤"
-            ]
+            "فَيُعَذِّبُهُ",
+            "<rule class=ham_wasl>ٱ</rule>للَّهُ",
+            "<rule class=ham_wasl>ٱ</rule>لۡعَذَابَ",
+            "<rule class=ham_wasl>ٱ</rule>لۡأَكۡبَرَ",
+            "٢٤"
         ],
         "25": [
-            [
-                "إِ<rule class=ghunnah>نّ</rule>َ",
-                "إِلَيۡن<rule class=madda_obligatory_monfasel>َآ</rule>",
-                "إِيَابَهُمۡ",
-                "٢٥"
-            ]
+            "إِ<rule class=ghunnah>نّ</rule>َ",
+            "إِلَيۡن<rule class=madda_obligatory_monfasel>َآ</rule>",
+            "إِيَابَهُمۡ",
+            "٢٥"
         ],
         "26": [
-            [
-                "ثُ<rule class=ghunnah>مّ</rule>َ",
-                "إِ<rule class=ghunnah>نّ</rule>َ",
-                "عَلَيۡنَا",
-                "حِسَابَهُم",
-                "٢٦"
-            ]
+            "ثُ<rule class=ghunnah>مّ</rule>َ",
+            "إِ<rule class=ghunnah>نّ</rule>َ",
+            "عَلَيۡنَا",
+            "حِسَابَهُم",
+            "٢٦"
         ]
     }
 }

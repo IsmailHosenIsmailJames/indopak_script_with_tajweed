@@ -1,19 +1,15 @@
 {
     "53": {
         "61": [
-            [
-                "وَأَ<rule class=ikhafa>نت</rule>ُمۡ",
-                "سَ<rule class=madda_normal>ـٰ</rule>مِد<rule class=madda_permissible>ُو</rule>نَ",
-                "٦١"
-            ]
+            "وَأَ<rule class=ikhafa>نت</rule>ُمۡ",
+            "سَ<rule class=madda_normal>ـٰ</rule>مِد<rule class=madda_permissible>ُو</rule>نَ",
+            "٦١"
         ],
         "62": [
-            [
-                "فَ<rule class=ham_wasl>ٱ</rule>سۡجُدُو<rule class=slnt>اۡ</rule>",
-                "لِلَّهِ",
-                "وَ<rule class=ham_wasl>ٱ</rule>عۡبُدُو<rule class=slnt>اۡ</rule> ۩",
-                "٦٢"
-            ]
+            "فَ<rule class=ham_wasl>ٱ</rule>سۡجُدُو<rule class=slnt>اۡ</rule>",
+            "لِلَّهِ",
+            "وَ<rule class=ham_wasl>ٱ</rule>عۡبُدُو<rule class=slnt>اۡ</rule> ۩",
+            "٦٢"
         ]
     }
 }
