@@ -19,6 +19,44 @@ We need to make sure that those character does't exits in indopak_script, you wi
 We have Quran parts of indopak_script at `quran_parts indopak_script`folder and qpc_hafs_tajweed at `quran_parts/qpc_hafs_tajweed` folder. We have quran parts name as like this : `quran_parts/indopak_script/Ad-Dukhan_ayah_51_to_ayah_59.json` and `quran_parts/qpc_hafs_tajweed/Ad-Dukhan_ayah_51_to_ayah_59.json`. Here `Ad-Dukhan` is surah name and each part has at most 10 ayahs.
 `ayah_51_to_ayah_59` means ayah 51 to ayah 59. so you will find them and use them easily. part's file name is same for both indopak_script and qpc_hafs_tajweed.
 
+Here is the  list of rules tags :
+[
+    "<rule class=ham_wasl>",
+    "<rule class=laam_shamsiyah>",
+    "<rule class=madda_normal>",
+    "<rule class=madda_permissible>",
+    "<rule class='ham_wasl'>",
+    "<rule class='laam_shamsiyah'>",
+    "<rule class='madda_normal'>",
+    "<rule class=madda_necessary>",
+    "<rule class=idgham_wo_ghunnah>",
+    "<rule class=slnt>",
+    "<rule class=ghunnah>",
+    "<rule class=qalaqah>",
+    "<rule class=ikhafa>",
+    "<rule class=madda_obligatory_monfasel>",
+    "<rule class=madda_obligatory_mottasel>",
+    "<rule class=idgham_ghunnah>",
+    "<rule class=ikhafa_shafawi>",
+    "<rule class=idgham_shafawi>",
+    "<rule class=iqlab>",
+    "<rule class='idgham_ghunnah'>",
+    "<rule class='ikhafa'>",
+    "<rule class='madda_obligatory_mottasel'>",
+    "<rule class='madda_permissible'>",
+    "<rule class='ikhafa_shafawi'>",
+    "<rule class='qalaqah'>",
+    "<rule class='iqlab'>",
+    "<rule class='idgham_wo_ghunnah'>",
+    "<rule class='ghunnah'>",
+    "<rule class='slnt'>",
+    "<rule class=idgham_mutajanisayn>",
+    "<rule class='idgham_shafawi'>",
+    "<rule class=idgham_mutaqaribayn>",
+    "<rule class='madda_obligatory_monfasel'>",
+    "<rule class='idgham_mutajanisayn'>",
+    "<rule class=\"ikhafa_shafawi\" data-bs-original-title=\"\" title=\"\">"
+]
 
 Here is the tajweed guide. It include most of the tajweed rules.
 
