@@ -6,10 +6,10 @@
             "٤١"
         ],
         "42": [
-            "اُولٰٓٮِٕكَ",
+            "اُ<rule class=slnt>و</rule>لَ<rule class=madda_obligatory_mottasel>ٰٓ</rule>ٮِٕكَ",
             "هُمُ",
-            "الۡكَفَرَةُ",
-            "الۡفَجَرَةُ‏",
+            "<rule class=ham_wasl>ا</rule>لۡكَفَرَةُ",
+            "<rule class=ham_wasl>ا</rule>لۡفَجَرَةُ‏",
             "٤٢"
         ]
     }

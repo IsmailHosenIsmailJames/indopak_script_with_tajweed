@@ -2,11 +2,11 @@
     "19": {
         "81": [
             "وَاتَّخَذُوۡا",
-            "مِنۡ",
-            "دُوۡنِ",
-            "اللّٰهِ",
-            "اٰلِهَةً",
-            "لِّيَكُوۡنُوۡا",
+            "مِ<rule class=ikhafa>نۡ</rule>",
+            "<rule class=ikhafa>د</rule>ُوۡنِ",
+            "<rule class=ham_wasl>ا</rule>للّٰهِ",
+            "اٰلِهَة<rule class=idgham_wo_ghunnah>ً</rule>",
+            "<rule class=idgham_wo_ghunnah>لّ</rule>ِيَكُوۡنُوۡا",
             "لَهُمۡ",
             "عِزًّا ۙ‏ ﻿﻿",
             "٨١"
@@ -23,11 +23,11 @@
         "83": [
             "اَلَمۡ",
             "تَرَ",
-            "اَنَّاۤ",
+            "اَ<rule class=ghunnah>نّ</rule>َاۤ",
             "اَرۡسَلۡنَا",
-            "الشَّيٰـطِيۡنَ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>شَّيٰـطِيۡنَ",
             "عَلَى",
-            "الۡكٰفِرِيۡنَ",
+            "<rule class=ham_wasl>ا</rule>لۡكٰفِرِيۡنَ",
             "تَؤُزُّهُمۡ",
             "اَزًّا ۙ‏",
             "٨٣"
@@ -36,7 +36,7 @@
             "فَلَا",
             "تَعۡجَلۡ",
             "عَلَيۡهِمۡ​ ؕ",
-            "اِنَّمَا",
+            "اِ<rule class=ghunnah>نّ</rule>َمَا",
             "نَـعُدُّ",
             "لَهُمۡ",
             "عَدًّا​ ۚ‏",
@@ -45,36 +45,36 @@
         "85": [
             "يَوۡمَ",
             "نَحۡشُرُ",
-            "الۡمُتَّقِيۡنَ",
+            "<rule class=ham_wasl>ا</rule>لۡمُتَّقِيۡنَ",
             "اِلَى",
-            "الرَّحۡمٰنِ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>رَّحۡمٰنِ",
             "وَفۡدًا​ ۙ‏",
             "٨٥"
         ],
         "86": [
             "وَّنَسُوۡقُ",
-            "الۡمُجۡرِمِيۡنَ",
+            "<rule class=ham_wasl>ا</rule>لۡمُ<rule class=qalaqah>جۡ</rule>رِمِيۡنَ",
             "اِلٰى",
-            "جَهَـنَّمَ",
+            "جَهَـ<rule class=ghunnah>نّ</rule>َمَ",
             "وِرۡدًا​ ۘ‏",
             "٨٦"
         ],
         "87": [
             "لَا",
             "يَمۡلِكُوۡنَ",
-            "الشَّفَاعَةَ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>شَّفَاعَةَ",
             "اِلَّا",
             "مَنِ",
-            "اتَّخَذَ",
+            "<rule class=ham_wasl>ا</rule>تَّخَذَ",
             "عِنۡدَ",
-            "الرَّحۡمٰنِ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>رَّحۡمٰنِ",
             "عَهۡدًا​ ۘ‏",
             "٨٧"
         ],
         "88": [
             "وَقَالُوۡا",
-            "اتَّخَذَ",
-            "الرَّحۡمٰنُ",
+            "<rule class=ham_wasl>ا</rule>تَّخَذَ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>رَّحۡمٰنُ",
             "وَلَدًا ؕ‏",
             "٨٨"
         ],
@@ -87,13 +87,13 @@
         ],
         "90": [
             "تَكَادُ",
-            "السَّمٰوٰتُ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّمٰوٰتُ",
             "يَتَفَطَّرۡنَ",
             "مِنۡهُ",
-            "وَتَـنۡشَقُّ",
-            "الۡاَرۡضُ",
+            "وَتَ<rule class=ikhafa>ـنۡش</rule>َقُّ",
+            "<rule class=ham_wasl>ا</rule>لۡاَرۡضُ",
             "وَتَخِرُّ",
-            "الۡجِبَالُ",
+            "<rule class=ham_wasl>ا</rule>لۡجِبَالُ",
             "هَدًّا ۙ‏",
             "٩٠"
         ]

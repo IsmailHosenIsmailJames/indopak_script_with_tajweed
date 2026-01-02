@@ -2,27 +2,27 @@
     "55": {
         "41": [
             "يُعۡرَفُ",
-            "الۡمُجۡرِمُوۡنَ",
+            "<rule class=ham_wasl>ا</rule>لۡمُ<rule class=qalaqah>جۡ</rule>رِمُوۡنَ",
             "بِسِيۡمٰهُمۡ",
             "فَيُؤۡخَذُ",
-            "بِالنَّوَاصِىۡ",
-            "وَ الۡاَقۡدَامِ​ۚ‏ ﻿﻿",
+            "بِ<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule><rule class=ghunnah>نّ</rule>َوَاصِىۡ",
+            "وَ<rule class=ham_wasl>ا</rule>لۡاَ<rule class=qalaqah>قۡ</rule>دَامِ​ۚ‏ ﻿﻿",
             "٤١"
         ],
         "42": [
             "فَبِاَىِّ",
-            "اٰلَاۤءِ",
+            "ءَا<rule class=madda_normal>ل</rule>َ<rule class=madda_obligatory_mottasel>اۤ</rule>ءِ",
             "رَبِّكُمَا",
-            "تُكَذِّبٰنِ‏",
+            "تُكَذِّبٰ<rule class=madda_permissible>نِ</rule>‏",
             "٤٢"
         ],
         "43": [
-            "هٰذِهٖ",
-            "جَهَنَّمُ",
-            "الَّتِىۡ",
+            "هٰذِه<rule class=madda_normal>ٖ</rule>",
+            "جَهَ<rule class=ghunnah>نّ</rule>َمُ",
+            "<rule class=ham_wasl>ا</rule>لَّتِىۡ",
             "يُكَذِّبُ",
             "بِهَا",
-            "الۡمُجۡرِمُوۡنَ​ۘ‏",
+            "<rule class=ham_wasl>ا</rule>لۡمُ<rule class=qalaqah>جۡ</rule>رِمُوۡنَ​ۘ‏",
             "٤٣"
         ],
         "44": [
@@ -30,47 +30,47 @@
             "بَيۡنَهَا",
             "وَبَيۡنَ",
             "حَمِيۡمٍ",
-            "اٰنٍ​ۚ‏",
+            "اٰ<rule class=madda_permissible>نٍ</rule>​ۚ‏",
             "٤٤"
         ],
         "45": [
             "فَبِاَىِّ",
-            "اٰلَاۤءِ",
+            "ءَا<rule class=madda_normal>ل</rule>َ<rule class=madda_obligatory_mottasel>اۤ</rule>ءِ",
             "رَبِّكُمَا",
-            "تُكَذِّبٰنِ‏",
+            "تُكَذِّبٰ<rule class=madda_permissible>نِ</rule>‏",
             "٤٥"
         ],
         "46": [
             "وَلِمَنۡ",
             "خَافَ",
             "مَقَامَ",
-            "رَبِّهٖ",
-            "جَنَّتٰنِ​ۚ‏",
+            "رَبِّه<rule class=madda_normal>ٖ</rule>",
+            "جَ<rule class=ghunnah>نّ</rule>َتٰ<rule class=madda_permissible>نِ</rule>​ۚ‏",
             "٤٦"
         ],
         "47": [
             "فَبِاَىِّ",
-            "اٰلَاۤءِ",
+            "ءَا<rule class=madda_normal>ل</rule>َ<rule class=madda_obligatory_mottasel>اۤ</rule>ءِ",
             "رَبِّكُمَا",
-            "تُكَذِّبٰنِۙ‏",
+            "تُكَذِّبٰ<rule class=madda_permissible>نِ</rule>‏",
             "٤٧"
         ],
         "48": [
-            "ذَوَاتَاۤ",
-            "اَفۡنَانٍ​ۚ‏",
+            "ذَوَاتَا<rule class=madda_obligatory_monfasel>ۤ</rule>",
+            "اَفۡنَا<rule class=madda_permissible>نٍ</rule>​ۚ‏",
             "٤٨"
         ],
         "49": [
             "فَبِاَىِّ",
-            "اٰلَاۤءِ",
+            "ءَا<rule class=madda_normal>ل</rule>َ<rule class=madda_obligatory_mottasel>اۤ</rule>ءِ",
             "رَبِّكُمَا",
-            "تُكَذِّبٰنِ‏",
+            "تُكَذِّبٰ<rule class=madda_permissible>نِ</rule>‏",
             "٤٩"
         ],
         "50": [
             "فِيۡهِمَا",
             "عَيۡنٰنِ",
-            "تَجۡرِيٰنِ​ۚ‏",
+            "تَ<rule class=qalaqah>جۡ</rule>رِيٰ<rule class=madda_permissible>نِ</rule>​ۚ‏",
             "٥٠"
         ]
     }

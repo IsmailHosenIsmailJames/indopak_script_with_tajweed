@@ -1,56 +1,56 @@
 {
     "44": {
         "21": [
-            "وَاِنۡ",
-            "لَّمۡ",
-            "تُؤۡمِنُوۡا",
+            "وَاِ<rule class=idgham_wo_ghunnah>نۡ</rule>",
+            "<rule class=idgham_wo_ghunnah>لَّ</rule>مۡ",
+            "تُؤۡمِنُوۡ<rule class=slnt>ا</rule>",
             "لِىۡ",
-            "فَاعۡتَزِلُوۡنِ‏",
+            "فَ<rule class=ham_wasl>ا</rule>عۡتَزِلُوۡنِ‏",
             "٢١"
         ],
         "22": [
             "فَدَعَا",
-            "رَبَّهٗۤ",
-            "اَنَّ",
-            "هٰٓؤُلَاۤءِ",
-            "قَوۡمٌ",
-            "مُّجۡرِمُوۡنَ‏",
+            "رَبَّه<rule class=madda_obligatory_monfasel>ٗۤ</rule>",
+            "أَ<rule class=ghunnah>نَّ</rule>",
+            "هٰ<rule class=madda_obligatory_mottasel>ٓ</rule>ؤُلَ<rule class=madda_obligatory_mottasel>اۤ</rule>ءِ",
+            "قَوۡ<rule class=idgham_ghunnah>مٌ</rule>",
+            "<rule class=idgham_ghunnah>مُّ</rule><rule class=qalaqah>جۡ</rule>رِمُوۡنَ‏",
             "٢٢"
         ],
         "23": [
             "فَاَسۡرِ",
             "بِعِبَادِىۡ",
             "لَيۡلًا",
-            "اِنَّكُمۡ",
-            "مُّتَّبَعُوۡنَۙ‏",
+            "اِ<rule class=ghunnah>نَّ</rule>ك<rule class=idgham_shafawi>ُمۡ</rule>",
+            "<rule class=idgham_shafawi>مُّ</rule>تَّبَعُوۡنَۙ‏",
             "٢٣"
         ],
         "24": [
-            "وَاتۡرُكِ",
-            "الۡبَحۡرَ",
+            "وَ<rule class=ham_wasl>ا</rule>تۡرُكِ",
+            "<rule class=ham_wasl>ا</rule>لۡبَحۡرَ",
             "رَهۡوًا​ؕ",
-            "اِنَّهُمۡ",
-            "جُنۡدٌ",
-            "مُّغۡرَقُوۡنَ‏",
+            "اِ<rule class=ghunnah>نَّ</rule>هُمۡ",
+            "جُنۡ<rule class=idgham_ghunnah>دٌ</rule>",
+            "<rule class=idgham_ghunnah>مُّ</rule>غۡرَقُوۡنَ‏",
             "٢٤"
         ],
         "25": [
             "كَمۡ",
-            "تَرَكُوۡا",
-            "مِنۡ",
-            "جَنّٰتٍ",
-            "وَّعُيُوۡنٍۙ‏",
+            "تَرَكُوۡ<rule class=slnt>ا</rule>",
+            "مِ<rule class=ikhafa>نۡ</rule>",
+            "<rule class=ikhafa>جَ</rule><rule class=ghunnah>نَّ</rule>ا<rule class=idgham_ghunnah>تٍ</rule>",
+            "<rule class=idgham_ghunnah>وَّ</rule>عُيُوۡنٍۙ‏",
             "٢٥"
         ],
         "26": [
-            "وَّزُرُوۡعٍ",
-            "وَّمَقَامٍ",
-            "كَرِيۡمٍۙ‏",
+            "وَّزُرُو<rule class=idgham_ghunnah>عٍ</rule>",
+            "<rule class=idgham_ghunnah>وَّ</rule>مَقَا<rule class=ikhafa>مٍ</rule>",
+            "<rule class=ikhafa>كَ</rule>رِيۡمٍۙ‏",
             "٢٦"
         ],
         "27": [
-            "وَّنَعۡمَةٍ",
-            "كَانُوۡا",
+            "وَّنَعۡمَ<rule class=ikhafa>ةٍ</rule>",
+            "<rule class=ikhafa>كَ</rule>انُوۡ<rule class=slnt>ا</rule>",
             "فِيۡهَا",
             "فٰكِهِيۡنَۙ‏",
             "٢٧"
@@ -66,21 +66,21 @@
             "فَمَا",
             "بَكَتۡ",
             "عَلَيۡهِمُ",
-            "السَّمَآءُ",
-            "وَالۡاَرۡضُ",
+            "<rule class=ham_wasl>ا</rule>ل<rule class=laam_shamsiyah>سَّ</rule>مَا<rule class=madda_obligatory_mottasel>ٓ</rule>ءُ",
+            "وَ<rule class=ham_wasl>ا</rule>لۡاَرۡضُ",
             "وَمَا",
-            "كَانُوۡا",
-            "مُنۡظَرِيۡنَ‏ ﻿﻿",
+            "كَانُوۡ<rule class=slnt>ا</rule>",
+            "مُ<rule class=ikhafa>نۡظ</rule>َرِيۡنَ‏ ﻿﻿",
             "٢٩"
         ],
         "30": [
-            "وَلَقَدۡ",
+            "وَلَقَ<rule class=qalaqah>دۡ</rule>",
             "نَجَّيۡنَا",
-            "بَنِىۡۤ",
-            "اِسۡرَآءِيۡلَ",
+            "بَنِىۡ<rule class=madda_obligatory_monfasel>ۤ</rule>",
+            "اِسۡرَ<rule class=madda_obligatory_mottasel>آ</rule>ءِيۡلَ",
             "مِنَ",
-            "الۡعَذَابِ",
-            "الۡمُهِيۡنِۙ‏",
+            "<rule class=ham_wasl>ا</rule>لۡعَذَابِ",
+            "<rule class=ham_wasl>ا</rule>لۡمُهِيۡنِۙ‏",
             "٣٠"
         ]
     }

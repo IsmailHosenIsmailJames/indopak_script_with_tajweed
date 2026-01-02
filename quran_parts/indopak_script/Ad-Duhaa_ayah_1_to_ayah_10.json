@@ -1,11 +1,11 @@
 {
     "93": {
         "1": [
-            "وَالضُّحٰىۙ‏",
+            "وَ<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>ضُّحٰىۙ‏",
             "١"
         ],
         "2": [
-            "وَالَّيۡلِ",
+            "وَ<rule class=ham_wasl>ا</rule>لَّيۡلِ",
             "اِذَا",
             "سَجٰىۙ‏",
             "٢"
@@ -20,10 +20,10 @@
         ],
         "4": [
             "وَلَـلۡاٰخِرَةُ",
-            "خَيۡرٌ",
-            "لَّكَ",
+            "خَيۡ<rule class=idgham_wo_ghunnah>رٌ</rule>",
+            "<rule class=idgham_wo_ghunnah>لَّ</rule>كَ",
             "مِنَ",
-            "الۡاُوۡلٰىؕ‏",
+            "<rule class=ham_wasl>ا</rule>لۡاُوۡلٰىؕ‏",
             "٤"
         ],
         "5": [
@@ -35,33 +35,33 @@
         ],
         "6": [
             "اَلَمۡ",
-            "يَجِدۡكَ",
-            "يَتِيۡمًا",
-            "فَاٰوٰى‏",
+            "يَجِ<rule class=qalaqah>دۡ</rule>كَ",
+            "يَتِيۡ<rule class=ikhafa>مًا</rule>",
+            "<rule class=ikhafa>ف</rule>َاٰوٰى‏",
             "٦"
         ],
         "7": [
             "وَوَجَدَكَ",
-            "ضَآ",
-            "لًّا فَهَدٰى‏",
+            "ضَآ<rule class=ikhafa>لًّا</rule>",
+            "<rule class=ikhafa>ف</rule>َهَدٰى‏",
             "٧"
         ],
         "8": [
             "وَوَجَدَكَ",
-            "عَآٮِٕلًا",
+            "عَآ<rule class=madda_obligatory_mottasel>ٮِٕ</rule>لًا",
             "فَاَغۡنٰىؕ‏",
             "٨"
         ],
         "9": [
-            "فَاَمَّا",
-            "الۡيَتِيۡمَ",
+            "فَاَ<rule class=ghunnah>مّ</rule>َا",
+            "<rule class=ham_wasl>ا</rule>لۡيَتِيۡمَ",
             "فَلَا",
-            "تَقۡهَرۡؕ‏",
+            "تَ<rule class=qalaqah>قۡ</rule>هَرۡؕ‏",
             "٩"
         ],
         "10": [
-            "وَاَمَّا",
-            "السَّآٮِٕلَ",
+            "وَاَ<rule class=ghunnah>مّ</rule>َا",
+            "<rule class=ham_wasl>ا</rule>ل<rule class=laam_shamsiyah>سّ</rule>َآ<rule class=madda_obligatory_mottasel>ٮِٕ</rule>لَ",
             "فَلَا",
             "تَنۡهَرۡؕ‏",
             "١٠"

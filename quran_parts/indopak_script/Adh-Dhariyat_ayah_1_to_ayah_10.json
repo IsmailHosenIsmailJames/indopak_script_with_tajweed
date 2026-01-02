@@ -1,48 +1,48 @@
 {
     "51": {
         "1": [
-            "وَالذّٰرِيٰتِ",
+            "وَ<rule class=ham_wasl>ا</rule>ل<rule class=laam_shamsiyah>ذَّ</rule>ارِيٰتِ",
             "ذَرۡوًا ۙ‏",
             "١"
         ],
         "2": [
-            "فَالۡحٰمِلٰتِ",
-            "وِقۡرًا ۙ‏",
+            "فَ<rule class=ham_wasl>ا</rule>لۡحٰمِلٰتِ",
+            "وِ<rule class=qalaqah>قۡ</rule>رًا ۙ‏",
             "٢"
         ],
         "3": [
-            "فَالۡجٰرِيٰتِ",
+            "فَ<rule class=ham_wasl>ا</rule>لۡجٰرِيٰتِ",
             "يُسۡرًا ۙ‏",
             "٣"
         ],
         "4": [
-            "فَالۡمُقَسِّمٰتِ",
+            "فَ<rule class=ham_wasl>ا</rule>لۡمُقَسِّمٰتِ",
             "اَمۡرًا ۙ‏",
             "٤"
         ],
         "5": [
-            "اِنَّمَا",
+            "اِ<rule class=ghunnah>نَّ</rule>مَا",
             "تُوۡعَدُوۡنَ",
-            "لَصَادِقٌ ۙ‏",
+            "لَصَادِ<rule class=qalaqah>قٌ</rule> ۙ‏",
             "٥"
         ],
         "6": [
-            "وَّاِنَّ",
-            "الدِّيۡنَ",
-            "لوَاقِعٌ ؕ‏",
+            "وَّاِ<rule class=ghunnah>نَّ</rule>",
+            "<rule class=ham_wasl>ا</rule>ل<rule class=laam_shamsiyah>دِّ</rule>يۡنَ",
+            "لَوَاقِعٌ ؕ‏",
             "٦"
         ],
         "7": [
-            "وَالسَّمَآءِ",
+            "وَ<rule class=ham_wasl>ا</rule>ل<rule class=laam_shamsiyah>سَّ</rule>مَا<rule class=madda_obligatory_mottasel>ٓ</rule>ءِ",
             "ذَاتِ",
-            "الۡحُـبُكِ ۙ‏",
+            "<rule class=ham_wasl>ا</rule>لۡحُـبُكِ ۙ‏",
             "٧"
         ],
         "8": [
-            "اِنَّـكُمۡ",
+            "اِ<rule class=ghunnah>نَّ</rule>ـكُمۡ",
             "لَفِىۡ",
-            "قَوۡلٍ",
-            "مُّخۡتَلِفٍ ۙ‏",
+            "قَوۡ<rule class=idgham_ghunnah>لٍ</rule>",
+            "<rule class=idgham_ghunnah>مُّ</rule>خۡتَلِفٍ ۙ‏",
             "٨"
         ],
         "9": [
@@ -54,7 +54,7 @@
         ],
         "10": [
             "قُتِلَ",
-            "الۡخَـرّٰصُوۡنَۙ‏",
+            "<rule class=ham_wasl>ا</rule>لۡخَـرّٰصُوۡنَۙ‏",
             "١٠"
         ]
     }

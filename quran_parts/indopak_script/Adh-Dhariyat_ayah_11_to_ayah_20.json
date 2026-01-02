@@ -1,86 +1,86 @@
 {
     "51": {
         "11": [
-            "الَّذِيۡنَ",
+            "<rule class=ham_wasl>ا</rule>لَّذِيۡنَ",
             "هُمۡ",
             "فِىۡ",
-            "غَمۡرَةٍ",
-            "سَاهُوۡنَۙ‏",
+            "غَمۡرَ<rule class=ikhafa>ةٍ</rule>",
+            "<rule class=ikhafa>سَ</rule>اهُوۡنَۙ‏",
             "١١"
         ],
         "12": [
             "يَسۡـَٔــلُوۡنَ",
             "اَيَّانَ",
             "يَوۡمُ",
-            "الدِّيۡنِؕ‏",
+            "<rule class=ham_wasl>ا</rule>ل<rule class=laam_shamsiyah>دِّ</rule>يۡنِؕ‏",
             "١٢"
         ],
         "13": [
             "يَوۡمَ",
             "هُمۡ",
             "عَلَى",
-            "النَّارِ",
+            "<rule class=ham_wasl>ا</rule>ل<rule class=laam_shamsiyah>نَّ</rule>ارِ",
             "يُفۡتَنُوۡنَ‏",
             "١٣"
         ],
         "14": [
-            "ذُوۡقُوۡا",
+            "ذُوۡقُوۡا<rule class=slnt>​</rule>",
             "فِتۡنَتَكُمۡؕ",
             "هٰذَا",
-            "الَّذِىۡ",
-            "كُنۡتُمۡ",
-            "بِهٖ",
+            "<rule class=ham_wasl>ا</rule>لَّذِىۡ",
+            "<rule class=ikhafa>كُ</rule>نۡتُ<rule class=ikhafa_shafawi>مۡ</rule>",
+            "<rule class=ikhafa_shafawi>بِ</rule>ه<rule class=madda_normal>ٖ</rule>",
             "تَسۡتَعۡجِلُوۡنَ‏",
             "١٤"
         ],
         "15": [
-            "اِنَّ",
-            "الۡمُتَّقِيۡنَ",
+            "اِ<rule class=ghunnah>نَّ</rule>",
+            "<rule class=ham_wasl>ا</rule>لۡمُتَّقِيۡنَ",
             "فِىۡ",
-            "جَنّٰتٍ",
-            "وَّعُيُوۡنٍۙ‏",
+            "جَ<rule class=ghunnah>نَّ</rule>ا<rule class=idgham_ghunnah>تٍ</rule>",
+            "<rule class=idgham_ghunnah>وَّ</rule>عُيُوۡنٍۙ‏",
             "١٥"
         ],
         "16": [
             "اٰخِذِيۡنَ",
-            "مَاۤ",
+            "مَا<rule class=madda_obligatory_monfasel>ۤ</rule>",
             "اٰتٰٮهُمۡ",
             "رَبُّهُمۡ​ؕ",
-            "اِنَّهُمۡ",
-            "كَانُوۡا",
-            "قَبۡلَ",
+            "اِ<rule class=ghunnah>نَّ</rule>هُمۡ",
+            "كَانُوۡ<rule class=slnt>ا</rule>",
+            "قَ<rule class=qalaqah>بۡ</rule>لَ",
             "ذٰلِكَ",
             "مُحۡسِنِيۡنَؕ‏ ﻿﻿",
             "١٦"
         ],
         "17": [
-            "كَانُوۡا",
-            "قَلِيۡلًا",
-            "مِّنَ",
-            "الَّيۡلِ",
+            "كَانُوۡ<rule class=slnt>ا</rule>",
+            "قَلِيۡلَ<rule class=idgham_ghunnah>ًا</rule>",
+            "<rule class=idgham_ghunnah>مِّ</rule>نَ",
+            "<rule class=ham_wasl>ا</rule>لَّيۡلِ",
             "مَا",
             "يَهۡجَعُوۡنَ‏",
             "١٧"
         ],
         "18": [
-            "وَبِالۡاَسۡحَارِ",
+            "وَبِ<rule class=ham_wasl>ا</rule>لۡاَسۡحَارِ",
             "هُمۡ",
             "يَسۡتَغۡفِرُوۡنَ‏",
             "١٨"
         ],
         "19": [
-            "وَفِىۡۤ",
+            "وَفِى<rule class=madda_obligatory_monfasel>ۡۤ</rule>",
             "اَمۡوَالِهِمۡ",
-            "حَقٌّ",
-            "لِّلسَّآٮِٕلِ",
-            "وَالۡمَحۡرُوۡمِ‏",
+            "حَ<rule class=idgham_wo_ghunnah>قٌّ</rule>",
+            "<rule class=idgham_wo_ghunnah>لِّ</rule>لسَّاو<rule class=madda_obligatory_mottasel>ٓ</rule>ٮِٕلِ",
+            "وَ<rule class=ham_wasl>ا</rule>لۡمَحۡرُوۡمِ‏",
             "١٩"
         ],
         "20": [
             "وَفِى",
-            "الۡاَرۡضِ",
-            "اٰيٰتٌ",
-            "لِّلۡمُوۡقِنِيۡنَۙ‏",
+            "<rule class=ham_wasl>ا</rule>لۡاَرۡضِ",
+            "اٰيٰ<rule class=idgham_wo_ghunnah>تٌ</rule>",
+            "<rule class=idgham_wo_ghunnah>لِّ</rule>لۡمُوۡقِنِيۡنَۙ‏",
             "٢٠"
         ]
     }

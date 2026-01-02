@@ -6,34 +6,34 @@
             "١"
         ],
         "2": [
-            "اَنۡ",
-            "جَآءَهُ",
-            "الۡاَعۡمٰىؕ‏",
+            "اَ<rule class=ikhafa>نۡ</rule>",
+            "<rule class=ikhafa>ج</rule><rule class=madda_obligatory_mottasel>َآ</rule>ءَهُ",
+            "<rule class=ham_wasl>ا</rule>لۡاَعۡمٰىؕ‏",
             "٢"
         ],
         "3": [
             "وَمَا",
-            "يُدۡرِيۡكَ",
-            "لَعَلَّهٗ",
+            "يُ<rule class=qalaqah>دۡ</rule>رِيۡكَ",
+            "لَعَلَّه<rule class=madda_normal>ٗ</rule>",
             "يَزَّكّٰٓىۙ‏",
             "٣"
         ],
         "4": [
             "اَوۡ",
             "يَذَّكَّرُ",
-            "فَتَنۡفَعَهُ",
-            "الذِّكۡرٰىؕ‏",
+            "فَتَ<rule class=ikhafa>نۡف</rule>َعَهُ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>ذِّكۡرٰىؕ‏",
             "٤"
         ],
         "5": [
-            "اَمَّا",
+            "اَ<rule class=ghunnah>مّ</rule>َا",
             "مَنِ",
-            "اسۡتَغۡنٰىۙ‏",
+            "<rule class=ham_wasl>ا</rule>سۡتَغۡنٰىۙ‏",
             "٥"
         ],
         "6": [
-            "فَاَنۡتَ",
-            "لَهٗ",
+            "فَاَ<rule class=ikhafa>نۡت</rule>َ",
+            "لَه<rule class=madda_normal>ٗ</rule>",
             "تَصَدّٰىؕ‏",
             "٦"
         ],
@@ -41,13 +41,13 @@
             "وَمَا",
             "عَلَيۡكَ",
             "اَلَّا",
-            "يَزَّكّٰٓىؕ‏",
+            "يَزَّكّٰىؕ‏",
             "٧"
         ],
         "8": [
-            "وَاَمَّا",
-            "مَنۡ",
-            "جَآءَكَ",
+            "وَاَ<rule class=ghunnah>مّ</rule>َا",
+            "مَ<rule class=ikhafa>نۡ</rule>",
+            "<rule class=ikhafa>ج</rule><rule class=madda_obligatory_mottasel>َآ</rule>كَ",
             "يَسۡعٰىۙ‏",
             "٨"
         ],
@@ -57,7 +57,7 @@
             "٩"
         ],
         "10": [
-            "فَاَنۡتَ",
+            "فَاَ<rule class=ikhafa>نۡت</rule>َ",
             "عَنۡهُ",
             "تَلَهّٰى​ۚ‏",
             "١٠"

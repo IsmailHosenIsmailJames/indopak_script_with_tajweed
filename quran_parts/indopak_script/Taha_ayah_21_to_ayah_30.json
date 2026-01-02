@@ -7,7 +7,7 @@
             "تَخَفۡ​",
             "سَنُعِيۡدُهَا",
             "سِيۡرَتَهَا",
-            "الۡاُوۡلٰى‏",
+            "<rule class=ham_wasl>ا</rule>لۡاُوۡلٰى‏",
             "٢١"
         ],
         "22": [
@@ -15,7 +15,7 @@
             "يَدَكَ",
             "اِلَىٰ",
             "جَنَاحِكَ",
-            "تَخۡرُجۡ",
+            "تَخۡرُ<rule class=qalaqah>جۡ</rule>",
             "بَيۡضَآءَ",
             "مِنۡ",
             "غَيۡرِ",
@@ -26,16 +26,16 @@
         ],
         "23": [
             "لِنُرِيَكَ",
-            "مِنۡ",
-            "اٰيٰتِنَا",
-            "الۡـكُبۡـرٰى​ۚ‏",
+            "مِ<rule class=ikhafa>نۡ</rule>",
+            "<rule class=ikhafa>ا</rule>ٰيٰتِنَا",
+            "<rule class=ham_wasl>ا</rule>لۡـكُبۡـرٰى​ۚ‏",
             "٢٣"
         ],
         "24": [
             "اِذۡهَبۡ",
             "اِلٰى",
             "فِرۡعَوۡنَ",
-            "اِنَّهٗ",
+            "اِ<rule class=ghunnah>نّ</rule>َه<rule class=madda_normal>ٗ</rule>",
             "طَغٰى‏",
             "٢٤"
         ],
@@ -55,9 +55,9 @@
         ],
         "27": [
             "وَاحۡلُلۡ",
-            "عُقۡدَةً",
-            "مِّنۡ",
-            "لِّسَانِیْ ۙ‏",
+            "عُقۡدَة<rule class=idgham_ghunnah>ً</rule>",
+            "<rule class=idgham_ghunnah>مّ</rule>ِ<rule class=idgham_wo_ghunnah>نۡ</rule>",
+            "<rule class=idgham_wo_ghunnah>لّ</rule>ِسَانِیْ ۙ‏",
             "٢٧"
         ],
         "28": [
@@ -68,8 +68,8 @@
         "29": [
             "وَاجۡعَلْ",
             "لِّىۡ",
-            "وَزِيۡرًا",
-            "مِّنۡ",
+            "وَزِيۡر<rule class=idgham_ghunnah>ًا</rule>",
+            "<rule class=idgham_ghunnah>مّ</rule>ِنۡ",
             "اَهۡلِىْ ۙ‏",
             "٢٩"
         ],

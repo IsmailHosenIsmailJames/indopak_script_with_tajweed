@@ -1,8 +1,8 @@
 {
     "44": {
         "51": [
-            "اِنَّ",
-            "الۡمُتَّقِيۡنَ",
+            "اِ<rule class=ghunnah>نَّ</rule>",
+            "<rule class=ham_wasl>ا</rule>لۡمُتَّقِيۡنَ",
             "فِىۡ",
             "مَقَامٍ",
             "اَمِيۡنٍۙ‏",
@@ -10,27 +10,27 @@
         ],
         "52": [
             "فِىۡ",
-            "جَنّٰتٍ",
-            "وَّعُيُوۡنٍ ۙ ۚ‏",
+            "جَ<rule class=ghunnah>نَّ</rule>ا<rule class=idgham_ghunnah>تٍ</rule>",
+            "<rule class=idgham_ghunnah>وَّ</rule>عُيُوۡنٍ ۙ ۚ‏",
             "٥٢"
         ],
         "53": [
             "يَّلۡبَسُوۡنَ",
-            "مِنۡ",
-            "سُنۡدُسٍ",
-            "وَّاِسۡتَبۡرَقٍ",
-            "مُّتَقٰبِلِيۡنَۚ ۙ‏",
+            "مِ<rule class=ikhafa>نۡ</rule>",
+            "<rule class=ikhafa>سُ</rule>نۡدُ<rule class=idgham_ghunnah>سٍ</rule>",
+            "<rule class=idgham_ghunnah>وَّ</rule>اِسۡتَ<rule class=qalaqah>بۡ</rule>رَ<rule class=idgham_ghunnah>قٍ</rule>",
+            "<rule class=idgham_ghunnah>مُّ</rule>تَقٰبِلِيۡنَۚ ۙ‏",
             "٥٣"
         ],
         "54": [
             "كَذٰلِكَ",
-            "وَزَوَّجۡنٰهُمۡ",
-            "بِحُوۡرٍ",
+            "وَزَوَّ<rule class=qalaqah>جۡ</rule>نٰه<rule class=ikhafa_shafawi>ُمۡ</rule>",
+            "<rule class=ikhafa_shafawi>بِ</rule>حُوۡرٍ",
             "عِيۡنٍؕ‏",
             "٥٤"
         ],
         "55": [
-            "يَدۡعُوۡنَ",
+            "يَ<rule class=qalaqah>دۡ</rule>عُوۡنَ",
             "فِيۡهَا",
             "بِكُلِّ",
             "فَاكِهَةٍ",
@@ -41,27 +41,27 @@
             "لَا",
             "يَذُوۡقُوۡنَ",
             "فِيۡهَا",
-            "الۡمَوۡتَ",
+            "<rule class=ham_wasl>ا</rule>لۡمَوۡتَ",
             "اِلَّا",
-            "الۡمَوۡتَةَ",
-            "الۡاُوۡلٰى​ ۚ",
+            "<rule class=ham_wasl>ا</rule>لۡمَوۡتَةَ",
+            "<rule class=ham_wasl>ا</rule>لۡاُوۡلٰى​ ۚ",
             "وَوَقٰٮهُمۡ",
             "عَذَابَ",
-            "الۡجَحِيۡمِۙ‏",
+            "<rule class=ham_wasl>ا</rule>لۡجَحِيۡمِۙ‏",
             "٥٦"
         ],
         "57": [
-            "فَضۡلًا",
-            "مِّنۡ",
-            "رَّبِّكَ ​ؕ",
+            "فَضۡلَ<rule class=idgham_ghunnah>اً</rule>",
+            "<rule class=idgham_ghunnah>مِّ</rule><rule class=idgham_wo_ghunnah>نۡ</rule>",
+            "<rule class=idgham_wo_ghunnah>رَّ</rule>بِّكَ ​ؕ",
             "ذٰ لِكَ",
             "هُوَ",
-            "الۡفَوۡزُ",
-            "الۡعَظِيۡمُ‏",
+            "<rule class=ham_wasl>ا</rule>لۡفَوۡزُ",
+            "<rule class=ham_wasl>ا</rule>لۡعَظِيۡمُ‏",
             "٥٧"
         ],
         "58": [
-            "فَاِنَّمَا",
+            "فَاِ<rule class=ghunnah>نَّ</rule>مَا",
             "يَسَّرۡنٰهُ",
             "بِلِسَانِكَ",
             "لَعَلَّهُمۡ",
@@ -69,9 +69,9 @@
             "٥٨"
         ],
         "59": [
-            "فَارۡتَقِبۡ",
-            "اِنَّهُمۡ",
-            "مُّرۡتَقِبُوۡنَ‏",
+            "فَا<rule class=ham_wasl>رۡ</rule>تَقِ<rule class=qalaqah>بۡ</rule>",
+            "اِ<rule class=ghunnah>نَّ</rule>هُ<rule class=idgham_shafawi>مۡ</rule>",
+            "<rule class=idgham_shafawi>مُّ</rule>رۡتَقِبُوۡنَ‏",
             "٥٩"
         ]
     }

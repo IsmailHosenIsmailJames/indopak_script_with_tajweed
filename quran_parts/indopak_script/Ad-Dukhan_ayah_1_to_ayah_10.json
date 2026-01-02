@@ -1,23 +1,23 @@
 {
     "44": {
         "1": [
-            "حٰمٓ ​ ۛ​ۚ‏",
+            "حٰ<rule class=madda_necessary>مٓ</rule> ​ ۛ​ۚ‏",
             "١"
         ],
         "2": [
-            "وَالۡكِتٰبِ",
-            "الۡمُبِيۡنِ ​ ۛ​ۙ‏",
+            "وَ<rule class=ham_wasl>ا</rule>لۡكِتٰ<rule class=madda_normal>بِ</rule>",
+            "<rule class=ham_wasl>ا</rule>لۡمُبِيۡنِ ​ ۛ​ۙ‏",
             "٢"
         ],
         "3": [
-            "اِنَّاۤ",
-            "اَنۡزَلۡنٰهُ",
+            "اِ<rule class=ghunnah>نَّ</rule>ا<rule class=madda_obligatory_monfasel>ۤ</rule>",
+            "اَ<rule class=ikhafa>نۡز</rule>َلۡنٰهُ",
             "فِىۡ",
             "لَيۡلَةٍ",
-            "مُّبٰـرَكَةٍ​",
-            "اِنَّا",
-            "كُنَّا",
-            "مُنۡذِرِيۡنَ‏ ﻿﻿",
+            "<rule class=idgham_ghunnah>مُّ</rule>بٰـرَكَةٍ​",
+            "اِ<rule class=ghunnah>نَّ</rule>ا",
+            "كُ<rule class=ghunnah>نَّ</rule>ا",
+            "مُ<rule class=ikhafa>نۡذ</rule>ِرِيۡنَ‏ ﻿﻿",
             "٣"
         ],
         "4": [
@@ -29,37 +29,37 @@
             "٤"
         ],
         "5": [
-            "اَمۡرًا",
-            "مِّنۡ",
-            "عِنۡدِنَا​ؕ",
-            "اِنَّا",
-            "كُنَّا",
+            "اَمۡ<rule class=idgham_ghunnah>رًا</rule>",
+            "<rule class=idgham_ghunnah>مِّ</rule>نۡ",
+            "عِ<rule class=ikhafa>نۡد</rule>ِنَا<rule class=madda_obligatory_monfasel>​ؕ</rule>",
+            "اِ<rule class=ghunnah>نَّ</rule>ا",
+            "كُ<rule class=ghunnah>نَّ</rule>ا",
             "مُرۡسِلِيۡنَ​ۚ‏",
             "٥"
         ],
         "6": [
-            "رَحۡمَةً",
-            "مِّنۡ",
-            "رَّبِّكَ​ؕ",
-            "اِنَّهٗ",
+            "رَحۡمَ<rule class=idgham_ghunnah>ةً</rule>",
+            "<rule class=idgham_ghunnah>مِّ</rule>نۡ",
+            "<rule class=idgham_wo_ghunnah>رَّ</rule>بِّكَ​ؕ",
+            "اِ<rule class=ghunnah>نَّ</rule>ه<rule class=madda_normal>ٗ</rule>",
             "هُوَ",
-            "السَّمِيۡعُ",
-            "الۡعَلِيۡمُۙ‏",
+            "<rule class=ham_wasl>ا</rule>ل<rule class=laam_shamsiyah>سَّ</rule>مِيۡعُ",
+            "<rule class=ham_wasl>ا</rule>لۡعَلِيۡمُۙ‏",
             "٦"
         ],
         "7": [
             "رَبِّ",
-            "السَّمٰوٰتِ",
-            "وَالۡاَرۡضِ",
+            "<rule class=ham_wasl>ا</rule>ل<rule class=laam_shamsiyah>سَّ</rule>مٰوٰتِ",
+            "وَ<rule class=ham_wasl>ا</rule>لۡاَرۡضِ",
             "وَمَا",
-            "بَيۡنَهُمَا​ۘ",
-            "اِنۡ",
-            "كُنۡتُمۡ",
-            "مُّوۡقِنِيۡنَ‏ ﻿﻿",
+            "بَيۡنَهُمَا<rule class=madda_obligatory_monfasel>​ۘ</rule>",
+            "اِ<rule class=ikhafa>نۡ</rule>",
+            "<rule class=ikhafa>كُ</rule>نۡتُ<rule class=idgham_shafawi>مۡ</rule>",
+            "<rule class=idgham_shafawi>مُّ</rule>وۡقِنِيۡنَ‏ ﻿﻿",
             "٧"
         ],
         "8": [
-            "لَاۤ",
+            "لَا<rule class=madda_obligatory_monfasel>ۤ</rule>",
             "اِلٰهَ",
             "اِلَّا",
             "هُوَ",
@@ -67,25 +67,25 @@
             "وَيُمِيۡتُ​ؕ",
             "رَبُّكُمۡ",
             "وَرَبُّ",
-            "اٰبَآٮِٕكُمُ",
-            "الۡاَوَّلِيۡنَ‏",
+            "اٰبَا<rule class=madda_obligatory_mottasel>ٓ</rule>ٮِٕكُمُ",
+            "<rule class=ham_wasl>ا</rule>لۡاَوَّلِيۡنَ‏",
             "٨"
         ],
         "9": [
             "بَلۡ",
             "هُمۡ",
             "فِىۡ",
-            "شَكٍّ",
-            "يَّلۡعَبُوۡنَ‏",
+            "شَ<rule class=idgham_ghunnah>كٍّ</rule>",
+            "<rule class=idgham_ghunnah>يَّ</rule>لۡعَبُوۡنَ‏",
             "٩"
         ],
         "10": [
-            "فَارۡتَقِبۡ",
+            "فَا<rule class=ham_wasl>رۡ</rule>تَقِ<rule class=qalaqah>بۡ</rule>",
             "يَوۡمَ",
             "تَاۡتِى",
-            "السَّمَآءُ",
-            "بِدُخَانٍ",
-            "مُّبِيۡنٍۙ‏",
+            "<rule class=ham_wasl>ا</rule>ل<rule class=laam_shamsiyah>سَّ</rule>مَا<rule class=madda_obligatory_mottasel>ٓ</rule>ءُ",
+            "بِدُخَا<rule class=idgham_ghunnah>نٍ</rule>",
+            "<rule class=idgham_ghunnah>مُّ</rule>بِيۡنٍۙ‏",
             "١٠"
         ]
     }
