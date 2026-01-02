@@ -1,84 +1,84 @@
 {
     "23": {
         "1": [
-            "قَدۡ",
+            "قَ<rule class=qalaqah>دۡ</rule>",
             "اَفۡلَحَ",
-            "الۡمُؤۡمِنُوۡنَۙ‏",
+            "<rule class=ham_wasl>ا</rule>لۡمُؤۡمِن<rule class=madda_permissible>ُوۡ</rule>نَۙ‏",
             "١"
         ],
         "2": [
-            "الَّذِيۡنَ",
+            "<rule class=ham_wasl>ا</rule>لَّذِيۡنَ",
             "هُمۡ",
             "فِىۡ",
             "صَلَاتِهِمۡ",
-            "خَاشِعُوۡنَ ۙ‏",
+            "خٰشِع<rule class=madda_permissible>ُوۡ</rule>نَ ۙ‏",
             "٢"
         ],
         "3": [
-            "وَالَّذِيۡنَ",
+            "وَ<rule class=ham_wasl>ا</rule>لَّذِيۡنَ",
             "هُمۡ",
             "عَنِ",
-            "اللَّغۡوِ",
-            "مُعۡرِضُوۡنَۙ‏",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>لَّغۡوِ",
+            "مُعۡرِض<rule class=madda_permissible>ُوۡ</rule>نَۙ‏",
             "٣"
         ],
         "4": [
-            "وَالَّذِيۡنَ",
+            "وَ<rule class=ham_wasl>ا</rule>لَّذِيۡنَ",
             "هُمۡ",
-            "لِلزَّكٰوةِ",
-            "فَاعِلُوۡنَۙ‏",
+            "لِلزَّكٰوةِ",
+            "فٰعِل<rule class=madda_permissible>ُوۡ</rule>نَۙ‏",
             "٤"
         ],
         "5": [
-            "وَالَّذِيۡنَ",
+            "وَ<rule class=ham_wasl>ا</rule>لَّذِيۡنَ",
             "هُمۡ",
             "لِفُرُوۡجِهِمۡ",
-            "حٰفِظُوۡنَۙ‏",
+            "حٰفِظ<rule class=madda_permissible>ُوۡ</rule>نَۙ‏",
             "٥"
         ],
         "6": [
-            "اِلَّا",
+            "اِلَّا",
             "عَلٰٓى",
-            "اَزۡوَاجِهِمۡ",
+            "اَزۡوٰجِهِمۡ",
             "اَوۡ",
             "مَا",
             "مَلَـكَتۡ",
-            "اَيۡمَانُهُمۡ",
-            "فَاِنَّهُمۡ",
+            "اَيۡمٰنُهُمۡ",
+            "فَاِ<rule class=ghunnah>نّ</rule>َهُمۡ",
             "غَيۡرُ",
-            "مَلُوۡمِيۡنَ​ۚ‏",
+            "مَلُوۡم<rule class=madda_permissible>ِيۡ</rule>نَ​ۚ‏",
             "٦"
         ],
         "7": [
             "فَمَنِ",
-            "ابۡتَغٰى",
-            "وَرَآءَ",
+            "<rule class=ham_wasl>ا</rule><rule class=qalaqah>بۡ</rule>تَغٰى",
+            "وَرَ<rule class=madda_obligatory_mottasel>آ</rule>ءَ",
             "ذٰ لِكَ",
-            "فَاُولٰٓٮِٕكَ",
+            "فَاُولٰٓٮِٕكَ",
             "هُمُ",
-            "الۡعٰدُوۡنَ​ ۚ‏",
+            "<rule class=ham_wasl>ا</rule>لۡعٰد<rule class=madda_permissible>ُوۡ</rule>نَ​ ۚ‏",
             "٧"
         ],
         "8": [
-            "وَالَّذِيۡنَ",
+            "وَ<rule class=ham_wasl>ا</rule>لَّذِيۡنَ",
             "هُمۡ",
             "لِاَمٰنٰتِهِمۡ",
             "وَعَهۡدِهِمۡ",
-            "رَاعُوۡنَ ۙ‏",
+            "رٰعُوۡنَ ۙ‏",
             "٨"
         ],
         "9": [
-            "وَالَّذِيۡنَ",
+            "وَ<rule class=ham_wasl>ا</rule>لَّذِيۡنَ",
             "هُمۡ",
             "عَلٰى",
             "صَلَوٰتِهِمۡ",
-            "يُحَافِظُوۡنَ​ۘ‏",
+            "يُحَافِظ<rule class=madda_permissible>ُوۡ</rule>نَ​ۘ‏",
             "٩"
         ],
         "10": [
-            "اُولٰٓٮِٕكَ",
+            "اُولٰٓٮِٕكَ",
             "هُمُ",
-            "الۡوَارِثُوۡنَ ۙ‏",
+            "<rule class=ham_wasl>ا</rule>لۡوٰرِث<rule class=madda_permissible>ُوۡ</rule>نَ ۙ‏",
             "١٠"
         ]
     }
