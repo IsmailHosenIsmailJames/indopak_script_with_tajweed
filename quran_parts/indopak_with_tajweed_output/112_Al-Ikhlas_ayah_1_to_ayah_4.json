@@ -1,0 +1,31 @@
+{
+    "112": {
+        "1": [
+            "قُلۡ",
+            "هُوَ",
+            "<rule class=ham_wasl>ا</rule>للّٰهُ",
+            "اَحَ<rule class=qalaqah>د</rule>ٌ​ ۚ‏",
+            "١"
+        ],
+        "2": [
+            "اَللّٰهُ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>صَّمَ<rule class=qalaqah>د</rule>ُ​ ۚ‏",
+            "٢"
+        ],
+        "3": [
+            "لَمۡ",
+            "يَلِ<rule class=qalaqah>دۡ</rule>   ۙ",
+            "وَلَمۡ",
+            "يُوۡلَ<rule class=qalaqah>دۡ</rule> ۙ‏",
+            "٣"
+        ],
+        "4": [
+            "وَلَمۡ",
+            "يَكُ<rule class=idgham_wo_ghunnah>ن</rule>ۡ",
+            "<rule class=idgham_wo_ghunnah>ل</rule>َّهٗ</rule><rule class=madda_normal>",
+            "كُفُوًا",
+            "اَحَ<rule class=qalaqah>د</rule>ٌ‏",
+            "٤"
+        ]
+    }
+}

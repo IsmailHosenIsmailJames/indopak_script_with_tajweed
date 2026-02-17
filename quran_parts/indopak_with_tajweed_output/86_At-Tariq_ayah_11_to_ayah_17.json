@@ -1,0 +1,46 @@
+{
+    "86": {
+        "11": [
+            "وَ<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّمَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءِ",
+            "ذَاتِ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>رَّ<rule class=qalaqah>جۡ</rule>عِۙ‏",
+            "١١"
+        ],
+        "12": [
+            "وَ<rule class=ham_wasl>ا</rule>لۡاَرۡضِ",
+            "ذَاتِ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>صَّ<rule class=qalaqah>دۡ</rule>عِۙ‏",
+            "١٢"
+        ],
+        "13": [
+            "اِ<rule class=ghunnah>نّ</rule>َهٗ</rule><rule class=madda_normal>",
+            "لَقَوۡ<rule class=ikhafa>لٌ</rule>",
+            "<rule class=ikhafa>ف</rule>َصۡلٌۙ‏",
+            "١٣"
+        ],
+        "14": [
+            "وَّمَا",
+            "هُوَ",
+            "بِ<rule class=ham_wasl>ا</rule>لۡهَزۡلِؕ‏",
+            "١٤"
+        ],
+        "15": [
+            "اِ<rule class=ghunnah>نّ</rule>َهُمۡ",
+            "يَكِيۡدُوۡنَ",
+            "كَيۡدًا ۙ‏",
+            "١٥"
+        ],
+        "16": [
+            "وَّاَكِيۡدُ",
+            "كَيۡدًا ۚۖ‏",
+            "١٦"
+        ],
+        "17": [
+            "فَمَهِّلِ",
+            "<rule class=ham_wasl>ا</rule>لۡكٰ</rule><rule class=madda_normal>فِرِيۡنَ",
+            "اَمۡهِلۡهُمۡ",
+            "رُوَيۡدًا‏",
+            "١٧"
+        ]
+    }
+}

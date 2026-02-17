@@ -1,0 +1,50 @@
+{
+    "107": {
+        "1": [
+            "اَرَءَيۡتَ",
+            "<rule class=ham_wasl>ا</rule>لَّذِىۡ",
+            "يُكَذِّبُ",
+            "بِ<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>دِّ<rule class=madda_permissible>ي</rule>ۡنِؕ‏",
+            "١"
+        ],
+        "2": [
+            "فَذٰ</rule><rule class='madda_normal'>لِكَ",
+            "<rule class=ham_wasl>ا</rule>لَّذِىۡ",
+            "يَدُعُّ",
+            "<rule class=ham_wasl>ا</rule>لۡيَتِ<rule class=madda_permissible>ي</rule>ۡمَۙ‏",
+            "٢"
+        ],
+        "3": [
+            "وَ",
+            "لَا",
+            "يَحُضُّ",
+            "عَلٰى",
+            "<rule class=ham_wasl>طَعَامِ ا</rule>لۡمِسۡكِ<rule class=madda_permissible>ي</rule>ۡنِؕ‏",
+            "٣"
+        ],
+        "4": [
+            "فَوَيۡ<rule class=idgham_wo_ghunnah>لٌ</rule>",
+            "<rule class=idgham_wo_ghunnah>ل</rule>ِّلۡمُصَلِّ<rule class=madda_permissible>ي</rule>ۡنَۙ‏",
+            "٤"
+        ],
+        "5": [
+            "الَّذِيۡنَ",
+            "هُمۡ",
+            "عَ<rule class=ikhafa>ن</rule>ۡ",
+            "<rule class=ikhafa>ص</rule>َلَاتِهِمۡ",
+            "سَاهُ<rule class=madda_permissible>و</rule>ۡنَۙ‏",
+            "٥"
+        ],
+        "6": [
+            "الَّذِيۡنَ",
+            "هُمۡ",
+            "يُرَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءُ<rule class=madda_permissible>و</rule>ۡنَۙ‏",
+            "٦"
+        ],
+        "7": [
+            "وَيَمۡنَعُوۡنَ",
+            "<rule class=ham_wasl>ا</rule>لۡمَاعُ<rule class=madda_permissible>و</rule>ۡنَ‏",
+            "٧"
+        ]
+    }
+}

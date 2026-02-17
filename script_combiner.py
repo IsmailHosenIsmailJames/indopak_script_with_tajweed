@@ -26,7 +26,10 @@ def combine_scripts(folder_path: str) -> dict:
     return combined_scripts
 
 
-combined_scripts = combine_scripts("quran_parts/indopak_script")
+combined_scripts = combine_scripts("quran_parts/indopak_with_tajweed_output")
 combined_scripts = dict(sorted(combined_scripts.items(), key=lambda x: x[0]))
-with open("indopak_with_tajweed/indopak_with_tajweed.json", "w") as f:
+folder_path = "indopak_with_tajweed"
+if not os.path.exists(folder_path):
+    os.makedirs(folder_path)
+with open(os.path.join(folder_path, "indopak_with_tajweed.json"), "w") as f:
     json.dump(combined_scripts, f, indent=4, ensure_ascii=False)

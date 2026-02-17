@@ -1,0 +1,32 @@
+{
+    "110": {
+        "1": [
+            "اِذَا",
+            "جَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءَ",
+            "نَصۡرُ",
+            "<rule class=ham_wasl>ا</rule>للّٰهِ",
+            "وَ<rule class=ham_wasl>ا</rule>لۡفَتۡحُۙ‏",
+            "١"
+        ],
+        "2": [
+            "وَرَاَيۡتَ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule><rule class=ghunnah>نّ</rule>َاسَ",
+            "يَ<rule class=qalaqah>دۡ</rule>خُلُوۡنَ",
+            "فِىۡ",
+            "دِيۡنِ",
+            "<rule class=ham_wasl>ا</rule>للّٰهِ",
+            "اَفۡوَاجًا ۙ‏",
+            "٢"
+        ],
+        "3": [
+            "فَسَبِّحۡ",
+            "بِحَمۡدِ",
+            "رَبِّكَ",
+            "وَ<rule class=ham_wasl>ا</rule>سۡتَغۡفِرۡهُ​ ؕ",
+            "اِ<rule class=ghunnah>نّ</rule>َهٗ</rule><rule class=madda_normal>",
+            "كَانَ",
+            "تَوَّابًا‏",
+            "٣"
+        ]
+    }
+}

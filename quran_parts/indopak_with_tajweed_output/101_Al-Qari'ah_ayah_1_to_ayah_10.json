@@ -1,0 +1,68 @@
+{
+    "101": {
+        "1": [
+            "اَلۡقَارِعَةُ ۙ‏",
+            "١"
+        ],
+        "2": [
+            "مَا",
+            "<rule class=ham_wasl>ا</rule>لۡقَارِعَةُ​ ۚ‏",
+            "٢"
+        ],
+        "3": [
+            "وَمَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "اَ<rule class=qalaqah>دۡ</rule>رٰ<rule class=madda_normal>ٮ</rule>كَ",
+            "مَا",
+            "<rule class=ham_wasl>ا</rule>لۡقَارِعَةُ ؕ‏",
+            "٣"
+        ],
+        "4": [
+            "يَوۡمَ",
+            "يَكُوۡنُ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule><rule class=ghunnah>نّ</rule>َاسُ",
+            "كَ<rule class=ham_wasl>ا</rule>لۡفَرَاشِ",
+            "<rule class=ham_wasl>ا</rule>لۡمَ<rule class=qalaqah>بۡ</rule>ثُ<rule class=madda_permissible>و</rule>ۡثِۙ‏",
+            "٤"
+        ],
+        "5": [
+            "وَتَكُوۡنُ",
+            "<rule class=ham_wasl>ا</rule>لۡجِبَالُ",
+            "كَ<rule class=ham_wasl>ا</rule>لۡعِهۡنِ",
+            "<rule class=ham_wasl>ا</rule>لۡمَ<rule class=ikhafa>نۡف</rule>ُ<rule class=madda_permissible>و</rule>ۡشِؕ‏",
+            "٥"
+        ],
+        "6": [
+            "فَاَ<rule class=ghunnah>مّ</rule>َا",
+            "مَ<rule class=ikhafa>ن</rule>ۡ",
+            "<rule class=ikhafa>ث</rule>َقُلَتۡ",
+            "مَوَ<rule class='madda_normal'>ا</rule>زِيۡنُهٗ ۙ‏",
+            "٦"
+        ],
+        "7": [
+            "فَهُوَ",
+            "فِىۡ",
+            "عِيۡشَ<rule class=idgham_wo_ghunnah>ةٍ</rule>",
+            "<rule class=idgham_wo_ghunnah>ر</rule>َّاضِيَةٍ ؕ‏",
+            "٧"
+        ],
+        "8": [
+            "وَاَ<rule class=ghunnah>مّ</rule>َا",
+            "مَنۡ",
+            "خَفَّتۡ",
+            "مَوَ<rule class='madda_normal'>ا</rule>زِيۡنُهٗ ۙ‏",
+            "٨"
+        ],
+        "9": [
+            "فَاُ<rule class=ghunnah>مّ</rule>ُهٗ</rule><rule class=madda_normal>",
+            "هَاوِيَةٌ ؕ‏",
+            "٩"
+        ],
+        "10": [
+            "وَمَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "اَ<rule class=qalaqah>دۡ</rule>رٰ<rule class=madda_normal>ٮ</rule>كَ",
+            "مَا",
+            "هِيَهۡ ؕ‏",
+            "١٠"
+        ]
+    }
+}

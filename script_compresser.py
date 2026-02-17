@@ -1,4 +1,5 @@
 import json
+import os
 
 tajweedRulesList = list()
 
@@ -12,12 +13,14 @@ def compress_script(script: str):
         script = script.replace(rule, f"r{i}")
     return script
 
-
-with open("indopak_with_tajweed/indopak_with_tajweed.json", "r") as f:
+folder_path = "indopak_with_tajweed"
+if not os.path.exists(folder_path):
+    os.makedirs(folder_path)    
+with open(os.path.join(folder_path, "indopak_with_tajweed.json"), "r") as f:
     data = f.read()
     compressed_data = compress_script(data)
     with open(
-            "indopak_with_tajweed/indopak_with_tajweed_compressed.json",
+            os.path.join(folder_path, "indopak_with_tajweed_compressed.json"),
             "w",
     ) as f:
         f.write(compressed_data)

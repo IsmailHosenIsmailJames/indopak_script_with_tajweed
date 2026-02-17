@@ -1,0 +1,77 @@
+{
+    "84": {
+        "1": [
+            "اِذَا",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّمَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءُ",
+            "<rule class=ham_wasl>ا</rule><rule class=ikhafa>نْش</rule>َقَّتۡۙ‏",
+            "١"
+        ],
+        "2": [
+            "وَاَذِنَتۡ",
+            "لِرَبِّهَا",
+            "وَحُقَّتۡۙ‏",
+            "٢"
+        ],
+        "3": [
+            "وَاِذَا",
+            "<rule class=ham_wasl>ا</rule>لۡاَرۡضُ",
+            "مُدَّتۡؕ‏",
+            "٣"
+        ],
+        "4": [
+            "وَاَلۡقَتۡ",
+            "مَا",
+            "فِيۡهَا",
+            "وَتَخَلَّتۡۙ‏",
+            "٤"
+        ],
+        "5": [
+            "وَاَذِنَتۡ",
+            "لِرَبِّهَا",
+            "وَحُقَّتۡؕ‏",
+            "٥"
+        ],
+        "6": [
+            "يٰۤ<rule class=madda_obligatory_mottasel>ا</rule>َيُّهَا",
+            "<rule class=ham_wasl>ا</rule>لۡاِ<rule class=ikhafa>نۡس</rule>َ<rule class=madda_normal>ا</rule>نُ",
+            "اِ<rule class=ghunnah>نّ</rule>َكَ",
+            "كَادِحٌ",
+            "اِلٰى",
+            "رَبِّكَ",
+            "كَ<rule class=qalaqah>دۡ</rule><rule class=ikhafa>حًا</rule>",
+            "<rule class=ikhafa>ف</rule>َمُلٰ</rule><rule class=madda_normal>قِ<rule class=madda_permissible>ي</rule>ۡهِ​ۚ‏ ﻿﻿",
+            "٦"
+        ],
+        "7": [
+            "فَاَ<rule class=ghunnah>مّ</rule>َا",
+            "مَنۡ",
+            "اُوۡتِىَ",
+            "كِتٰ</rule><rule class=madda_normal>بَهٗ</rule><rule class=madda_normal>",
+            "بِيَمِيۡنِهٖۙ‏",
+            "٧"
+        ],
+        "8": [
+            "فَسَوۡفَ",
+            "يُحَاسَبُ",
+            "حِسَا<rule class=idgham_ghunnah>بًا</rule>",
+            "<rule class=idgham_ghunnah>ي</rule>َّسِيۡرًا ۙ‏",
+            "٨"
+        ],
+        "9": [
+            "وَّيَ<rule class=ikhafa>نۡق</rule>َلِبُ",
+            "اِلٰٓ</rule><rule class=madda_obligatory_monfasel>ى",
+            "اَهۡلِهٖ</rule><rule class=madda_normal>",
+            "مَسۡرُوۡرًا ؕ‏",
+            "٩"
+        ],
+        "10": [
+            "وَاَ<rule class=ghunnah>مّ</rule>َا",
+            "مَنۡ",
+            "اُوۡتِىَ",
+            "كِتٰ</rule><rule class=madda_normal>بَهٗ</rule><rule class=madda_normal>",
+            "وَرَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءَ",
+            "ظَهۡرِهٖۙ‏",
+            "١٠"
+        ]
+    }
+}

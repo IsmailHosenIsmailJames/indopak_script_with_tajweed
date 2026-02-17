@@ -1,0 +1,74 @@
+{
+    "78": {
+        "11": [
+            "وَّجَعَلۡنَا",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule><rule class=ghunnah>نّ</rule>َهَارَ",
+            "مَعَاشًا‏",
+            "١١"
+        ],
+        "12": [
+            "وَّبَنَيۡنَا",
+            "فَوۡقَكُمۡ",
+            "سَ<rule class=qalaqah>بۡ</rule><rule class=ikhafa>عًا</rule>",
+            "<rule class=ikhafa>ش</rule>ِدَادًا ۙ‏",
+            "١٢"
+        ],
+        "13": [
+            "وَّجَعَلۡنَا",
+            "سِرَا<rule class=idgham_ghunnah>جًا</rule>",
+            "<rule class=idgham_ghunnah>و</rule>َّهَّاجًا ۙ‏",
+            "١٣"
+        ],
+        "14": [
+            "وَّاَ<rule class=ikhafa>نۡز</rule>َلۡنَا",
+            "مِنَ",
+            "<rule class='ham_wasl'>ا</rule>لۡمُعۡصِرٰ</rule><rule class='madda_normal'>تِ",
+            "مَ<rule class=madda_obligatory_mottasel>ا</rule>ٓ<rule class=ikhafa>ءً</rule>",
+            "<rule class=ikhafa>ث</rule>َجَّاجًا ۙ‏",
+            "١٤"
+        ],
+        "15": [
+            "لِّـنُخۡرِجَ",
+            "بِهٖ</rule><rule class=madda_normal>",
+            "حَبًّ<rule class=idgham_ghunnah>ا</rule>",
+            "<rule class=idgham_ghunnah>و</rule>َّنَبَاتًا ۙ‏",
+            "١٥"
+        ],
+        "16": [
+            "وَّجَ<rule class=ghunnah>نّ</rule>ٰ</rule><rule class=madda_normal>تٍ",
+            "اَلۡفَافًا ؕ‏",
+            "١٦"
+        ],
+        "17": [
+            "اِ<rule class=ghunnah>نّ</rule>َ",
+            "يَوۡمَ",
+            "<rule class=ham_wasl>ا</rule>لۡفَصۡلِ",
+            "كَانَ",
+            "مِيۡقَ<rule class=madda_normal>ا</rule>تًا ۙ‏",
+            "١٧"
+        ],
+        "18": [
+            "يَّوۡمَ",
+            "يُ<rule class=ikhafa>نۡف</rule>َخُ",
+            "فِى",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>صُّوۡرِ",
+            "فَتَاۡتُوۡنَ",
+            "اَفۡوَاجًا ۙ‏",
+            "١٨"
+        ],
+        "19": [
+            "وَّفُتِحَتِ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّمَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءُ",
+            "فَكَانَتۡ",
+            "اَ<rule class='qalaqah'>بۡ</rule>وَ<rule class='madda_normal'>ا</rule>بًا ۙ‏",
+            "١٩"
+        ],
+        "20": [
+            "وَّ سُيِّرَتِ",
+            "<rule class=ham_wasl>ا</rule>لۡجِبَالُ",
+            "فَكَانَتۡ",
+            "سَرَابًا ؕ‏",
+            "٢٠"
+        ]
+    }
+}

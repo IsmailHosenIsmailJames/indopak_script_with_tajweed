@@ -1,0 +1,67 @@
+{
+    "77": {
+        "11": [
+            "وَاِذَا",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>رُّسُلُ",
+            "اُقِّتَتۡؕ‏",
+            "١١"
+        ],
+        "12": [
+            "لِاَىِّ",
+            "يَوۡمٍ",
+            "اُجِّلَتۡؕ‏",
+            "١٢"
+        ],
+        "13": [
+            "لِيَوۡمِ",
+            "<rule class=ham_wasl>ا</rule>لۡفَصۡلِ​ۚ‏",
+            "١٣"
+        ],
+        "14": [
+            "وَمَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "اَ<rule class=qalaqah>دۡ</rule>رٰ<rule class=madda_normal>ٮ</rule>كَ",
+            "مَا",
+            "يَوۡمُ",
+            "<rule class=ham_wasl>ا</rule>لۡفَصۡلِؕ‏",
+            "١٤"
+        ],
+        "15": [
+            "وَيۡ<rule class=idgham_ghunnah>لٌ</rule>",
+            "<rule class=idgham_ghunnah>ي</rule>َّوۡمَٮِٕ<rule class=idgham_wo_ghunnah>ذٍ</rule>",
+            "<rule class=idgham_wo_ghunnah>ل</rule>ِّلۡمُكَذِّبِ<rule class=madda_permissible>ي</rule>ۡنَ‏",
+            "١٥"
+        ],
+        "16": [
+            "اَلَمۡ",
+            "نُهۡلِكِ",
+            "<rule class=ham_wasl>ا</rule>لۡاَوَّلِ<rule class=madda_permissible>ي</rule>ۡنَؕ‏",
+            "١٦"
+        ],
+        "17": [
+            "ثُ<rule class=ghunnah>مّ</rule>َ",
+            "نُتۡبِعُهُمُ",
+            "<rule class=ham_wasl>ا</rule>لۡاٰخِرِ<rule class=madda_permissible>ي</rule>ۡنَ‏",
+            "١٧"
+        ],
+        "18": [
+            "كَذٰ</rule><rule class='madda_normal'>لِكَ",
+            "نَفۡعَلُ",
+            "بِ<rule class=ham_wasl>ا</rule>لۡمُ<rule class=qalaqah>جۡ</rule>رِمِ<rule class=madda_permissible>ي</rule>ۡنَ‏",
+            "١٨"
+        ],
+        "19": [
+            "وَيۡ<rule class=idgham_ghunnah>لٌ</rule>",
+            "<rule class=idgham_ghunnah>ي</rule>َّوۡمَٮِٕ<rule class=idgham_wo_ghunnah>ذٍ</rule>",
+            "<rule class=idgham_wo_ghunnah>ل</rule>ِّلۡمُكَذِّبِ<rule class=madda_permissible>ي</rule>ۡنَ‏",
+            "١٩"
+        ],
+        "20": [
+            "اَلَمۡ",
+            "نَخۡلُ<rule class=idgham_mutaqaribayn>ق</rule>ۡكُّ<rule class=idgham_shafawi>م</rule>ۡ",
+            "<rule class=idgham_shafawi>م</rule>ِّ<rule class=idgham_ghunnah>ن</rule>ۡ",
+            "<rule class=idgham_ghunnah>م</rule>َّ<rule class=madda_obligatory_mottasel>ا</rule>ٓ<rule class=idgham_ghunnah>ءٍ</rule>",
+            "<rule class=idgham_ghunnah>م</rule>َّهِ<rule class=madda_permissible>ي</rule>ۡنٍۙ‏",
+            "٢٠"
+        ]
+    }
+}
