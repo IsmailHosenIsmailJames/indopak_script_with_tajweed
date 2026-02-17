@@ -28,7 +28,7 @@ def make_parts_of_scripts(
                     or list(dict(surah).keys())[-1] == ayah_number):
                 surah_name = surah_name_list[int(surah_number) - 1]
                 with open(
-                        f"{destination_to_save}/{surah_name}_ayah_{first_ayah_count}_to_ayah_{ayah_number}.json",
+                        f"{destination_to_save}/{surah_number}_{surah_name}_ayah_{first_ayah_count}_to_ayah_{ayah_number}.json",
                         "w") as f:
                     json.dump(ayah_dict, f, indent=4, ensure_ascii=False)
                 ayah_dict = dict()
