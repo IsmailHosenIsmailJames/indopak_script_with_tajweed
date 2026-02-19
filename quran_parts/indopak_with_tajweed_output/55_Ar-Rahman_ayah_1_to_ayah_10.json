@@ -1,7 +1,7 @@
 {
     "55": {
         "1": [
-            "اَ<rule class=laam_shamsiyah>ل</rule>رَّحۡمٰ</rule><rule class=madda_permissible>نُۙ‏",
+            "اَ<rule class=laam_shamsiyah>ل</rule>رَّحۡم<rule class=madda_permissible>ٰ</rule>نُۙ‏",
             "١"
         ],
         "2": [
@@ -16,33 +16,33 @@
         ],
         "4": [
             "عَلَّمَهُ",
-            "<rule class=ham_wasl>ا</rule>لۡبَيَ<rule class=madda_permissible>ا</rule>نَ‏",
+            "<rule class=ham_wasl>ا</rule>لۡبَي<rule class=madda_permissible>َا</rule>نَ‏",
             "٤"
         ],
         "5": [
             "اَ<rule class=laam_shamsiyah>ل</rule>شَّمۡسُ",
             "وَ<rule class=ham_wasl>ا</rule>لۡقَمَرُ",
-            "بِحُسۡبَ<rule class=madda_permissible>ا</rule>نٍ‏",
+            "بِحُسۡب<rule class=madda_permissible>َا</rule>نٍ‏",
             "٥"
         ],
         "6": [
             "وَّ<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule><rule class=ghunnah>نّ</rule>َ<rule class=qalaqah>جۡ</rule>مُ",
             "وَ<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>شَّجَرُ",
-            "يَسۡجُدٰ</rule><rule class=madda_permissible>نِ‏",
+            "يَسۡجُد<rule class=madda_permissible>ٰ</rule>نِ‏",
             "٦"
         ],
         "7": [
-            "وَ<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّمَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءَ",
+            "وَ<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّم<rule class=madda_obligatory_mottasel>َا</rule>ٓءَ",
             "رَفَعَهَا",
             "وَوَضَعَ",
-            "<rule class=ham_wasl>ا</rule>لۡمِيۡزَ<rule class=madda_permissible>ا</rule>نَۙ‏",
+            "<rule class=ham_wasl>ا</rule>لۡمِيۡز<rule class=madda_permissible>َا</rule>نَۙ‏",
             "٧"
         ],
         "8": [
             "اَلَّا",
             "تَ<rule class=qalaqah>طۡ</rule>غَوۡ<rule class=slnt>ا</rule>",
             "فِى",
-            "<rule class=ham_wasl>ا</rule>لۡمِيۡزَ<rule class=madda_permissible>ا</rule>نِ‏",
+            "<rule class=ham_wasl>ا</rule>لۡمِيۡز<rule class=madda_permissible>َا</rule>نِ‏",
             "٨"
         ],
         "9": [
@@ -51,13 +51,13 @@
             "بِ<rule class=ham_wasl>ا</rule>لۡقِسۡطِ",
             "وَلَا",
             "تُخۡسِرُو<rule class=slnt>ا</rule>",
-            "<rule class=ham_wasl>ا</rule>لۡمِيۡزَ<rule class=madda_permissible>ا</rule>نَ‏",
+            "<rule class=ham_wasl>ا</rule>لۡمِيۡز<rule class=madda_permissible>َا</rule>نَ‏",
             "٩"
         ],
         "10": [
             "وَ<rule class=ham_wasl>ا</rule>لۡاَرۡضَ",
             "وَضَعَهَا",
-            "لِلۡاَنَ<rule class=madda_permissible>ا</rule>مِۙ‏",
+            "لِلۡاَن<rule class=madda_permissible>َا</rule>مِۙ‏",
             "١٠"
         ]
     }

@@ -1,14 +1,14 @@
 {
     "75": {
         "1": [
-            "لَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "ل<rule class=madda_obligatory_monfasel>َاۤ</rule>",
             "اُ<rule class=qalaqah>قۡ</rule>سِمُ",
             "بِيَوۡمِ",
-            "<rule class=ham_wasl>ا</rule>لۡقِيٰ</rule><rule class=madda_normal>مَةِۙ‏",
+            "<rule class=ham_wasl>ا</rule>لۡقِي<rule class=madda_normal>ٰ</rule>مَةِۙ‏",
             "١"
         ],
         "2": [
-            "وَلَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "وَل<rule class=madda_obligatory_monfasel>َاۤ</rule>",
             "اُ<rule class=qalaqah>قۡ</rule>سِمُ",
             "بِ<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule><rule class=ghunnah>نّ</rule>َفۡسِ",
             "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>لَّوَّامَةِؕ‏",
@@ -17,16 +17,16 @@
         "3": [
             "اَيَحۡسَبُ",
             "<rule class=ham_wasl>ا</rule>لۡاِ<rule class=ikhafa>نۡس</rule>َ<rule class=madda_normal>ا</rule>نُ",
-            "اَلَّ<rule class=idgham_ghunnah>ن</rule>ۡ",
+            "اَلّ<rule class=idgham_ghunnah>َن</rule>ۡ",
             "<rule class=idgham_ghunnah>ن</rule>َّ<rule class=qalaqah>جۡ</rule>مَعَ",
             "عِظَامَهٗؕ‏",
             "٣"
         ],
         "4": [
             "بَلٰى",
-            "قٰ</rule><rule class=madda_normal>دِرِيۡنَ",
-            "عَلٰٓ</rule><rule class=madda_obligatory_monfasel>ى",
-            "اَ<rule class=idgham_ghunnah>ن</rule>ۡ",
+            "ق<rule class=madda_normal>ٰ</rule>دِرِيۡنَ",
+            "عَل<rule class=madda_obligatory_monfasel>ٰٓ</rule>ى",
+            "ا<rule class=idgham_ghunnah>َن</rule>ۡ",
             "<rule class=idgham_ghunnah>ن</rule>ُّسَوِّىَ",
             "بَنَانَهٗ‏",
             "٤"
@@ -43,7 +43,7 @@
             "يَسۡـَٔـلُ",
             "اَيَّانَ",
             "يَوۡمُ",
-            "<rule class=ham_wasl>ا</rule>لۡقِيٰ</rule><rule class=madda_normal>مَةِؕ‏",
+            "<rule class=ham_wasl>ا</rule>لۡقِي<rule class=madda_normal>ٰ</rule>مَةِؕ‏",
             "٦"
         ],
         "7": [

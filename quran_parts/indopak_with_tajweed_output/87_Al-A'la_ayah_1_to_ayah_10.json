@@ -20,14 +20,14 @@
             "٣"
         ],
         "4": [
-            "وَ<rule class=ham_wasl>ا</rule>لَّذِ<rule class=madda_obligatory_monfasel>ىۡۤ</rule>",
+            "وَ<rule class=ham_wasl>ا</rule>لَّذ<rule class=madda_obligatory_monfasel>ِىۡۤ</rule>",
             "اَخۡرَجَ",
             "<rule class=ham_wasl>ا</rule>لۡمَرۡعٰى ۙ‏",
             "٤"
         ],
         "5": [
-            "فَجَعَلَهٗ</rule><rule class=madda_normal>",
-            "غُثَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءً",
+            "فَجَعَلَه<rule class=madda_normal>ٗ</rule>",
+            "غُث<rule class=madda_obligatory_mottasel>َا</rule>ٓءً",
             "اَحۡوٰىؕ‏",
             "٥"
         ],
@@ -40,9 +40,9 @@
         "7": [
             "اِلَّا",
             "مَا",
-            "شَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءَ",
+            "ش<rule class=madda_obligatory_mottasel>َا</rule>ٓءَ",
             "<rule class=ham_wasl>ا</rule>للّٰهُ​ؕ",
-            "اِ<rule class=ghunnah>نّ</rule>َهٗ</rule><rule class=madda_normal>",
+            "اِ<rule class=ghunnah>نّ</rule>َه<rule class=madda_normal>ٗ</rule>",
             "يَعۡلَمُ",
             "<rule class=ham_wasl>ا</rule>لۡجَهۡرَ",
             "وَمَا",
@@ -56,14 +56,14 @@
         ],
         "9": [
             "فَذَكِّرۡ",
-            "اِ<rule class=idgham_ghunnah>ن</rule>ۡ",
+            "ا<rule class=idgham_ghunnah>ِن</rule>ۡ",
             "<rule class=idgham_ghunnah>ن</rule>َّفَعَتِ",
             "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>ذِّكۡرٰىؕ‏",
             "٩"
         ],
         "10": [
             "سَيَذَّكَّرُ",
-            "مَ<rule class=idgham_ghunnah>ن</rule>ۡ",
+            "م<rule class=idgham_ghunnah>َن</rule>ۡ",
             "<rule class=idgham_ghunnah>ي</rule>َّخۡشٰىۙ‏",
             "١٠"
         ]

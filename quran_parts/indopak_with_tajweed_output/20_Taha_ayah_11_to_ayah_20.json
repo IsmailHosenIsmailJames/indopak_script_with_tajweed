@@ -1,14 +1,14 @@
 {
     "20": {
         "11": [
-            "فَلَ<rule class=ghunnah>مّ</rule>َ<rule class=madda_obligatory_monfasel>اۤ</rule>",
-            "اَتٰ</rule><rule class=madda_normal>ٮهَا",
+            "فَلَ<rule class=ghunnah>مّ</rule><rule class=madda_obligatory_monfasel>َاۤ</rule>",
+            "اَت<rule class=madda_normal>ٰ</rule>ٮهَا",
             "نُوۡدِىَ",
-            "يٰ</rule><rule class=madda_normal>مُوۡسٰىؕ‏",
+            "ي<rule class=madda_normal>ٰ</rule>مُوۡسٰىؕ‏",
             "١١"
         ],
         "12": [
-            "اِ<rule class=ghunnah>نّ</rule>ِ<rule class=madda_obligatory_monfasel>ىۡۤ</rule>",
+            "اِ<rule class=ghunnah>نّ</rule><rule class=madda_obligatory_monfasel>ِىۡۤ</rule>",
             "اَنَا",
             "رَبُّكَ",
             "فَ<rule class=ham_wasl>ا</rule>خۡلَعۡ",
@@ -28,12 +28,12 @@
             "١٣"
         ],
         "14": [
-            "اِ<rule class=ghunnah>نّ</rule>َنِ<rule class=madda_obligatory_monfasel>ىۡۤ</rule>",
+            "اِ<rule class=ghunnah>نّ</rule>َن<rule class=madda_obligatory_monfasel>ِىۡۤ</rule>",
             "اَنَا",
             "<rule class=ham_wasl>ا</rule>للّٰهُ",
-            "لَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
-            "اِلٰ</rule><rule class=madda_normal>هَ",
-            "اِلَّ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "ل<rule class=madda_obligatory_monfasel>َاۤ</rule>",
+            "اِل<rule class=madda_normal>ٰ</rule>هَ",
+            "اِلّ<rule class=madda_obligatory_monfasel>َاۤ</rule>",
             "اَنَا",
             "فَ<rule class=ham_wasl>ا</rule>عۡبُ<rule class=qalaqah>دۡ</rule>نِىۡ ۙ",
             "وَاَقِمِ",
@@ -58,7 +58,7 @@
             "فَلَا",
             "يَصُدَّ<rule class=ghunnah>نّ</rule>َكَ",
             "عَنۡهَا",
-            "مَ<rule class=idgham_wo_ghunnah>ن</rule>ۡ",
+            "م<rule class=idgham_wo_ghunnah>َن</rule>ۡ",
             "<rule class=idgham_wo_ghunnah>ل</rule>َّا",
             "يُؤۡمِنُ",
             "بِهَا",
@@ -71,7 +71,7 @@
             "وَمَا",
             "تِلۡكَ",
             "بِيَمِيۡنِكَ",
-            "يٰ</rule><rule class=madda_normal>مُوۡسٰى‏",
+            "ي<rule class=madda_normal>ٰ</rule>مُوۡسٰى‏",
             "١٧"
         ],
         "18": [
@@ -93,11 +93,11 @@
         "19": [
             "قَالَ",
             "اَلۡقِهَا",
-            "يٰ</rule><rule class=madda_normal>مُوۡسٰى‏",
+            "ي<rule class=madda_normal>ٰ</rule>مُوۡسٰى‏",
             "١٩"
         ],
         "20": [
-            "فَاَلۡقٰ</rule><rule class=madda_normal>ٮهَا",
+            "فَاَلۡق<rule class=madda_normal>ٰ</rule>ٮهَا",
             "فَاِذَا",
             "هِىَ",
             "حَيَّ<rule class=ikhafa>ةٌ</rule>",

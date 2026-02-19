@@ -44,13 +44,13 @@
         ],
         "8": [
             "وَاِذَا",
-            "<rule class=ham_wasl>ا</rule>لۡمَوۡءٗ</rule><rule class=madda_normal>دَةُ",
+            "<rule class=ham_wasl>ا</rule>لۡمَوۡء<rule class=madda_normal>ٗ</rule>دَةُ",
             "سُٮِٕلَتۡۙ‏",
             "٨"
         ],
         "9": [
             "بِاَىِّ",
-            "ذَ<rule class=iqlab>نۡۢب</rule>ٍ</rule><rule class=ikhafa>",
+            "ذَ<rule class=iqlab>نۡۢب</rule><rule class=ikhafa>ٍ</rule>",
             "<rule class=ikhafa>ق</rule>ُتِلَتۡ​ۚ‏",
             "٩"
         ],

@@ -4,7 +4,7 @@
             "وَمَا",
             "يُغۡنِىۡ",
             "عَنۡهُ",
-            "مَالُهٗۤ</rule><rule class=madda_obligatory_monfasel>",
+            "مَالُه<rule class=madda_obligatory_monfasel>ٗۤ</rule>",
             "اِذَا",
             "تَرَدّٰىؕ‏",
             "١١"
@@ -30,7 +30,7 @@
         ],
         "15": [
             "لَا",
-            "يَصۡلٰ</rule><rule class=madda_normal>ٮهَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "يَصۡل<rule class=madda_normal>ٰ</rule>ٮه<rule class=madda_obligatory_monfasel>َاۤ</rule>",
             "اِلَّا",
             "<rule class=ham_wasl>ا</rule>لۡاَشۡقَىۙ‏",
             "١٥"
@@ -49,22 +49,22 @@
         "18": [
             "الَّذِىۡ",
             "يُؤۡتِىۡ",
-            "مَالَهٗ</rule><rule class=madda_normal>",
+            "مَالَه<rule class=madda_normal>ٗ</rule>",
             "يَتَزَكّٰى​ۚ‏",
             "١٨"
         ],
         "19": [
             "وَمَا",
             "لِاَحَدٍ",
-            "عِ<rule class=ikhafa>نۡد</rule>َهٗ</rule><rule class=madda_normal>",
-            "مِ<rule class=idgham_ghunnah>ن</rule>ۡ",
+            "عِ<rule class=ikhafa>نۡد</rule>َه<rule class=madda_normal>ٗ</rule>",
+            "م<rule class=idgham_ghunnah>ِن</rule>ۡ",
             "<rule class=idgham_ghunnah>ن</rule>ِّعۡمَ<rule class=ikhafa>ةٍ</rule>",
             "<rule class=ikhafa>ت</rule>ُ<rule class=qalaqah>جۡ</rule>زٰٓىۙ‏",
             "١٩"
         ],
         "20": [
             "اِلَّا",
-            "<rule class=ham_wasl>ا</rule><rule class=qalaqah>بۡ</rule>تِغَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءَ",
+            "<rule class=ham_wasl>ا</rule><rule class=qalaqah>بۡ</rule>تِغ<rule class=madda_obligatory_mottasel>َا</rule>ٓءَ",
             "وَ<rule class=qalaqah>جۡ</rule>هِ",
             "رَبِّهِ",
             "<rule class=ham_wasl>ا</rule>لۡاَعۡلٰى​ۚ‏",

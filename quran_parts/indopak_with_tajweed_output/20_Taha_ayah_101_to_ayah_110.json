@@ -1,12 +1,12 @@
 {
     "20": {
         "101": [
-            "خٰ</rule><rule class=madda_normal>لِدِيۡنَ",
+            "خ<rule class=madda_normal>ٰ</rule>لِدِيۡنَ",
             "فِيۡهِ​ ؕ",
-            "وَسَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءَ",
+            "وَس<rule class=madda_obligatory_mottasel>َا</rule>ٓءَ",
             "لَهُمۡ",
             "يَوۡمَ",
-            "<rule class=ham_wasl>ا</rule>لۡقِيٰ</rule><rule class=madda_normal>مَةِ",
+            "<rule class=ham_wasl>ا</rule>لۡقِي<rule class=madda_normal>ٰ</rule>مَةِ",
             "حِمۡلًا ۙ‏",
             "١٠١"
         ],
@@ -24,7 +24,7 @@
         "103": [
             "يَّتَخَ<rule class=madda_normal>ا</rule>فَـتُوۡنَ",
             "بَيۡنَهُمۡ",
-            "اِ<rule class=idgham_wo_ghunnah>ن</rule>ۡ",
+            "ا<rule class=idgham_wo_ghunnah>ِن</rule>ۡ",
             "<rule class=idgham_wo_ghunnah>ل</rule>َّبِثۡتُمۡ",
             "اِلَّا",
             "عَشۡرًا‏",
@@ -39,7 +39,7 @@
             "يَقُوۡلُ",
             "اَمۡثَلُهُمۡ",
             "طَرِيۡقَةً",
-            "اِ<rule class=idgham_wo_ghunnah>ن</rule>ۡ",
+            "ا<rule class=idgham_wo_ghunnah>ِن</rule>ۡ",
             "<rule class=idgham_wo_ghunnah>ل</rule>َّبِثۡتُمۡ",
             "اِلَّا",
             "يَوۡمًا‏",
@@ -66,7 +66,7 @@
             "تَرٰى",
             "فِيۡهَا",
             "عِوَ<rule class=idgham_ghunnah>جًا</rule>",
-            "<rule class=idgham_ghunnah>و</rule>َّلَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "<rule class=idgham_ghunnah>و</rule>َّل<rule class=madda_obligatory_monfasel>َاۤ</rule>",
             "اَمۡتًا ؕ‏",
             "١٠٧"
         ],
@@ -79,7 +79,7 @@
             "لَهٗ<rule class=madda_normal>​ؕ</rule>",
             "وَخَشَعَتِ",
             "<rule class=ham_wasl>ا</rule>لۡاَصۡوَاتُ",
-            "لِلرَّحۡمٰ</rule><rule class=madda_normal>نِ",
+            "لِلرَّحۡم<rule class=madda_normal>ٰ</rule>نِ",
             "فَلَا",
             "تَسۡمَعُ",
             "اِلَّا",
@@ -95,9 +95,9 @@
             "مَنۡ",
             "اَذِنَ",
             "لَـهُ",
-            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>رَّحۡمٰ</rule><rule class=madda_normal>نُ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>رَّحۡم<rule class=madda_normal>ٰ</rule>نُ",
             "وَرَضِىَ",
-            "لَـهٗ</rule><rule class=madda_normal>",
+            "لَـه<rule class=madda_normal>ٗ</rule>",
             "قَوۡلًا‏",
             "١٠٩"
         ],
@@ -110,7 +110,7 @@
             "خَلۡفَهُمۡ",
             "وَلَا",
             "يُحِيۡطُوۡنَ",
-            "بِهٖ</rule><rule class=madda_normal>",
+            "بِه<rule class=madda_normal>ٖ</rule>",
             "عِلۡمًا‏",
             "١١٠"
         ]

@@ -7,7 +7,7 @@
             "١١"
         ],
         "12": [
-            "وَمَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "وَم<rule class=madda_obligatory_monfasel>َاۤ</rule>",
             "اَ<rule class=qalaqah>دۡ</rule>رٰ<rule class=madda_normal>ٮ</rule>كَ",
             "مَا",
             "<rule class=ham_wasl>ا</rule>لۡعَقَبَةُ ؕ‏",
@@ -20,7 +20,7 @@
         ],
         "14": [
             "اَوۡ",
-            "اِ<rule class=qalaqah>طۡ</rule>عٰ</rule><rule class=ikhafa><rule class=madda_normal>مٌ</rule>",
+            "اِ<rule class=qalaqah>طۡ</rule>ع<rule class=madda_normal>ٰ</rule><rule class=ikhafa>مٌ</rule>",
             "<rule class=ikhafa>ف</rule>ِىۡ",
             "يَوۡ<rule class=ikhafa>مٍ</rule>",
             "<rule class=ikhafa>ذ</rule>ِىۡ",
@@ -53,17 +53,17 @@
             "١٧"
         ],
         "18": [
-            "اُ<rule class=slnt>و</rule>لٰٓ</rule><rule class=madda_obligatory_mottasel>ٮِٕكَ",
-            "اَصۡحٰ</rule><rule class=madda_normal>بُ",
+            "اُ<rule class=slnt>و</rule>ل<rule class=madda_obligatory_mottasel>ٰٓ</rule>ٮِٕكَ",
+            "اَصۡح<rule class=madda_normal>ٰ</rule>بُ",
             "<rule class=ham_wasl>ا</rule>لۡمَيۡمَنَةِ ؕ‏",
             "١٨"
         ],
         "19": [
             "وَ<rule class=ham_wasl>ا</rule>لَّذِيۡنَ",
             "كَفَرُوۡ<rule class=slnt>ا</rule>",
-            "بِاٰيٰ</rule><rule class=madda_normal>تِنَا",
+            "بِاٰي<rule class=madda_normal>ٰ</rule>تِنَا",
             "هُمۡ",
-            "اَصۡحٰ</rule><rule class=madda_normal>بُ",
+            "اَصۡح<rule class=madda_normal>ٰ</rule>بُ",
             "<rule class=ham_wasl>ا</rule>لۡمَشۡـَٔـمَةِ ؕ‏",
             "١٩"
         ],

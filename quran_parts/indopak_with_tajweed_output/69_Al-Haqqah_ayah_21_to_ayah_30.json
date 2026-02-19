@@ -22,7 +22,7 @@
             "كُلُوۡ<rule class=slnt>ا</rule>",
             "وَ<rule class=ham_wasl>ا</rule>شۡرَبُوۡ<rule class=slnt>ا</rule>",
             "هَنِ<rule class=madda_obligatory_mottasel>يۡٓـ</rule>ـ<rule class=iqlab>ـًٔا ۢ</rule>",
-            "<rule class=iqlab>ب</rule>ِمَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "<rule class=iqlab>ب</rule>ِم<rule class=madda_obligatory_monfasel>َاۤ</rule>",
             "اَسۡلَفۡتُمۡ",
             "فِى",
             "<rule class=ham_wasl>ا</rule>لۡاَيَّامِ",
@@ -33,13 +33,13 @@
             "وَاَ<rule class=ghunnah>مّ</rule>َا",
             "مَنۡ",
             "اُوۡتِىَ",
-            "كِتٰ</rule><rule class=madda_normal>بَهٗ</rule><rule class=madda_normal>",
-            "بِشِمَالِهٖ<rule class=madda_normal>  ۙ</rule>",
+            "كِت<rule class=madda_normal>ٰ</rule>بَه<rule class=madda_normal>ٗ</rule>",
+            "بِشِمَالِه<rule class=madda_normal>ٖ  ۙ</rule>",
             "فَيَقُوۡلُ",
-            "يٰ</rule><rule class=madda_normal>لَيۡتَنِىۡ",
+            "ي<rule class=madda_normal>ٰ</rule>لَيۡتَنِىۡ",
             "لَمۡ",
             "اُوۡتَ",
-            "كِتٰ</rule><rule class=madda_normal>بِيَهۡ​ۚ‏",
+            "كِت<rule class=madda_normal>ٰ</rule>بِيَهۡ​ۚ‏",
             "٢٥"
         ],
         "26": [
@@ -50,13 +50,13 @@
             "٢٦"
         ],
         "27": [
-            "يٰ</rule><rule class=madda_normal>لَيۡتَهَا",
+            "ي<rule class=madda_normal>ٰ</rule>لَيۡتَهَا",
             "كَانَتِ",
             "<rule class=ham_wasl>ا</rule>لۡقَاضِيَةَ​ ۚ‏",
             "٢٧"
         ],
         "28": [
-            "مَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "م<rule class=madda_obligatory_monfasel>َاۤ</rule>",
             "اَغۡنٰى",
             "عَ<rule class=ghunnah>نّ</rule>ِىۡ",
             "مَالِيَهۡۚ‏",
@@ -65,12 +65,12 @@
         "29": [
             "هَلَكَ",
             "عَ<rule class=ghunnah>نّ</rule>ِىۡ",
-            "سُلۡطٰ</rule><rule class=madda_normal>نِيَهۡ​ۚ‏",
+            "سُلۡط<rule class=madda_normal>ٰ</rule>نِيَهۡ​ۚ‏",
             "٢٩"
         ],
         "30": [
             "خُذُوۡهُ",
-            "فَغُلُّ<rule class=madda_permissible>و</rule>ۡهُ ۙ‏",
+            "فَغُلّ<rule class=madda_permissible>ُو</rule>ۡهُ ۙ‏",
             "٣٠"
         ]
     }

@@ -31,7 +31,7 @@
         "15": [
             "وَذَكَرَ",
             "<rule class=ham_wasl>ا</rule>سۡمَ",
-            "رَبِّهٖ</rule><rule class=madda_normal>",
+            "رَبِّه<rule class=madda_normal>ٖ</rule>",
             "فَصَلّٰى​ ؕ‏",
             "١٥"
         ],
@@ -50,7 +50,7 @@
         ],
         "18": [
             "اِ<rule class=ghunnah>نّ</rule>َ",
-            "هٰ</rule><rule class=madda_normal>ذَا",
+            "ه<rule class=madda_normal>ٰ</rule>ذَا",
             "لَفِى",
             "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>صُّحُفِ",
             "<rule class=ham_wasl>ا</rule>لۡاُوۡلٰىۙ‏",
@@ -58,7 +58,7 @@
         ],
         "19": [
             "صُحُفِ",
-            "اِ<rule class='qalaqah'>بۡ</rule>رٰ</rule><rule class='madda_normal'>هِيۡمَ",
+            "اِ<rule class='qalaqah'>بۡ</rule>ر<rule class='madda_normal'>ٰ</rule>هِيۡمَ",
             "وَمُوۡسٰى‏",
             "١٩"
         ]

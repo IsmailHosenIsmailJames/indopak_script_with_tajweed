@@ -1,27 +1,27 @@
 {
     "77": {
         "1": [
-            "وَ<rule class=ham_wasl>ا</rule>لۡمُرۡسَلٰ</rule><rule class=madda_normal>تِ",
+            "وَ<rule class=ham_wasl>ا</rule>لۡمُرۡسَل<rule class=madda_normal>ٰ</rule>تِ",
             "عُرۡفًا ۙ‏",
             "١"
         ],
         "2": [
-            "فَ<rule class=ham_wasl>ا</rule>لۡعٰ</rule><rule class=madda_normal>صِفٰ</rule><rule class=madda_normal>تِ",
+            "فَ<rule class=ham_wasl>ا</rule>لۡع<rule class=madda_normal>ٰ</rule>صِف<rule class=madda_normal>ٰ</rule>تِ",
             "عَصۡفًا ۙ‏",
             "٢"
         ],
         "3": [
-            "وَّ<rule class='ham_wasl'>ا</rule><rule class='laam_shamsiyah'>ل</rule><rule class='ghunnah'>نّ</rule>ٰ</rule><rule class='madda_normal'>شِرٰ</rule><rule class='madda_normal'>تِ",
+            "وَّ<rule class='ham_wasl'>ا</rule><rule class='laam_shamsiyah'>ل</rule><rule class='ghunnah'>نّ</rule><rule class='madda_normal'>ٰ</rule>شِر<rule class='madda_normal'>ٰ</rule>تِ",
             "نَشۡرًا ۙ‏",
             "٣"
         ],
         "4": [
-            "فَ<rule class=ham_wasl>ا</rule>لۡفٰ</rule><rule class=madda_normal>رِقٰ</rule><rule class=madda_normal>تِ",
+            "فَ<rule class=ham_wasl>ا</rule>لۡف<rule class=madda_normal>ٰ</rule>رِق<rule class=madda_normal>ٰ</rule>تِ",
             "فَرۡقًا ۙ‏",
             "٤"
         ],
         "5": [
-            "فَ<rule class=ham_wasl>ا</rule>لۡمُلۡقِيٰ</rule><rule class=madda_normal>تِ",
+            "فَ<rule class=ham_wasl>ا</rule>لۡمُلۡقِي<rule class=madda_normal>ٰ</rule>تِ",
             "ذِكۡرًا ۙ‏",
             "٥"
         ],
@@ -34,7 +34,7 @@
         "7": [
             "اِ<rule class=ghunnah>نّ</rule>َمَا",
             "تُوۡعَدُوۡنَ",
-            "لَوَ<rule class='madda_normal'>ا</rule>قِعٌ ؕ‏",
+            "لَو<rule class='madda_normal'>َا</rule>قِعٌ ؕ‏",
             "٧"
         ],
         "8": [
@@ -45,7 +45,7 @@
         ],
         "9": [
             "وَ اِذَا",
-            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّمَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءُ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّم<rule class=madda_obligatory_mottasel>َا</rule>ٓءُ",
             "فُرِجَتۡۙ‏",
             "٩"
         ],

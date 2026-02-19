@@ -84,7 +84,7 @@ def verify_integrity(source_dir, tagged_dir, error_log_path):
              os.remove(error_log_path) # Clean up old log
 
 if __name__ == "__main__":
-    base_path = "/Users/ismailhosen/dev/indopak_script_with_tajweed"
+    base_path = "/home/ismail/dev/indopak_script_with_tajweed"
     # Note: Using the original indopak script directory as source.
     # Even if it has tags (due to previous overwrite), strip_tags(source) will clean it.
     source_dir = os.path.join(base_path, "quran_parts/indopak_script")

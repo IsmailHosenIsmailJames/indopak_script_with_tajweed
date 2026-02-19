@@ -40,21 +40,21 @@
             "فَاِذَا",
             "نُقِرَ",
             "فِى",
-            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule><rule class=ghunnah>نّ</rule>َاقُ<rule class=madda_permissible>و</rule>ۡرِۙ‏",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule><rule class=ghunnah>نّ</rule>َاق<rule class=madda_permissible>ُو</rule>ۡرِۙ‏",
             "٨"
         ],
         "9": [
-            "فَذٰ</rule><rule class='madda_normal'>لِكَ",
+            "فَذ<rule class='madda_normal'>ٰ</rule>لِكَ",
             "يَوۡمَٮِٕ<rule class=idgham_ghunnah>ذٍ</rule>",
             "<rule class=idgham_ghunnah>ي</rule>َّوۡمٌ",
-            "عَسِ<rule class=madda_permissible>ي</rule>ۡرٌۙ‏",
+            "عَس<rule class=madda_permissible>ِي</rule>ۡرٌۙ‏",
             "٩"
         ],
         "10": [
             "عَلَى",
-            "<rule class=ham_wasl>ا</rule>لۡكٰ</rule><rule class=madda_normal>فِرِيۡنَ",
+            "<rule class=ham_wasl>ا</rule>لۡك<rule class=madda_normal>ٰ</rule>فِرِيۡنَ",
             "غَيۡرُ",
-            "يَسِ<rule class=madda_permissible>ي</rule>ۡرٍ‏",
+            "يَس<rule class=madda_permissible>ِي</rule>ۡرٍ‏",
             "١٠"
         ]
     }

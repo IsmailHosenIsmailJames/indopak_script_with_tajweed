@@ -105,16 +105,33 @@ def transfer_tags_span_based(qpc_word, indopak_word):
             new_end = max(target_indices)
             
             # Heuristic: If the tag starts with a combining mark (diacritic)
-            # and the previous character is NOT in the tag, move start forward.
-            # This prevents breaking the visual connection between a letter and its diacritics.
-            while new_start <= new_end and new_start < len(indopak_text):
-                char = indopak_text[new_start]
-                if unicodedata.category(char) == 'Mn': # Mark, Nonspacing
-                    # Check if previous char exists and is visually connected?
-                    # Generally, we don't want to start a tag on a mark.
-                    new_start += 1
-                else:
-                    break
+            # that belongs to a letter BEFORE the span, move start forward.
+            # BUT preserve diacritics that are intentional parts of the rule:
+            #   1. If the original QPC span started with Mn (e.g. kasrah in
+            #      madda_permissible ِي), keep them.
+            #   2. If skipping would eliminate ALL characters (e.g. ٰ for
+            #      madda_normal where TATWEEL was deleted), restore and keep.
+            orig_starts_with_mark = (
+                span['start'] < len(qpc_text) and
+                unicodedata.category(qpc_text[span['start']]) == 'Mn'
+            )
+            
+            if not orig_starts_with_mark:
+                saved_start = new_start
+                while new_start <= new_end and new_start < len(indopak_text):
+                    char = indopak_text[new_start]
+                    if unicodedata.category(char) == 'Mn':
+                        new_start += 1
+                    else:
+                        break
+                # If skipping eliminated everything, the span IS about
+                # the diacritics (e.g. ٰ for madda_normal) — restore.
+                if new_start > new_end:
+                    new_start = saved_start
+            
+            # Guard: skip span if start got pushed past end (prevents orphaned tags)
+            if new_start > new_end:
+                continue
             
             # Add to list
             new_spans.append({
@@ -122,7 +139,6 @@ def transfer_tags_span_based(qpc_word, indopak_word):
                 'end': new_end,
                 'open': span['open'],
                 'close': span['close'],
-                # Keep original order/priority??
                 'orig_start': span['start'],
                 'orig_len': span['end'] - span['start']
             })
@@ -257,7 +273,7 @@ def process_file_v2(indopak_path, qpc_path, output_path):
         traceback.print_exc()
 
 if __name__ == "__main__":
-    base_path = "/Users/ismailhosen/dev/indopak_script_with_tajweed"
+    base_path = "/home/ismail/dev/indopak_script_with_tajweed"
     indopak_dir = os.path.join(base_path, "quran_parts/indopak_script")
     qpc_dir = os.path.join(base_path, "quran_parts/qpc_hafs_tajweed")
     output_dir = os.path.join(base_path, "quran_parts/indopak_with_tajweed_output")

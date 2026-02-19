@@ -2,17 +2,17 @@
     "111": {
         "1": [
             "تَبَّتۡ",
-            "يَدَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "يَد<rule class=madda_obligatory_monfasel>َاۤ</rule>",
             "اَبِىۡ",
             "لَهَ<rule class=idgham_ghunnah>بٍ</rule>",
             "<rule class=idgham_ghunnah>و</rule>َّتَ<rule class=qalaqah>ب</rule>َّؕ‏",
             "١"
         ],
         "2": [
-            "مَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "م<rule class=madda_obligatory_monfasel>َاۤ</rule>",
             "اَغۡنٰى",
             "عَنۡهُ",
-            "مَالُهٗ</rule><rule class=madda_normal>",
+            "مَالُه<rule class=madda_normal>ٗ</rule>",
             "وَمَا",
             "كَسَ<rule class=qalaqah>ب</rule>َؕ‏",
             "٢"
@@ -34,7 +34,7 @@
             "فِىۡ",
             "جِيۡدِهَا",
             "حَ<rule class=qalaqah>بۡ</rule><rule class=idgham_ghunnah>لٌ</rule>",
-            "<rule class=idgham_ghunnah>م</rule>ِّ<rule class=idgham_ghunnah>ن</rule>ۡ",
+            "<rule class=idgham_ghunnah>م</rule>ّ<rule class=idgham_ghunnah>ِن</rule>ۡ",
             "<rule class=idgham_ghunnah>م</rule>َّسَ<rule class=qalaqah>د</rule>ٍ‏",
             "٥"
         ]

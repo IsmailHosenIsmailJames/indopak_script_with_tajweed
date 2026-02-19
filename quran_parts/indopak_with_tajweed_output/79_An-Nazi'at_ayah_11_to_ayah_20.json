@@ -19,18 +19,18 @@
             "فَاِ<rule class=ghunnah>نّ</rule>َمَا",
             "هِىَ",
             "زَ<rule class=qalaqah>جۡ</rule>رَ<rule class=idgham_ghunnah>ةٌ</rule>",
-            "<rule class='idgham_ghunnah'>و</rule>َّ<rule class='madda_normal'>ا</rule>حِدَةٌ ۙ‏",
+            "<rule class='idgham_ghunnah'>و</rule><rule class='madda_normal'>َّا</rule>حِدَةٌ ۙ‏",
             "١٣"
         ],
         "14": [
             "فَاِذَا",
-            "هُ<rule class=ikhafa_shafawi>م</rule>ۡ",
+            "ه<rule class=ikhafa_shafawi>ُم</rule>ۡ",
             "<rule class=ikhafa_shafawi>ب</rule>ِ<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّاهِرَةِ ؕ‏",
             "١٤"
         ],
         "15": [
             "هَلۡ",
-            "اَتٰ</rule><rule class=madda_normal>ٮكَ",
+            "اَت<rule class=madda_normal>ٰ</rule>ٮكَ",
             "حَدِيۡثُ",
             "مُوۡسٰى​ۘ‏",
             "١٥"
@@ -38,7 +38,7 @@
         "16": [
             "اِذۡ",
             "نَادٰ<rule class=madda_normal>ٮ</rule>هُ",
-            "رَبُّهٗ</rule><rule class=madda_normal>",
+            "رَبُّه<rule class=madda_normal>ٗ</rule>",
             "بِ<rule class=ham_wasl>ا</rule>لۡوَادِ",
             "<rule class=ham_wasl>ا</rule>لۡمُقَدَّسِ",
             "طُوًى​ۚ‏",
@@ -48,7 +48,7 @@
             "اِذۡهَ<rule class=qalaqah>بۡ</rule>",
             "اِلٰى",
             "فِرۡعَوۡنَ",
-            "اِ<rule class=ghunnah>نّ</rule>َهٗ</rule><rule class=madda_normal>",
+            "اِ<rule class=ghunnah>نّ</rule>َه<rule class=madda_normal>ٗ</rule>",
             "طَغٰى ۖ‏",
             "١٧"
         ],
@@ -56,7 +56,7 @@
             "فَقُلۡ",
             "هَلۡ",
             "لَّكَ",
-            "اِلٰٓ</rule><rule class=madda_obligatory_monfasel>ى",
+            "اِل<rule class=madda_obligatory_monfasel>ٰٓ</rule>ى",
             "اَ<rule class=ikhafa>ن</rule>ۡ",
             "<rule class=ikhafa>ت</rule>َزَكّٰى ۙ‏",
             "١٨"

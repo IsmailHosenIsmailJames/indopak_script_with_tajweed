@@ -8,7 +8,7 @@
             "٣١"
         ],
         "32": [
-            "وَلٰ</rule><rule class=madda_normal>ڪِ<rule class=ikhafa>ن</rule>ۡ",
+            "وَل<rule class=madda_normal>ٰ</rule>ڪِ<rule class=ikhafa>ن</rule>ۡ",
             "<rule class=ikhafa>ك</rule>َذَّبَ",
             "وَتَوَلّٰىۙ‏",
             "٣٢"
@@ -16,8 +16,8 @@
         "33": [
             "ثُ<rule class=ghunnah>مّ</rule>َ",
             "ذَهَبَ",
-            "اِلٰٓ</rule><rule class=madda_obligatory_monfasel>ى",
-            "اَهۡلِهٖ</rule><rule class=madda_normal>",
+            "اِل<rule class=madda_obligatory_monfasel>ٰٓ</rule>ى",
+            "اَهۡلِه<rule class=madda_normal>ٖ</rule>",
             "يَتَمَطّٰىؕ‏",
             "٣٣"
         ],
@@ -37,7 +37,7 @@
         "36": [
             "اَيَحۡسَبُ",
             "<rule class=ham_wasl>ا</rule>لۡاِ<rule class=ikhafa>نۡس</rule>َ<rule class=madda_normal>ا</rule>نُ",
-            "اَ<rule class=idgham_ghunnah>ن</rule>ۡ",
+            "ا<rule class=idgham_ghunnah>َن</rule>ۡ",
             "<rule class=idgham_ghunnah>ي</rule>ُّتۡرَكَ",
             "سُدًىؕ‏",
             "٣٦"
@@ -46,7 +46,7 @@
             "اَلَمۡ",
             "يَكُ",
             "نُ<rule class=qalaqah>طۡ</rule>فَ<rule class=idgham_ghunnah>ةً</rule>",
-            "<rule class=idgham_ghunnah>م</rule>ِّ<rule class=idgham_ghunnah>ن</rule>ۡ",
+            "<rule class=idgham_ghunnah>م</rule>ّ<rule class=idgham_ghunnah>ِن</rule>ۡ",
             "<rule class=idgham_ghunnah>م</rule>َّنِ<rule class=idgham_ghunnah>ىٍّ</rule>",
             "<rule class=idgham_ghunnah>ي</rule>ُّمۡنٰىۙ‏",
             "٣٧"
@@ -69,10 +69,10 @@
         ],
         "40": [
             "اَلَيۡسَ",
-            "ذٰ</rule><rule class='madda_normal'>لِكَ",
-            "بِقٰ</rule><rule class=madda_normal>دِرٍ",
-            "عَلٰٓ</rule><rule class=madda_obligatory_monfasel>ى",
-            "اَ<rule class=idgham_ghunnah>ن</rule>ۡ",
+            "ذ<rule class='madda_normal'>ٰ</rule>لِكَ",
+            "بِق<rule class=madda_normal>ٰ</rule>دِرٍ",
+            "عَل<rule class=madda_obligatory_monfasel>ٰٓ</rule>ى",
+            "ا<rule class=idgham_ghunnah>َن</rule>ۡ",
             "<rule class=idgham_ghunnah>ي</rule>ُّحۡـىِۦَ",
             "<rule class=ham_wasl>ا</rule>لۡمَوۡتٰى‏",
             "٤٠"

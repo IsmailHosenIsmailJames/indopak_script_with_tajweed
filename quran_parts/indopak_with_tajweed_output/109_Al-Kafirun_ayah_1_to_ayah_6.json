@@ -3,26 +3,26 @@
         "1": [
             "قُلۡ",
             "يٰۤ<rule class=madda_obligatory_mottasel>ا</rule>َيُّهَا",
-            "<rule class=ham_wasl>ا</rule>لۡكٰ</rule><rule class=madda_normal>فِرُ<rule class=madda_permissible>و</rule>ۡنَۙ‏",
+            "<rule class=ham_wasl>ا</rule>لۡك<rule class=madda_normal>ٰ</rule>فِر<rule class=madda_permissible>ُو</rule>ۡنَۙ‏",
             "١"
         ],
         "2": [
-            "لَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "ل<rule class=madda_obligatory_monfasel>َاۤ</rule>",
             "اَعۡبُدُ",
             "مَا",
-            "تَعۡبُدُ<rule class=madda_permissible>و</rule>ۡنَۙ‏",
+            "تَعۡبُد<rule class=madda_permissible>ُو</rule>ۡنَۙ‏",
             "٢"
         ],
         "3": [
-            "وَلَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "وَل<rule class=madda_obligatory_monfasel>َاۤ</rule>",
             "اَ<rule class=ikhafa>نۡـت</rule>ُمۡ",
-            "عٰ</rule><rule class=madda_normal>بِدُوۡنَ",
-            "مَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "ع<rule class=madda_normal>ٰ</rule>بِدُوۡنَ",
+            "م<rule class=madda_obligatory_monfasel>َاۤ</rule>",
             "اَعۡبُ<rule class=qalaqah>د</rule>ُ​ ۚ‏",
             "٣"
         ],
         "4": [
-            "وَلَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "وَل<rule class=madda_obligatory_monfasel>َاۤ</rule>",
             "اَنَا",
             "عَابِ<rule class=idgham_ghunnah>دٌ</rule>",
             "<rule class=idgham_ghunnah>م</rule>َّا",
@@ -33,7 +33,7 @@
             "وَ",
             "لَ<rule class=ikhafa>اۤ</rule>",
             "اَنۡ<rule class=madda_normal>ـت</rule>ُمۡ",
-            "عٰبِدُوۡنَ</rule><rule class=madda_obligatory_monfasel>",
+            "عٰبِدُوۡن<rule class=madda_obligatory_monfasel>َ</rule>",
             "مَاۤ اَعۡبُ<rule class=qalaqah>د</rule>ُ ؕ‏",
             "٥"
         ],
@@ -41,7 +41,7 @@
             "لَـكُمۡ",
             "دِيۡنُكُمۡ",
             "وَلِىَ",
-            "دِ<rule class=madda_permissible>ي</rule>ۡنِ‏",
+            "د<rule class=madda_permissible>ِي</rule>ۡنِ‏",
             "٦"
         ]
     }

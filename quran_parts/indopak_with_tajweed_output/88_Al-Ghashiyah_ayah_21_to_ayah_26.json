@@ -2,14 +2,14 @@
     "88": {
         "21": [
             "فَذَكِّرۡؕ",
-            "اِ<rule class=ghunnah>نّ</rule>َمَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "اِ<rule class=ghunnah>نّ</rule>َم<rule class=madda_obligatory_monfasel>َاۤ</rule>",
             "اَ<rule class=ikhafa>نۡت</rule>َ",
             "مُذَكِّرٌ ؕ‏",
             "٢١"
         ],
         "22": [
             "لَـسۡتَ",
-            "عَلَيۡهِ<rule class=ikhafa_shafawi>م</rule>ۡ",
+            "عَلَيۡه<rule class=ikhafa_shafawi>ِم</rule>ۡ",
             "<rule class=ikhafa_shafawi>ب</rule>ِمُصَۜيۡطِرٍۙ‏",
             "٢٢"
         ],
@@ -29,7 +29,7 @@
         ],
         "25": [
             "اِ<rule class=ghunnah>نّ</rule>َ",
-            "اِلَيۡنَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "اِلَيۡن<rule class=madda_obligatory_monfasel>َاۤ</rule>",
             "اِيَابَهُمۡۙ‏",
             "٢٥"
         ],

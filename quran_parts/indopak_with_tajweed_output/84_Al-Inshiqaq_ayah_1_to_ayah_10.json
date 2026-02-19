@@ -2,7 +2,7 @@
     "84": {
         "1": [
             "اِذَا",
-            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّمَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءُ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّم<rule class=madda_obligatory_mottasel>َا</rule>ٓءُ",
             "<rule class=ham_wasl>ا</rule><rule class=ikhafa>نْش</rule>َقَّتۡۙ‏",
             "١"
         ],
@@ -39,14 +39,14 @@
             "اِلٰى",
             "رَبِّكَ",
             "كَ<rule class=qalaqah>دۡ</rule><rule class=ikhafa>حًا</rule>",
-            "<rule class=ikhafa>ف</rule>َمُلٰ</rule><rule class=madda_normal>قِ<rule class=madda_permissible>ي</rule>ۡهِ​ۚ‏ ﻿﻿",
+            "<rule class=ikhafa>ف</rule>َمُل<rule class=madda_normal>ٰ</rule>ق<rule class=madda_permissible>ِي</rule>ۡهِ​ۚ‏ ﻿﻿",
             "٦"
         ],
         "7": [
             "فَاَ<rule class=ghunnah>مّ</rule>َا",
             "مَنۡ",
             "اُوۡتِىَ",
-            "كِتٰ</rule><rule class=madda_normal>بَهٗ</rule><rule class=madda_normal>",
+            "كِت<rule class=madda_normal>ٰ</rule>بَه<rule class=madda_normal>ٗ</rule>",
             "بِيَمِيۡنِهٖۙ‏",
             "٧"
         ],
@@ -59,8 +59,8 @@
         ],
         "9": [
             "وَّيَ<rule class=ikhafa>نۡق</rule>َلِبُ",
-            "اِلٰٓ</rule><rule class=madda_obligatory_monfasel>ى",
-            "اَهۡلِهٖ</rule><rule class=madda_normal>",
+            "اِل<rule class=madda_obligatory_monfasel>ٰٓ</rule>ى",
+            "اَهۡلِه<rule class=madda_normal>ٖ</rule>",
             "مَسۡرُوۡرًا ؕ‏",
             "٩"
         ],
@@ -68,8 +68,8 @@
             "وَاَ<rule class=ghunnah>مّ</rule>َا",
             "مَنۡ",
             "اُوۡتِىَ",
-            "كِتٰ</rule><rule class=madda_normal>بَهٗ</rule><rule class=madda_normal>",
-            "وَرَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءَ",
+            "كِت<rule class=madda_normal>ٰ</rule>بَه<rule class=madda_normal>ٗ</rule>",
+            "وَر<rule class=madda_obligatory_mottasel>َا</rule>ٓءَ",
             "ظَهۡرِهٖۙ‏",
             "١٠"
         ]

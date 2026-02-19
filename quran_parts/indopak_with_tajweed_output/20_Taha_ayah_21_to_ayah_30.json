@@ -16,10 +16,10 @@
             "اِلَىٰ",
             "جَنَاحِكَ",
             "تَخۡرُ<rule class=qalaqah>جۡ</rule>",
-            "بَيۡضَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءَ",
+            "بَيۡض<rule class=madda_obligatory_mottasel>َا</rule>ٓءَ",
             "مِنۡ",
             "غَيۡرِ",
-            "سُ<rule class=madda_obligatory_mottasel>و</rule>ۡٓءٍ",
+            "س<rule class=madda_obligatory_mottasel>ُو</rule>ۡٓءٍ",
             "اٰيَةً",
             "اُخۡرٰىۙ‏",
             "٢٢"
@@ -27,7 +27,7 @@
         "23": [
             "لِنُرِيَكَ",
             "مِنۡ",
-            "اٰيٰ</rule><rule class=madda_normal>تِنَا",
+            "اٰي<rule class=madda_normal>ٰ</rule>تِنَا",
             "<rule class=ham_wasl>ا</rule>لۡـكُ<rule class=qalaqah>بۡ</rule>ـرٰى​ۚ‏",
             "٢٣"
         ],
@@ -35,7 +35,7 @@
             "اِذۡهَ<rule class=qalaqah>بۡ</rule>",
             "اِلٰى",
             "فِرۡعَوۡنَ",
-            "اِ<rule class=ghunnah>نّ</rule>َهٗ</rule><rule class=madda_normal>",
+            "اِ<rule class=ghunnah>نّ</rule>َه<rule class=madda_normal>ٗ</rule>",
             "طَغٰى‏",
             "٢٤"
         ],
@@ -49,14 +49,14 @@
         ],
         "26": [
             "وَيَسِّرۡ",
-            "لِ<rule class=madda_obligatory_monfasel>ىۡۤ</rule>",
+            "ل<rule class=madda_obligatory_monfasel>ِىۡۤ</rule>",
             "اَمۡرِىْ ۙ‏",
             "٢٦"
         ],
         "27": [
             "وَ<rule class=ham_wasl>ا</rule>حۡلُلۡ",
             "عُ<rule class=qalaqah>قۡ</rule>دَ<rule class=idgham_ghunnah>ةً</rule>",
-            "<rule class=idgham_ghunnah>م</rule>ِّ<rule class=idgham_wo_ghunnah>ن</rule>ۡ",
+            "<rule class=idgham_ghunnah>م</rule>ّ<rule class=idgham_wo_ghunnah>ِن</rule>ۡ",
             "<rule class=idgham_wo_ghunnah>ل</rule>ِّسَانِیْ ۙ‏",
             "٢٧"
         ],
@@ -74,7 +74,7 @@
             "٢٩"
         ],
         "30": [
-            "هٰ</rule><rule class=madda_normal>رُوۡنَ",
+            "ه<rule class=madda_normal>ٰ</rule>رُوۡنَ",
             "اَخِى ۙ‏",
             "٣٠"
         ]

@@ -23,11 +23,11 @@
         "83": [
             "اَلَمۡ",
             "تَرَ",
-            "اَ<rule class=ghunnah>نّ</rule>َ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "اَ<rule class=ghunnah>نّ</rule><rule class=madda_obligatory_monfasel>َاۤ</rule>",
             "اَرۡسَلۡنَا",
             "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>شَّيٰ<rule class=madda_normal>ـ</rule>طِيۡنَ",
             "عَلَى",
-            "<rule class=ham_wasl>ا</rule>لۡكٰ</rule><rule class=madda_normal>فِرِيۡنَ",
+            "<rule class=ham_wasl>ا</rule>لۡك<rule class=madda_normal>ٰ</rule>فِرِيۡنَ",
             "تَؤُزُّهُمۡ",
             "اَزًّا ۙ‏",
             "٨٣"
@@ -47,7 +47,7 @@
             "نَحۡشُرُ",
             "<rule class=ham_wasl>ا</rule>لۡمُتَّقِيۡنَ",
             "اِلَى",
-            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>رَّحۡمٰ</rule><rule class=madda_normal>نِ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>رَّحۡم<rule class=madda_normal>ٰ</rule>نِ",
             "وَفۡدًا​ ۙ‏",
             "٨٥"
         ],
@@ -67,14 +67,14 @@
             "مَنِ",
             "<rule class=ham_wasl>ا</rule>تَّخَذَ",
             "عِ<rule class=ikhafa>نۡد</rule>َ",
-            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>رَّحۡمٰ</rule><rule class=madda_normal>نِ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>رَّحۡم<rule class=madda_normal>ٰ</rule>نِ",
             "عَهۡدًا​ ۘ‏",
             "٨٧"
         ],
         "88": [
             "وَقَالُوۡ<rule class=slnt>ا</rule>",
             "<rule class=ham_wasl>ا</rule>تَّخَذَ",
-            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>رَّحۡمٰ</rule><rule class=madda_normal>نُ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>رَّحۡم<rule class=madda_normal>ٰ</rule>نُ",
             "وَلَدًا ؕ‏",
             "٨٨"
         ],
@@ -87,7 +87,7 @@
         ],
         "90": [
             "تَكَادُ",
-            "<rule class='ham_wasl'>ا</rule><rule class='laam_shamsiyah'>ل</rule>سَّمٰ</rule><rule class='madda_normal'>وٰ</rule><rule class='madda_normal'>تُ",
+            "<rule class='ham_wasl'>ا</rule><rule class='laam_shamsiyah'>ل</rule>سَّم<rule class='madda_normal'>ٰ</rule>و<rule class='madda_normal'>ٰ</rule>تُ",
             "يَتَفَطَّرۡنَ",
             "مِنۡهُ",
             "وَتَـ<rule class=ikhafa>نۡش</rule>َقُّ",

@@ -1,7 +1,7 @@
 {
     "102": {
         "1": [
-            "اَلۡهٰ</rule><rule class=madda_normal>ٮكُمُ",
+            "اَلۡه<rule class=madda_normal>ٰ</rule>ٮكُمُ",
             "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>تَّكَاثُرُۙ‏",
             "١"
         ],
@@ -14,14 +14,14 @@
         "3": [
             "كَلَّا",
             "سَوۡفَ",
-            "تَعۡلَمُ<rule class=madda_permissible>و</rule>ۡنَۙ‏",
+            "تَعۡلَم<rule class=madda_permissible>ُو</rule>ۡنَۙ‏",
             "٣"
         ],
         "4": [
             "ثُ<rule class=ghunnah>مّ</rule>َ",
             "كَلَّا",
             "سَوۡفَ",
-            "تَعۡلَمُ<rule class=madda_permissible>و</rule>ۡنَؕ‏",
+            "تَعۡلَم<rule class=madda_permissible>ُو</rule>ۡنَؕ‏",
             "٤"
         ],
         "5": [
@@ -29,19 +29,19 @@
             "لَوۡ",
             "تَعۡلَمُوۡنَ",
             "عِلۡمَ",
-            "<rule class=ham_wasl>ا</rule>لۡيَقِ<rule class=madda_permissible>ي</rule>ۡنِؕ‏",
+            "<rule class=ham_wasl>ا</rule>لۡيَق<rule class=madda_permissible>ِي</rule>ۡنِؕ‏",
             "٥"
         ],
         "6": [
             "لَتَرَوُ<rule class=ghunnah>نّ</rule>َ",
-            "<rule class=ham_wasl>ا</rule>لۡجَحِ<rule class=madda_permissible>ي</rule>ۡمَۙ‏",
+            "<rule class=ham_wasl>ا</rule>لۡجَح<rule class=madda_permissible>ِي</rule>ۡمَۙ‏",
             "٦"
         ],
         "7": [
             "ثُ<rule class=ghunnah>مّ</rule>َ",
             "لَتَرَوُ<rule class=ghunnah>نّ</rule>َهَا",
             "عَيۡنَ",
-            "<rule class=ham_wasl>ا</rule>لۡيَقِ<rule class=madda_permissible>ي</rule>ۡنِۙ‏",
+            "<rule class=ham_wasl>ا</rule>لۡيَق<rule class=madda_permissible>ِي</rule>ۡنِۙ‏",
             "٧"
         ],
         "8": [
@@ -49,7 +49,7 @@
             "لَـتُسۡـَٔـلُ<rule class=ghunnah>نّ</rule>َ",
             "يَوۡمَٮِٕذٍ",
             "عَنِ",
-            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule><rule class=ghunnah>نّ</rule>َعِ<rule class=madda_permissible>ي</rule>ۡمِ‏",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule><rule class=ghunnah>نّ</rule>َع<rule class=madda_permissible>ِي</rule>ۡمِ‏",
             "٨"
         ]
     }

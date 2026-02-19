@@ -1,16 +1,16 @@
 {
     "90": {
         "1": [
-            "لَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
+            "ل<rule class=madda_obligatory_monfasel>َاۤ</rule>",
             "اُ<rule class=qalaqah>قۡ</rule>سِمُ",
-            "بِهٰ</rule><rule class=madda_normal>ذَا",
+            "بِه<rule class=madda_normal>ٰ</rule>ذَا",
             "<rule class=ham_wasl>ا</rule>لۡبَلَ<rule class=qalaqah>د</rule>ِۙ‏",
             "١"
         ],
         "2": [
             "وَاَ<rule class=ikhafa>نۡت</rule>َ",
-            "حِلٌّ<rule class=iqlab> ۢ</rule>",
-            "<rule class=iqlab>ب</rule>ِهٰ</rule><rule class=madda_normal>ذَا",
+            "حِل<rule class=iqlab>ٌّ ۢ</rule>",
+            "<rule class=iqlab>ب</rule>ِه<rule class=madda_normal>ٰ</rule>ذَا",
             "<rule class=ham_wasl>ا</rule>لۡبَلَ<rule class=qalaqah>د</rule>ِۙ‏",
             "٢"
         ],
@@ -30,8 +30,8 @@
         ],
         "5": [
             "اَيَحۡسَبُ",
-            "اَ<rule class=idgham_wo_ghunnah>ن</rule>ۡ",
-            "<rule class=idgham_wo_ghunnah>ل</rule>َّ<rule class=idgham_ghunnah>ن</rule>ۡ",
+            "ا<rule class=idgham_wo_ghunnah>َن</rule>ۡ",
+            "<rule class=idgham_wo_ghunnah>ل</rule>ّ<rule class=idgham_ghunnah>َن</rule>ۡ",
             "<rule class=idgham_ghunnah>ي</rule>َّ<rule class=qalaqah>قۡ</rule>دِرَ",
             "عَلَيۡهِ",
             "اَحَ<rule class=qalaqah>د</rule>ٌ​ ۘ‏",
@@ -46,16 +46,16 @@
         ],
         "7": [
             "اَيَحۡسَبُ",
-            "اَ<rule class=idgham_wo_ghunnah>ن</rule>ۡ",
+            "ا<rule class=idgham_wo_ghunnah>َن</rule>ۡ",
             "<rule class=idgham_wo_ghunnah>ل</rule>َّمۡ",
-            "يَرَهٗۤ</rule><rule class=madda_obligatory_monfasel>",
+            "يَرَه<rule class=madda_obligatory_monfasel>ٗۤ</rule>",
             "اَحَ<rule class=qalaqah>د</rule>ٌ ؕ‏",
             "٧"
         ],
         "8": [
             "اَلَمۡ",
             "نَ<rule class=qalaqah>جۡ</rule>عَلۡ",
-            "لَّهٗ</rule><rule class=madda_normal>",
+            "لَّه<rule class=madda_normal>ٗ</rule>",
             "عَيۡنَ<rule class=madda_permissible>يۡ</rule>نِۙ‏",
             "٨"
         ],
@@ -65,7 +65,7 @@
             "٩"
         ],
         "10": [
-            "وَهَدَيۡنٰ</rule><rule class=madda_normal>هُ",
+            "وَهَدَيۡن<rule class=madda_normal>ٰ</rule>هُ",
             "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule><rule class=ghunnah>نّ</rule>َ<rule class=qalaqah>جۡ</rule>دَ<rule class=madda_permissible>يۡ</rule>نِ​ۚ‏",
             "١٠"
         ]

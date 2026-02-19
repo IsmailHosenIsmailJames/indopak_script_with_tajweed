@@ -1,7 +1,7 @@
 import difflib
 import re
 import sys
-sys.path.append("/Users/ismailhosen/dev/indopak_script_with_tajweed")
+sys.path.append("/home/ismail/dev/indopak_script_with_tajweed")
 from transfer_tags import parse_qpc_and_spans, transfer_tags_span_based
 
 # Strings from inspect_word.py output

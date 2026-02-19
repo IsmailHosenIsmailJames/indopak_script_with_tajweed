@@ -9,7 +9,7 @@
         "12": [
             "اِذِ",
             "<rule class=ham_wasl>ا</rule><rule class=iqlab>نۡۢب</rule>َعَثَ",
-            "اَشۡقٰ</rule><rule class=madda_normal>ٮهَا  ۙ‏",
+            "اَشۡق<rule class=madda_normal>ٰ</rule>ٮهَا  ۙ‏",
             "١٢"
         ],
         "13": [
@@ -19,7 +19,7 @@
             "<rule class=ham_wasl>ا</rule>للّٰهِ",
             "نَاقَةَ",
             "<rule class=ham_wasl>ا</rule>للّٰهِ",
-            "وَسُ<rule class=qalaqah>قۡ</rule>يٰ</rule><rule class=madda_normal>هَا ؕ‏",
+            "وَسُ<rule class=qalaqah>قۡ</rule>ي<rule class=madda_normal>ٰ</rule>هَا ؕ‏",
             "١٣"
         ],
         "14": [
@@ -27,7 +27,7 @@
             "فَعَقَرُوۡهَا  ",
             "ۙفَدَمۡدَمَ",
             "عَلَيۡهِمۡ",
-            "رَبُّهُ<rule class=ikhafa_shafawi>م</rule>ۡ",
+            "رَبُّه<rule class=ikhafa_shafawi>ُم</rule>ۡ",
             "<rule class=ikhafa_shafawi>ب</rule>ِذَ<rule class=iqlab>نۡۢب</rule>ِهِمۡ",
             "فَسَوّٰ<rule class=madda_normal>ٮ</rule>هَا  ۙ‏",
             "١٤"
@@ -35,7 +35,7 @@
         "15": [
             "وَلَا",
             "يَخَافُ",
-            "عُ<rule class=qalaqah>قۡ</rule>بٰ</rule><rule class=madda_normal>هَا‏",
+            "عُ<rule class=qalaqah>قۡ</rule>ب<rule class=madda_normal>ٰ</rule>هَا‏",
             "١٥"
         ]
     }

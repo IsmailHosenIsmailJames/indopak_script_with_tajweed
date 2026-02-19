@@ -2,7 +2,7 @@
     "88": {
         "1": [
             "هَلۡ",
-            "اَتٰ</rule><rule class=madda_normal>ٮكَ",
+            "اَت<rule class=madda_normal>ٰ</rule>ٮكَ",
             "حَدِيۡثُ",
             "<rule class=ham_wasl>ا</rule>لۡغَ<rule class=madda_normal>ا</rule>شِيَةِؕ‏",
             "١"
@@ -37,7 +37,7 @@
             "طَعَامٌ",
             "اِلَّا",
             "مِ<rule class=ikhafa>ن</rule>ۡ",
-            "<rule class=ikhafa>ض</rule>َرِ<rule class=madda_permissible>ي</rule>ۡعٍۙ‏",
+            "<rule class=ikhafa>ض</rule>َر<rule class=madda_permissible>ِي</rule>ۡعٍۙ‏",
             "٦"
         ],
         "7": [
@@ -46,7 +46,7 @@
             "وَلَا",
             "يُغۡنِىۡ",
             "مِ<rule class=ikhafa>ن</rule>ۡ",
-            "<rule class=ikhafa>ج</rule>ُ<rule class=madda_permissible>و</rule>ۡعٍؕ‏",
+            "<rule class=ikhafa>ج</rule><rule class=madda_permissible>ُو</rule>ۡعٍؕ‏",
             "٧"
         ],
         "8": [

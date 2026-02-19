@@ -1,22 +1,22 @@
 {
     "51": {
         "1": [
-            "وَ<rule class='ham_wasl'>ا</rule><rule class='laam_shamsiyah'>ل</rule>ذّٰ</rule><rule class='madda_normal'>رِيٰ</rule><rule class='madda_normal'>تِ",
+            "وَ<rule class='ham_wasl'>ا</rule><rule class='laam_shamsiyah'>ل</rule>ذّ<rule class='madda_normal'>ٰ</rule>رِي<rule class='madda_normal'>ٰ</rule>تِ",
             "ذَرۡوًا ۙ‏",
             "١"
         ],
         "2": [
-            "فَ<rule class=ham_wasl>ا</rule>لۡحٰ</rule><rule class=madda_normal>مِلٰ</rule><rule class=madda_normal>تِ",
+            "فَ<rule class=ham_wasl>ا</rule>لۡح<rule class=madda_normal>ٰ</rule>مِل<rule class=madda_normal>ٰ</rule>تِ",
             "وِ<rule class=qalaqah>قۡ</rule>رًا ۙ‏",
             "٢"
         ],
         "3": [
-            "فَ<rule class=ham_wasl>ا</rule>لۡجٰ</rule><rule class=madda_normal>رِيٰ</rule><rule class=madda_normal>تِ",
+            "فَ<rule class=ham_wasl>ا</rule>لۡج<rule class=madda_normal>ٰ</rule>رِي<rule class=madda_normal>ٰ</rule>تِ",
             "يُسۡرًا ۙ‏",
             "٣"
         ],
         "4": [
-            "فَ<rule class=ham_wasl>ا</rule>لۡمُقَسِّمٰ</rule><rule class=madda_normal>تِ",
+            "فَ<rule class=ham_wasl>ا</rule>لۡمُقَسِّم<rule class=madda_normal>ٰ</rule>تِ",
             "اَمۡرًا ۙ‏",
             "٤"
         ],
@@ -33,7 +33,7 @@
             "٦"
         ],
         "7": [
-            "وَ<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّمَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءِ",
+            "وَ<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّم<rule class=madda_obligatory_mottasel>َا</rule>ٓءِ",
             "ذَاتِ",
             "<rule class=ham_wasl>ا</rule>لۡحُـبُكِ ۙ‏",
             "٧"
@@ -54,7 +54,7 @@
         ],
         "10": [
             "قُتِلَ",
-            "<rule class='ham_wasl'>ا</rule>لۡخَـرّٰ</rule><rule class='madda_normal'>صُ<rule class='madda_permissible'>و</rule>ۡنَۙ‏",
+            "<rule class='ham_wasl'>ا</rule>لۡخَـرّ<rule class='madda_normal'>ٰ</rule>ص<rule class='madda_permissible'>ُو</rule>ۡنَۙ‏",
             "١٠"
         ]
     }
