@@ -1,7 +1,7 @@
 {
     "90": {
         "1": [
-            "ل<rule class=madda_obligatory_monfasel>َاۤ</rule>",
+            "لَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
             "اُ<rule class=qalaqah>قۡ</rule>سِمُ",
             "بِه<rule class=madda_normal>ٰ</rule>ذَا",
             "<rule class=ham_wasl>ا</rule>لۡبَلَ<rule class=qalaqah>د</rule>ِۙ‏",
@@ -9,7 +9,7 @@
         ],
         "2": [
             "وَاَ<rule class=ikhafa>نۡت</rule>َ",
-            "حِل<rule class=iqlab>ٌّ ۢ</rule>",
+            "حِلٌّ<rule class=iqlab> ۢ</rule>",
             "<rule class=iqlab>ب</rule>ِه<rule class=madda_normal>ٰ</rule>ذَا",
             "<rule class=ham_wasl>ا</rule>لۡبَلَ<rule class=qalaqah>د</rule>ِۙ‏",
             "٢"
@@ -30,8 +30,8 @@
         ],
         "5": [
             "اَيَحۡسَبُ",
-            "ا<rule class=idgham_wo_ghunnah>َن</rule>ۡ",
-            "<rule class=idgham_wo_ghunnah>ل</rule>ّ<rule class=idgham_ghunnah>َن</rule>ۡ",
+            "اَ<rule class=idgham_wo_ghunnah>ن</rule>ۡ",
+            "<rule class=idgham_wo_ghunnah>ل</rule>َّ<rule class=idgham_ghunnah>ن</rule>ۡ",
             "<rule class=idgham_ghunnah>ي</rule>َّ<rule class=qalaqah>قۡ</rule>دِرَ",
             "عَلَيۡهِ",
             "اَحَ<rule class=qalaqah>د</rule>ٌ​ ۘ‏",
@@ -46,7 +46,7 @@
         ],
         "7": [
             "اَيَحۡسَبُ",
-            "ا<rule class=idgham_wo_ghunnah>َن</rule>ۡ",
+            "اَ<rule class=idgham_wo_ghunnah>ن</rule>ۡ",
             "<rule class=idgham_wo_ghunnah>ل</rule>َّمۡ",
             "يَرَه<rule class=madda_obligatory_monfasel>ٗۤ</rule>",
             "اَحَ<rule class=qalaqah>د</rule>ٌ ؕ‏",

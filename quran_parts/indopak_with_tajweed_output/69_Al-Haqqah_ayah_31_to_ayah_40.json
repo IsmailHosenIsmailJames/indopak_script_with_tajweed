@@ -3,7 +3,7 @@
         "31": [
             "ثُ<rule class=ghunnah>مّ</rule>َ",
             "<rule class=ham_wasl>ا</rule>لۡجَحِيۡمَ",
-            "صَلّ<rule class=madda_permissible>ُو</rule>ۡهُ ۙ‏",
+            "صَلُّ<rule class=madda_permissible>و</rule>ۡهُ ۙ‏",
             "٣١"
         ],
         "32": [
@@ -13,7 +13,7 @@
             "<rule class=ikhafa>ذ</rule>َرۡعُهَا",
             "سَ<rule class=qalaqah>بۡ</rule>عُوۡنَ",
             "ذِرَا<rule class=ikhafa>عًا</rule>",
-            "<rule class=ikhafa>ف</rule>َ<rule class=ham_wasl>ا</rule>سۡلُك<rule class=madda_permissible>ُو</rule>ۡهُ ؕ‏",
+            "<rule class=ikhafa>ف</rule>َ<rule class=ham_wasl>ا</rule>سۡلُكُ<rule class=madda_permissible>و</rule>ۡهُ ؕ‏",
             "٣٢"
         ],
         "33": [
@@ -22,7 +22,7 @@
             "لَا",
             "يُؤۡمِنُ",
             "بِ<rule class=ham_wasl>ا</rule>للّٰهِ",
-            "<rule class=ham_wasl>ا</rule>لۡعَظ<rule class=madda_permissible>ِي</rule>ۡمِۙ‏",
+            "<rule class=ham_wasl>ا</rule>لۡعَظِ<rule class=madda_permissible>ي</rule>ۡمِۙ‏",
             "٣٣"
         ],
         "34": [
@@ -30,7 +30,7 @@
             "يَحُضُّ",
             "عَلٰى",
             "طَعَامِ",
-            "<rule class=ham_wasl>ا</rule>لۡمِسۡك<rule class=madda_permissible>ِي</rule>ۡنِؕ‏",
+            "<rule class=ham_wasl>ا</rule>لۡمِسۡكِ<rule class=madda_permissible>ي</rule>ۡنِؕ‏",
             "٣٤"
         ],
         "35": [
@@ -38,7 +38,7 @@
             "لَـهُ",
             "<rule class=ham_wasl>ا</rule>لۡيَوۡمَ",
             "ه<rule class=madda_normal>ٰ</rule>هُنَا",
-            "حَم<rule class=madda_permissible>ِي</rule>ۡمٌۙ‏",
+            "حَمِ<rule class=madda_permissible>ي</rule>ۡمٌۙ‏",
             "٣٥"
         ],
         "36": [
@@ -46,34 +46,34 @@
             "طَعَامٌ",
             "اِلَّا",
             "مِنۡ",
-            "غِسۡل<rule class=madda_permissible>ِي</rule>ۡنٍۙ‏",
+            "غِسۡلِ<rule class=madda_permissible>ي</rule>ۡنٍۙ‏",
             "٣٦"
         ],
         "37": [
             "لَّا",
             "يَاۡكُلُه<rule class=madda_obligatory_monfasel>ٗۤ</rule>",
             "اِلَّا",
-            "<rule class=ham_wasl>ا</rule>لۡخ<rule class=madda_normal>ٰ</rule>طِئ<rule class=madda_permissible>ُو</rule>ْنَ‏",
+            "<rule class=ham_wasl>ا</rule>لۡخ<rule class=madda_normal>ٰ</rule>طِئُ<rule class=madda_permissible>و</rule>ْنَ‏",
             "٣٧"
         ],
         "38": [
-            "فَل<rule class=madda_obligatory_monfasel>َاۤ</rule>",
+            "فَلَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
             "اُ<rule class=qalaqah>قۡ</rule>سِمُ",
             "بِمَا",
-            "تُ<rule class=qalaqah>بۡ</rule>صِر<rule class=madda_permissible>ُو</rule>ۡنَۙ‏",
+            "تُ<rule class=qalaqah>بۡ</rule>صِرُ<rule class=madda_permissible>و</rule>ۡنَۙ‏",
             "٣٨"
         ],
         "39": [
             "وَمَا",
             "لَا",
-            "تُ<rule class=qalaqah>بۡ</rule>صِر<rule class=madda_permissible>ُو</rule>ۡنَۙ‏",
+            "تُ<rule class=qalaqah>بۡ</rule>صِرُ<rule class=madda_permissible>و</rule>ۡنَۙ‏",
             "٣٩"
         ],
         "40": [
             "اِ<rule class=ghunnah>نّ</rule>َه<rule class=madda_normal>ٗ</rule>",
             "لَقَوۡلُ",
             "رَسُوۡ<rule class=ikhafa>لٍ</rule>",
-            "<rule class=ikhafa>ك</rule>َر<rule class=madda_permissible>ِي</rule>ۡمٍۚ ۙ‏",
+            "<rule class=ikhafa>ك</rule>َرِ<rule class=madda_permissible>ي</rule>ۡمٍۚ ۙ‏",
             "٤٠"
         ]
     }

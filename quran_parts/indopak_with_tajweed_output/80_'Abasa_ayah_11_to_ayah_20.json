@@ -1,14 +1,14 @@
 {
     "80": {
         "11": [
-            "كَلّ<rule class=madda_obligatory_monfasel>َاۤ</rule>",
+            "كَلَّ<rule class=madda_obligatory_monfasel>اۤ</rule>",
             "اِ<rule class=ghunnah>نّ</rule>َهَا",
             "تَذۡكِرَةٌ ۚ‏",
             "١١"
         ],
         "12": [
             "فَمَ<rule class=ikhafa>ن</rule>ۡ",
-            "<rule class=ikhafa>ش</rule><rule class=madda_obligatory_mottasel>َا</rule>ٓءَ",
+            "<rule class=ikhafa>ش</rule>َ<rule class=madda_obligatory_mottasel>ا</rule>ٓءَ",
             "ذَكَرَهٗ​ۘ‏",
             "١٢"
         ],
@@ -36,7 +36,7 @@
         "17": [
             "قُتِلَ",
             "<rule class=ham_wasl>ا</rule>لۡاِ<rule class=ikhafa>نۡس</rule>َ<rule class=madda_normal>ا</rule>نُ",
-            "م<rule class=madda_obligatory_monfasel>َاۤ</rule>",
+            "مَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
             "اَكۡفَرَهٗؕ‏",
             "١٧"
         ],
@@ -48,7 +48,7 @@
             "١٨"
         ],
         "19": [
-            "م<rule class=idgham_ghunnah>ِن</rule>ۡ",
+            "مِ<rule class=idgham_ghunnah>ن</rule>ۡ",
             "<rule class=idgham_ghunnah>ن</rule>ُّ<rule class=qalaqah>طۡ</rule>فَةٍؕ",
             "خَلَقَه<rule class=madda_normal>ٗ</rule>",
             "فَقَدَّرَهٗ ۙ‏",

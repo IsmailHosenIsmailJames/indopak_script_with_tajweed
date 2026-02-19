@@ -22,7 +22,7 @@
             "كُلُوۡ<rule class=slnt>ا</rule>",
             "وَ<rule class=ham_wasl>ا</rule>شۡرَبُوۡ<rule class=slnt>ا</rule>",
             "هَنِ<rule class=madda_obligatory_mottasel>يۡٓـ</rule>ـ<rule class=iqlab>ـًٔا ۢ</rule>",
-            "<rule class=iqlab>ب</rule>ِم<rule class=madda_obligatory_monfasel>َاۤ</rule>",
+            "<rule class=iqlab>ب</rule>ِمَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
             "اَسۡلَفۡتُمۡ",
             "فِى",
             "<rule class=ham_wasl>ا</rule>لۡاَيَّامِ",
@@ -34,7 +34,7 @@
             "مَنۡ",
             "اُوۡتِىَ",
             "كِت<rule class=madda_normal>ٰ</rule>بَه<rule class=madda_normal>ٗ</rule>",
-            "بِشِمَالِه<rule class=madda_normal>ٖ  ۙ</rule>",
+            "بِشِمَالِهٖ<rule class=madda_normal>  ۙ</rule>",
             "فَيَقُوۡلُ",
             "ي<rule class=madda_normal>ٰ</rule>لَيۡتَنِىۡ",
             "لَمۡ",
@@ -56,7 +56,7 @@
             "٢٧"
         ],
         "28": [
-            "م<rule class=madda_obligatory_monfasel>َاۤ</rule>",
+            "مَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
             "اَغۡنٰى",
             "عَ<rule class=ghunnah>نّ</rule>ِىۡ",
             "مَالِيَهۡۚ‏",
@@ -70,7 +70,7 @@
         ],
         "30": [
             "خُذُوۡهُ",
-            "فَغُلّ<rule class=madda_permissible>ُو</rule>ۡهُ ۙ‏",
+            "فَغُلُّ<rule class=madda_permissible>و</rule>ۡهُ ۙ‏",
             "٣٠"
         ]
     }

@@ -104,30 +104,22 @@ def transfer_tags_span_based(qpc_word, indopak_word):
             new_start = min(target_indices)
             new_end = max(target_indices)
             
-            # Heuristic: If the tag starts with a combining mark (diacritic)
-            # that belongs to a letter BEFORE the span, move start forward.
-            # BUT preserve diacritics that are intentional parts of the rule:
-            #   1. If the original QPC span started with Mn (e.g. kasrah in
-            #      madda_permissible ِي), keep them.
-            #   2. If skipping would eliminate ALL characters (e.g. ٰ for
-            #      madda_normal where TATWEEL was deleted), restore and keep.
-            orig_starts_with_mark = (
-                span['start'] < len(qpc_text) and
-                unicodedata.category(qpc_text[span['start']]) == 'Mn'
-            )
-            
-            if not orig_starts_with_mark:
-                saved_start = new_start
-                while new_start <= new_end and new_start < len(indopak_text):
-                    char = indopak_text[new_start]
-                    if unicodedata.category(char) == 'Mn':
-                        new_start += 1
-                    else:
-                        break
-                # If skipping eliminated everything, the span IS about
-                # the diacritics (e.g. ٰ for madda_normal) — restore.
-                if new_start > new_end:
-                    new_start = saved_start
+            # Heuristic: skip leading combining marks (diacritics like kasrah,
+            # fathah) that belong to the PREVIOUS base letter. This moves them
+            # outside the rule tag so they render correctly in IndoPak font.
+            # Safety: if skipping would eliminate ALL characters (e.g. ٰ for
+            # madda_normal where TATWEEL was deleted), restore them.
+            saved_start = new_start
+            while new_start <= new_end and new_start < len(indopak_text):
+                char = indopak_text[new_start]
+                if unicodedata.category(char) == 'Mn':
+                    new_start += 1
+                else:
+                    break
+            # If skipping eliminated everything, the span IS about
+            # the diacritics (e.g. ٰ for madda_normal) — restore.
+            if new_start > new_end:
+                new_start = saved_start
             
             # Guard: skip span if start got pushed past end (prevents orphaned tags)
             if new_start > new_end:

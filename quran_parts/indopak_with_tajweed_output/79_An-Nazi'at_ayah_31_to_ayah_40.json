@@ -3,7 +3,7 @@
         "31": [
             "اَخۡرَجَ",
             "مِنۡهَا",
-            "م<rule class=madda_obligatory_mottasel>َا</rule>ٓءَهَا",
+            "مَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءَهَا",
             "وَمَرۡع<rule class=madda_normal>ٰ</rule>ٮهَا‏",
             "٣١"
         ],
@@ -20,8 +20,8 @@
         ],
         "34": [
             "فَاِذَا",
-            "ج<rule class=madda_obligatory_mottasel>َا</rule>ٓءَتِ",
-            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>طّ<rule class=madda_necessary>َا</rule>ٓ<rule class=ghunnah>مّ</rule>َةُ",
+            "جَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءَتِ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>طَّ<rule class=madda_necessary>ا</rule>ٓ<rule class=ghunnah>مّ</rule>َةُ",
             "<rule class=ham_wasl>ا</rule>لۡكُ<rule class=qalaqah>بۡ</rule>رٰى ۖ‏",
             "٣٤"
         ],
@@ -36,7 +36,7 @@
         "36": [
             "وَبُرِّزَتِ",
             "<rule class=ham_wasl>ا</rule>لۡجَحِيۡمُ",
-            "لِم<rule class=idgham_ghunnah>َن</rule>ۡ",
+            "لِمَ<rule class=idgham_ghunnah>ن</rule>ۡ",
             "<rule class=idgham_ghunnah>ي</rule>َّرٰى‏",
             "٣٦"
         ],

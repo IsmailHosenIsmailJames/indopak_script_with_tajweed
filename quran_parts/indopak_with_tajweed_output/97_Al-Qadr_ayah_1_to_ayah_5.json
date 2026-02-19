@@ -1,7 +1,7 @@
 {
     "97": {
         "1": [
-            "اِ<rule class=ghunnah>نّ</rule><rule class=madda_obligatory_monfasel>َاۤ</rule>",
+            "اِ<rule class=ghunnah>نّ</rule>َ<rule class=madda_obligatory_monfasel>اۤ</rule>",
             "اَ<rule class=ikhafa>نۡز</rule>َلۡن<rule class=madda_normal>ٰ</rule>هُ",
             "فِىۡ",
             "لَيۡلَةِ",
@@ -9,7 +9,7 @@
             "١"
         ],
         "2": [
-            "وَم<rule class=madda_obligatory_monfasel>َاۤ</rule>",
+            "وَمَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
             "اَ<rule class=qalaqah>دۡ</rule>رٰ<rule class=madda_normal>ٮ</rule>كَ",
             "مَا",
             "لَيۡلَةُ",
@@ -31,7 +31,7 @@
             "وَ<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>رُّوۡحُ",
             "فِيۡهَا",
             "بِاِذۡنِ",
-            "رَبِّه<rule class=idgham_shafawi>ِم</rule>ۡ​ۚ",
+            "رَبِّهِ<rule class=idgham_shafawi>م</rule>ۡ​ۚ",
             "<rule class=idgham_shafawi>م</rule>ِّ<rule class=ikhafa>ن</rule>ۡ",
             "<rule class=ikhafa>ك</rule>ُلِّ",
             "اَمۡرٍ ۛۙ‏",

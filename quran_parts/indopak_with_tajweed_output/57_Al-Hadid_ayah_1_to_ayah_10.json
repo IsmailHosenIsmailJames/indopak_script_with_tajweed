@@ -9,7 +9,7 @@
             "وَ<rule class=ham_wasl>ا</rule>لۡاَرۡضِ​ۚ",
             "وَهُوَ",
             "<rule class=ham_wasl>ا</rule>لۡعَزِيۡزُ",
-            "<rule class=ham_wasl>ا</rule>لۡحَك<rule class=madda_permissible>ِي</rule>ۡمُ‏ ﻿﻿",
+            "<rule class=ham_wasl>ا</rule>لۡحَكِ<rule class=madda_permissible>ي</rule>ۡمُ‏ ﻿﻿",
             "١"
         ],
         "2": [
@@ -22,8 +22,8 @@
             "وَهُوَ",
             "عَلٰى",
             "كُلِّ",
-            "ش<rule class=ikhafa>َىۡءٍ</rule>",
-            "<rule class=ikhafa>ق</rule>َد<rule class=madda_permissible>ِي</rule>ۡرٌ‏",
+            "شَ<rule class=ikhafa>ىۡءٍ</rule>",
+            "<rule class=ikhafa>ق</rule>َدِ<rule class=madda_permissible>ي</rule>ۡرٌ‏",
             "٢"
         ],
         "3": [
@@ -35,7 +35,7 @@
             "وَهُوَ",
             "بِكُلِّ",
             "شَىۡءٍ",
-            "عَل<rule class=madda_permissible>ِي</rule>ۡمٌ‏",
+            "عَلِ<rule class=madda_permissible>ي</rule>ۡمٌ‏",
             "٣"
         ],
         "4": [
@@ -62,7 +62,7 @@
             "وَمَا",
             "يَ<rule class=ikhafa>نۡز</rule>ِلُ",
             "مِنَ",
-            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّم<rule class=madda_obligatory_mottasel>َا</rule>ٓءِ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّمَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءِ",
             "وَمَا",
             "يَعۡرُجُ",
             "فِيۡهَاؕ",
@@ -74,7 +74,7 @@
             "وَ<rule class=ham_wasl>ا</rule>للّٰهُ",
             "بِمَا",
             "تَعۡمَلُوۡنَ",
-            "بَص<rule class=madda_permissible>ِي</rule>ۡرٌ‏",
+            "بَصِ<rule class=madda_permissible>ي</rule>ۡرٌ‏",
             "٤"
         ],
         "5": [
@@ -85,7 +85,7 @@
             "وَاِلَى",
             "<rule class=ham_wasl>ا</rule>للّٰهِ",
             "تُرۡجَعُ",
-            "<rule class=ham_wasl>ا</rule>لۡاُم<rule class=madda_permissible>ُو</rule>ۡرُ‏ ﻿﻿",
+            "<rule class=ham_wasl>ا</rule>لۡاُمُ<rule class=madda_permissible>و</rule>ۡرُ‏ ﻿﻿",
             "٥"
         ],
         "6": [
@@ -100,7 +100,7 @@
             "وَهُوَ",
             "عَلِيۡ<rule class=iqlab>مٌۢ</rule>",
             "<rule class=iqlab>ب</rule>ِذَاتِ",
-            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>صُّد<rule class=madda_permissible>ُو</rule>ۡرِ‏",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>صُّدُ<rule class=madda_permissible>و</rule>ۡرِ‏",
             "٦"
         ],
         "7": [
@@ -109,7 +109,7 @@
             "وَرَسُوۡلِه<rule class=madda_normal>ٖ</rule>",
             "وَاَ<rule class=ikhafa>نۡف</rule>ِقُوۡ<rule class=slnt>ا</rule>",
             "مِ<rule class=ghunnah>مّ</rule>َا",
-            "جَعَلَـك<rule class=idgham_shafawi>ُم</rule>ۡ",
+            "جَعَلَـكُ<rule class=idgham_shafawi>م</rule>ۡ",
             "<rule class=idgham_shafawi>م</rule>ُّسۡتَخۡلَفِيۡنَ",
             "فِيۡهِ​ؕ",
             "فَ<rule class=ham_wasl>ا</rule>لَّذِيۡنَ",
@@ -118,7 +118,7 @@
             "وَاَ<rule class=ikhafa>نۡف</rule>َقُوۡ<rule class=slnt>ا</rule>",
             "لَهُمۡ",
             "اَ<rule class=qalaqah>جۡ</rule><rule class=ikhafa>رٌ</rule>",
-            "<rule class=ikhafa>ك</rule>َب<rule class=madda_permissible>ِي</rule>ۡرٌ‏",
+            "<rule class=ikhafa>ك</rule>َبِ<rule class=madda_permissible>ي</rule>ۡرٌ‏",
             "٧"
         ],
         "8": [
@@ -135,8 +135,8 @@
             "اَخَذَ",
             "مِيۡثَ<rule class=madda_normal>ا</rule>قَكُمۡ",
             "اِ<rule class=ikhafa>ن</rule>ۡ",
-            "<rule class=ikhafa>ك</rule>ُ<rule class=ikhafa>نۡت</rule><rule class=idgham_shafawi>ُم</rule>ۡ",
-            "<rule class=idgham_shafawi>م</rule>ُّؤۡمِن<rule class=madda_permissible>ِي</rule>ۡنَ‏",
+            "<rule class=ikhafa>ك</rule>ُ<rule class=ikhafa>نۡت</rule>ُ<rule class=idgham_shafawi>م</rule>ۡ",
+            "<rule class=idgham_shafawi>م</rule>ُّؤۡمِنِ<rule class=madda_permissible>ي</rule>ۡنَ‏",
             "٨"
         ],
         "9": [
@@ -147,7 +147,7 @@
             "عَ<rule class=qalaqah>بۡ</rule>دِه<rule class=madda_obligatory_monfasel>ٖۤ</rule>",
             "اٰي<rule class=madda_normal>ٰ</rule><rule class=iqlab>تٍۭ</rule>",
             "<rule class=iqlab>ب</rule>َيِّن<rule class=madda_normal>ٰ</rule><rule class=idgham_wo_ghunnah>تٍ</rule>",
-            "<rule class=idgham_wo_ghunnah>ل</rule>ِّيُخۡرِجَك<rule class=idgham_shafawi>ُم</rule>ۡ",
+            "<rule class=idgham_wo_ghunnah>ل</rule>ِّيُخۡرِجَكُ<rule class=idgham_shafawi>م</rule>ۡ",
             "<rule class=idgham_shafawi>م</rule>ِّنَ",
             "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>ظُّلُم<rule class=madda_normal>ٰ</rule>تِ",
             "اِلَى",
@@ -156,7 +156,7 @@
             "<rule class=ham_wasl>ا</rule>للّٰهَ",
             "بِكُمۡ",
             "لَرَءُوۡ<rule class=idgham_wo_ghunnah>فٌ</rule>",
-            "<rule class=idgham_wo_ghunnah>ر</rule>َّح<rule class=madda_permissible>ِي</rule>ۡمٌ‏",
+            "<rule class=idgham_wo_ghunnah>ر</rule>َّحِ<rule class=madda_permissible>ي</rule>ۡمٌ‏",
             "٩"
         ],
         "10": [
@@ -168,12 +168,12 @@
             "سَبِيۡلِ",
             "<rule class=ham_wasl>ا</rule>للّٰهِ",
             "وَلِلّٰهِ",
-            "مِيۡـر<rule class='madda_normal'>َا</rule>ثُ",
+            "مِيۡـرَ<rule class='madda_normal'>ا</rule>ثُ",
             "<rule class='ham_wasl'>ا</rule><rule class='laam_shamsiyah'>ل</rule>سَّم<rule class='madda_normal'>ٰ</rule>و<rule class='madda_normal'>ٰ</rule>تِ",
             "وَ<rule class=ham_wasl> ا</rule>لۡاَرۡضِ​ؕ",
             "لَا",
             "يَسۡتَوِىۡ",
-            "مِ<rule class=ikhafa>نۡك</rule><rule class=idgham_shafawi>ُم</rule>ۡ",
+            "مِ<rule class=ikhafa>نۡك</rule>ُ<rule class=idgham_shafawi>م</rule>ۡ",
             "<rule class=idgham_shafawi>م</rule>َّنۡ",
             "اَ<rule class=ikhafa>نۡف</rule>َقَ",
             "مِ<rule class=ikhafa>ن</rule>ۡ",
@@ -186,7 +186,7 @@
             "<rule class=idgham_ghunnah>م</rule>ِّنَ",
             "<rule class=ham_wasl>ا</rule>لَّذِيۡنَ",
             "اَ<rule class=ikhafa>نۡف</rule>َقُوۡ<rule class=slnt>ا</rule>",
-            "م<rule class=iqlab>ِنۡۢ</rule>",
+            "مِ<rule class=iqlab>نۡۢ</rule>",
             "<rule class=iqlab>ب</rule>َعۡدُ",
             "وَقَ<rule class=madda_normal>ا</rule>تَلُوۡ<rule class=slnt>ا​ ؕ</rule>",
             "وَكُل<rule class=idgham_ghunnah>ًّ</rule>ا",
@@ -196,7 +196,7 @@
             "وَ<rule class=ham_wasl>ا</rule>للّٰهُ",
             "بِمَا",
             "تَعۡمَلُوۡنَ",
-            "خَب<rule class=madda_permissible>ِي</rule>ۡرٌ‏",
+            "خَبِ<rule class=madda_permissible>ي</rule>ۡرٌ‏",
             "١٠"
         ]
     }

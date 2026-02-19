@@ -1,19 +1,19 @@
 {
     "69": {
         "1": [
-            "اَلۡح<rule class=madda_necessary>َـا</rule>ٓقَّةُ ۙ‏",
+            "اَلۡحَ<rule class=madda_necessary>ـا</rule>ٓقَّةُ ۙ‏",
             "١"
         ],
         "2": [
             "مَا",
-            "<rule class=ham_wasl>ا</rule>لۡح<rule class=madda_necessary>َـا</rule>ٓقَّةُ​ ۚ‏",
+            "<rule class=ham_wasl>ا</rule>لۡحَ<rule class=madda_necessary>ـا</rule>ٓقَّةُ​ ۚ‏",
             "٢"
         ],
         "3": [
-            "وَم<rule class=madda_obligatory_monfasel>َاۤ</rule>",
+            "وَمَ<rule class=madda_obligatory_monfasel>اۤ</rule>",
             "اَ<rule class=qalaqah>دۡ</rule>رٰ<rule class=madda_normal>ٮ</rule>كَ",
             "مَا",
-            "<rule class=ham_wasl>ا</rule>لۡح<rule class=madda_necessary>َــا</rule>ٓقَّةُ ؕ‏",
+            "<rule class=ham_wasl>ا</rule>لۡحَ<rule class=madda_necessary>ــا</rule>ٓقَّةُ ؕ‏",
             "٣"
         ],
         "4": [
@@ -60,13 +60,13 @@
         "8": [
             "فَهَلۡ",
             "تَرٰى",
-            "لَه<rule class=idgham_shafawi>ُم</rule>ۡ",
-            "<rule class=idgham_shafawi>م</rule>ّ<rule class=iqlab>ِنۡۢ</rule>",
+            "لَهُ<rule class=idgham_shafawi>م</rule>ۡ",
+            "<rule class=idgham_shafawi>م</rule>ِّ<rule class=iqlab>نۡۢ</rule>",
             "<rule class=iqlab>ب</rule>َاقِيَةٍ‏",
             "٨"
         ],
         "9": [
-            "وَج<rule class=madda_obligatory_mottasel>َا</rule>ٓءَ",
+            "وَجَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءَ",
             "فِرۡعَوۡنُ",
             "وَمَ<rule class=ikhafa>ن</rule>ۡ",
             "<rule class=ikhafa>ق</rule>َ<rule class=qalaqah>بۡ</rule>لَه<rule class=madda_normal>ٗ</rule>",

@@ -25,14 +25,14 @@
         ],
         "25": [
             "تَظُ<rule class=ghunnah>نّ</rule>ُ",
-            "ا<rule class=idgham_ghunnah>َن</rule>ۡ",
+            "اَ<rule class=idgham_ghunnah>ن</rule>ۡ",
             "<rule class=idgham_ghunnah>ي</rule>ُّفۡعَلَ",
             "بِهَا",
             "فَاقِرَةٌ ؕ‏",
             "٢٥"
         ],
         "26": [
-            "كَلّ<rule class=madda_obligatory_monfasel>َاۤ</rule>",
+            "كَلَّ<rule class=madda_obligatory_monfasel>اۤ</rule>",
             "اِذَا",
             "بَلَغَتِ",
             "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>تَّرَاقِىَۙ‏",
@@ -40,27 +40,27 @@
         ],
         "27": [
             "وَقِيۡلَ",
-            "م<rule class=idgham_wo_ghunnah>َنۡ</rule>",
-            "<rule class=idgham_wo_ghunnah>ر</rule><rule class=madda_permissible>َا</rule><rule class=qalaqah>ق</rule>ٍۙ‏",
+            "مَ<rule class=idgham_wo_ghunnah>نۡ</rule>",
+            "<rule class=idgham_wo_ghunnah>ر</rule>َ<rule class=madda_permissible>ا</rule><rule class=qalaqah>ق</rule>ٍۙ‏",
             "٢٧"
         ],
         "28": [
             "وَّظَ<rule class=ghunnah>نّ</rule>َ",
             "اَ<rule class=ghunnah>نّ</rule>َهُ",
-            "<rule class=ham_wasl>ا</rule>لۡفِر<rule class=madda_permissible>َا</rule><rule class=qalaqah>ق</rule>ُۙ‏",
+            "<rule class=ham_wasl>ا</rule>لۡفِرَ<rule class=madda_permissible>ا</rule><rule class=qalaqah>ق</rule>ُۙ‏",
             "٢٨"
         ],
         "29": [
             "وَ<rule class=ham_wasl>ا</rule>لۡتَفَّتِ",
             "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّاقُ",
-            "بِ<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سّ<rule class=madda_permissible>َا</rule><rule class=qalaqah>ق</rule>ِۙ‏",
+            "بِ<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّ<rule class=madda_permissible>ا</rule><rule class=qalaqah>ق</rule>ِۙ‏",
             "٢٩"
         ],
         "30": [
             "اِلٰى",
             "رَبِّكَ",
             "يَوۡمَٮِٕذِ",
-            "<rule class=ham_wasl>اۨ</rule>لۡمَس<rule class=madda_permissible>َا</rule><rule class=qalaqah>ق</rule>ُؕ‏",
+            "<rule class=ham_wasl>اۨ</rule>لۡمَسَ<rule class=madda_permissible>ا</rule><rule class=qalaqah>ق</rule>ُؕ‏",
             "٣٠"
         ]
     }

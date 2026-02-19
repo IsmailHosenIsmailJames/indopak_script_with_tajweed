@@ -1,19 +1,19 @@
 {
     "89": {
         "21": [
-            "كَلّ<rule class=madda_obligatory_monfasel>َاۤ</rule>",
+            "كَلَّ<rule class=madda_obligatory_monfasel>اۤ</rule>",
             "اِذَا",
             "دُكَّتِ",
             "<rule class=ham_wasl>ا</rule>لۡاَرۡضُ",
-            "دَك<rule class=ikhafa>ًّا</rule>",
+            "دَكًّ<rule class=ikhafa>ا</rule>",
             "<rule class=ikhafa>د</rule>َكًّا ۙ‏",
             "٢١"
         ],
         "22": [
-            "وَّج<rule class=madda_obligatory_mottasel>َا</rule>ٓءَ",
+            "وَّجَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءَ",
             "رَبُّكَ",
             "وَ<rule class=ham_wasl>ا</rule>لۡمَلَكُ",
-            "صَف<rule class=ikhafa>ًّا</rule>",
+            "صَفًّ<rule class=ikhafa>ا</rule>",
             "<rule class=ikhafa>ص</rule>َفًّا ۚ‏",
             "٢٢"
         ],
@@ -58,7 +58,7 @@
             "٢٧"
         ],
         "28": [
-            "ارۡجِع<rule class=madda_obligatory_monfasel>ِىۡۤ</rule>",
+            "ارۡجِعِ<rule class=madda_obligatory_monfasel>ىۡۤ</rule>",
             "اِلٰى",
             "رَبِّكِ",
             "رَاضِيَ<rule class=idgham_ghunnah>ةً</rule>",

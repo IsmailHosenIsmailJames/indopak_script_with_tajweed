@@ -2,7 +2,7 @@
     "84": {
         "1": [
             "اِذَا",
-            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّم<rule class=madda_obligatory_mottasel>َا</rule>ٓءُ",
+            "<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّمَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءُ",
             "<rule class=ham_wasl>ا</rule><rule class=ikhafa>نْش</rule>َقَّتۡۙ‏",
             "١"
         ],
@@ -39,7 +39,7 @@
             "اِلٰى",
             "رَبِّكَ",
             "كَ<rule class=qalaqah>دۡ</rule><rule class=ikhafa>حًا</rule>",
-            "<rule class=ikhafa>ف</rule>َمُل<rule class=madda_normal>ٰ</rule>ق<rule class=madda_permissible>ِي</rule>ۡهِ​ۚ‏ ﻿﻿",
+            "<rule class=ikhafa>ف</rule>َمُل<rule class=madda_normal>ٰ</rule>قِ<rule class=madda_permissible>ي</rule>ۡهِ​ۚ‏ ﻿﻿",
             "٦"
         ],
         "7": [
@@ -69,7 +69,7 @@
             "مَنۡ",
             "اُوۡتِىَ",
             "كِت<rule class=madda_normal>ٰ</rule>بَه<rule class=madda_normal>ٗ</rule>",
-            "وَر<rule class=madda_obligatory_mottasel>َا</rule>ٓءَ",
+            "وَرَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءَ",
             "ظَهۡرِهٖۙ‏",
             "١٠"
         ]

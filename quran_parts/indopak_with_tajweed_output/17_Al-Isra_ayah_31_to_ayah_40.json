@@ -2,7 +2,7 @@
     "17": {
         "31": [
             "وَلَا",
-            "تَ<rule class=qalaqah>قۡ</rule>تُل<rule class=madda_obligatory_mottasel>ُوۡۤ</rule><rule class=slnt>ا</rule>",
+            "تَ<rule class=qalaqah>قۡ</rule>تُلُ<rule class=madda_obligatory_mottasel>وۡۤ</rule><rule class=slnt>ا</rule>",
             "اَوۡلَ<rule class=madda_normal>ا</rule>دَكُمۡ",
             "خَشۡيَةَ",
             "اِمۡلَ<rule class=madda_normal>ا</rule><rule class=idgham_ghunnah>قٍ​ؕ</rule>",
@@ -23,7 +23,7 @@
             "اِ<rule class=ghunnah>نّ</rule>َه<rule class=madda_normal>ٗ</rule>",
             "كَانَ",
             "فَ<rule class=madda_normal>ا</rule>حِشَ<rule class=idgham_ghunnah>ةً</rule>  ؕ",
-            "<rule class=idgham_ghunnah>و</rule>َس<rule class=madda_obligatory_mottasel>َا</rule>ٓءَ",
+            "<rule class=idgham_ghunnah>و</rule>َسَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءَ",
             "سَبِيۡلًا‏ ﻿﻿",
             "٣٢"
         ],
@@ -133,7 +133,7 @@
         ],
         "39": [
             "ذ<rule class='madda_normal'>ٰ</rule> لِكَ",
-            "مِ<rule class=ghunnah>مّ</rule><rule class=madda_obligatory_monfasel>َاۤ</rule>",
+            "مِ<rule class=ghunnah>مّ</rule>َ<rule class=madda_obligatory_monfasel>اۤ</rule>",
             "اَوۡحٰۤ<rule class=madda_obligatory_monfasel>ى</rule>",
             "اِلَيۡكَ",
             "رَبُّكَ",
@@ -154,7 +154,7 @@
         ],
         "40": [
             "اَفَاَصۡف<rule class=madda_normal>ٰ</rule>ٮكُمۡ",
-            "رَبُّك<rule class=ikhafa_shafawi>ُم</rule>ۡ",
+            "رَبُّكُ<rule class=ikhafa_shafawi>م</rule>ۡ",
             "<rule class=ikhafa_shafawi>ب</rule>ِ<rule class=ham_wasl>ا</rule>لۡبَـنِيۡنَ",
             "وَ<rule class=ham_wasl> ا</rule>تَّخَذَ",
             "مِنَ",

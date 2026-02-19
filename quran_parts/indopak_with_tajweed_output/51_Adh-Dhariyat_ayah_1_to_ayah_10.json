@@ -33,7 +33,7 @@
             "٦"
         ],
         "7": [
-            "وَ<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّم<rule class=madda_obligatory_mottasel>َا</rule>ٓءِ",
+            "وَ<rule class=ham_wasl>ا</rule><rule class=laam_shamsiyah>ل</rule>سَّمَ<rule class=madda_obligatory_mottasel>ا</rule>ٓءِ",
             "ذَاتِ",
             "<rule class=ham_wasl>ا</rule>لۡحُـبُكِ ۙ‏",
             "٧"
@@ -54,7 +54,7 @@
         ],
         "10": [
             "قُتِلَ",
-            "<rule class='ham_wasl'>ا</rule>لۡخَـرّ<rule class='madda_normal'>ٰ</rule>ص<rule class='madda_permissible'>ُو</rule>ۡنَۙ‏",
+            "<rule class='ham_wasl'>ا</rule>لۡخَـرّ<rule class='madda_normal'>ٰ</rule>صُ<rule class='madda_permissible'>و</rule>ۡنَۙ‏",
             "١٠"
         ]
     }

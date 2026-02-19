@@ -7,7 +7,7 @@
         ],
         "2": [
             "اَ<rule class=ikhafa>ن</rule>ۡ",
-            "<rule class=ikhafa>ج</rule><rule class=madda_obligatory_mottasel>َا</rule>ٓءَهُ",
+            "<rule class=ikhafa>ج</rule>َ<rule class=madda_obligatory_mottasel>ا</rule>ٓءَهُ",
             "<rule class=ham_wasl>ا</rule>لۡاَعۡمٰىؕ‏",
             "٢"
         ],
@@ -47,7 +47,7 @@
         "8": [
             "وَاَ<rule class=ghunnah>مّ</rule>َا",
             "مَ<rule class=ikhafa>ن</rule>ۡ",
-            "<rule class=ikhafa>ج</rule><rule class=madda_obligatory_mottasel>َا</rule>ٓءَكَ",
+            "<rule class=ikhafa>ج</rule>َ<rule class=madda_obligatory_mottasel>ا</rule>ٓءَكَ",
             "يَسۡعٰىۙ‏",
             "٨"
         ],
